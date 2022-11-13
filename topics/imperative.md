@@ -4,7 +4,7 @@
 - [Emphasis of the imperative](#emphasis-of-the-imperative)
     - [Expressed subject](#expressed-subject)
     - [Always and never](#always-and-never)
-    - [Do (urgency)](#do-(urgency))
+    - [Do (urgency)](#do-urgency)
     - [Question tags](#question-tags)
 - [First person singular](#first-person-singular)
 - [Third person singular + plural](#third-person-singular-+-plural)
