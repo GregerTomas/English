@@ -1,12 +1,18 @@
 # Imperative
 
 ## Default imperative
-We use just a verb, nothing else. Singular and plural.. does not matter.
-We use **!** only for a very strong imperatives (otherwise dot is enough).
+We use just a verb, nothing else. Singular and plural, does not matter.
+
+We use **!** only for very strong imperatives (otherwise a dot is enough).
 
 ```
-Come here! (pojď/pojďte) 🛑
-Help me! (pomoz/pomozte)
-Open the door, please. (otevři/otevřte)
-Go home. (běž/běžte)
+Come here! 💡*pojď/pojďte*
+Help me! *pomoz/pomozte*
+Open the door, please. 💡otevři/otevřte
+Go home. 💡běž/běžte
 ```
+
+> Come here! 💡*pojď/pojďte* <br/>
+> Help me! (*pomoz/pomozte*) <br/>
+> Open the door, please. 💡otevři/otevřte <br/>
+> Go home. 💡běž/běžte
