@@ -5,14 +5,14 @@
     - [Frequency and measurement](#frequency-and-measurement)
     - [Manner](#manner)
 - [Adjectives](#adjectives)
-  - [Before a noun](#before-a-noun)
-    - [After the verb](#after-the-verb)
+    - [Before a noun](#before-a-noun)
+        - [After the verb](#after-the-verb)
 - [Two subjects](#two-subjects)
     - [Indirect subject followed by direct subject](#indirect-subject-followed-by-direct-subject)
     - [Direct subject + to/for + indirect subject](#direct-subject--tofor--indirect-subject)
     - [Which type to use](#which-type-to-use)
-      - [End focus](#end-focus)
-      - [End weight](#end-weight)
+        - [End focus](#end-focus)
+        - [End weight](#end-weight)
 
 <hr/>
 
