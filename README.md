@@ -5,6 +5,7 @@
   * [imperative](topics/imperative.md)
 
 ## 😀 Used emojis
+
 | emoji | meaning |
 | ----- | ------- |
 | ✏ | formal English |
