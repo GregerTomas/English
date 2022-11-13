@@ -11,6 +11,7 @@
 | ✏ | formal English |
 | 🗣 | informal/spoken English |
 | 📚 | literary English |
+| 💡| translation |
 
 Prescreened emojis from [unicode.org](https://unicode.org/emoji/charts/full-emoji-list.html).
 ```
