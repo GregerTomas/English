@@ -1,4 +1,4 @@
-# There is / are
+# There is / there are
 
 - [Basics](#basics)
 
