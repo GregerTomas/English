@@ -2,12 +2,12 @@
 
 - [Default imperative](#default-imperative)
 - [Emphasis of the imperative](#emphasis-of-the-imperative)
-    - [Expressed subject](#expressed-subject)
-    - [Always and never](#always-and-never)
-    - [Do (urgency)](#do-urgency)
-    - [Question tags](#question-tags)
-- [First person singular](#first-person-singular)
-- [Third person singular + plural](#third-person-singular--plural)
+  - [Expressed subject](#expressed-subject)
+  - [Always and never](#always-and-never)
+  - [Do (urgency)](#do-urgency)
+  - [Question tags](#question-tags)
+- [First-person singular](#first-person-singular)
+- [Third-person singular + plural](#third-person-singular--plural)
 
 <hr/>
 
@@ -68,7 +68,7 @@ A tag can be negative, then it is more urgent.
 
 <hr/>
 
-## First person singular
+## First-person singular
 
 In this case we use **let's (let us)** and **shall we** as question tag.
 
@@ -89,7 +89,7 @@ Let's (*imperative*) 🆚 let us (*request/application*)
 
 <hr/>
 
-## Third person singular + plural
+## Third-person singular + plural
 
 We can use let as well (💡*ať*).
 
