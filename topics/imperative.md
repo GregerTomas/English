@@ -7,7 +7,7 @@
     - [Do (urgency)](#do-urgency)
     - [Question tags](#question-tags)
 - [First person singular](#first-person-singular)
-- [Third person singular + plural](#third-person-singular-and-plural)
+- [Third person singular and plural](#third-person-singular-and-plural)
 
 <hr/>
 
