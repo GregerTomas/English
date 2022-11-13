@@ -6,6 +6,7 @@
   - [Word order](topics/word-order.md)
   - [There is / there are](topics/there-is-there-are.md)
   - [Imperative](topics/imperative.md)
+  - [Negation](topics/negation.md)
 
 ## 😀 Emojis
 

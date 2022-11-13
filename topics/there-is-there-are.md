@@ -1,10 +1,6 @@
 # There is / there are
 
-- [Basics](#basics)
-
 <hr/>
-
-## Basics
 
 We use there is/are to say that something exists.
 
