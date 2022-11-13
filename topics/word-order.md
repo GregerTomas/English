@@ -9,7 +9,7 @@
     - [After the verb](#after-the-verb)
 - [Two subjects](#two-subjects)
     - [Indirect subject followed by direct subject](#indirect-subject-followed-by-direct-subject)
-    - [Direct subject + to/for + indirect subject](#direct-subject-+-to/for-+-indirect subject)
+    - [Direct subject + to/for + indirect subject](#direct-subject--tofor--indirect-subject)
     - [Which type to use](#which-type-to-use)
       - [End focus](#end-focus)
       - [End weight](#end-weight)

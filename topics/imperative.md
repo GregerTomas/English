@@ -7,7 +7,7 @@
     - [Do (urgency)](#do-urgency)
     - [Question tags](#question-tags)
 - [First person singular](#first-person-singular)
-- [Third person singular and plural](#third-person-singular-and-plural)
+- [Third person singular + plural](#third-person-singular--plural)
 
 <hr/>
 
@@ -89,7 +89,7 @@ Let's (*imperative*) 🆚 let us (*request/application*)
 
 <hr/>
 
-## Third person singular and plural
+## Third person singular + plural
 
 We can use let as well (💡*ať*).
 
