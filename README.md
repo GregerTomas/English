@@ -4,7 +4,7 @@
 
 - **sentence structure**
   - [word order](topics/word-order.md)
-  - [there is / there are](topics/there-is-are.md)
+  - [there is / there are](topics/there-is-there-are.md)
   - [imperative](topics/imperative.md)
 
 ## 😀 Emojis
