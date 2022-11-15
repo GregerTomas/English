@@ -3,10 +3,10 @@
 ## 📂 Topics
 
 - **Sentence structure**
-  - [Word order](topics/word-order.md)
-  - [There is / there are](topics/there-is-there-are.md)
-  - [Imperative](topics/imperative.md)
-  - [Negation](topics/negation.md)
+  - [Word order](topics/sentence-structure/word-order.md)
+  - [There is / there are](topics/sentence-structure/there-is-there-are.md)
+  - [Imperative](topics/sentence-structure/imperative.md)
+  - [Negation](topics/sentence-structure/negation.md)
 
 ## 😀 Emojis
 
