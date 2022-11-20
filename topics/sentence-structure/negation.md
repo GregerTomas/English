@@ -16,7 +16,8 @@
     - [Never](#never)
     - [Until / unless](#until--unless)
     - [Words with negative meaning](#words-with-negative-meaning)
-    - [Ain't](#aint-)
+  - [Ain't](#aint-)
+  - [Usage of negation and really](#usage-of-negation-and-really)
 
 <hr/>
 
@@ -251,30 +252,16 @@ Words like **hardly**, **rarely**, **seldom**, **unlikely**, **fail**, **deny**,
 > I have hardly any money. 💡*Nemám skoro žádné peníze.* <br/>
 > We're unlikely to see anything. 💡*Pravděpodobně nic neuvidíme.* <br/>
 
-### Ain't 🗣
-
-💡*nebýt, není, nejsem, nejsi, ...*
-
-A very informal negative form of the verb **be** and sometimes of other verbs.
-
-> You aren't going anywhere. ➡ You ain't going nowhere. <br/>
-> I haven't got any money. ➡ I ain't got no money. <br/>
-> He hasn't seen anything. ➡ He ain't seen nothing. <br/>
-
-# TODOs
-
-never
-
-##### Really
+### Usage of negation and really
 
 💡*opravdu, vážně, skutečně*
 
-###### positive sentences ➡ still the same meaning
+##### positive sentences ➡ still the same meaning
 
 > I really like it. 💡*Opravdu se mi to líbí.* <br/>
 > She really missed you. 💡*Vážně jsi jí chyběl.* <br/>
 
-###### negative sentences ➡ the meaning depends on the possition
+##### negative sentences ➡ the meaning depends on the possition
 
 * before the negative (strong) 💡*vůbec ne, opravdu ne*
 * after the negative (soft) 💡*ani ne, v podstatě ne, ani moc ne*
@@ -289,3 +276,13 @@ never
 > I don't really want to go with you. <br/>
 > My parents don't really know him. <br/>
 > I'm glad he's been fired. I never really liked him. <br/>
+
+### Ain't 🗣
+
+💡*nebýt, není, nejsem, nejsi, ...*
+
+A very informal negative form of the verb **be** and sometimes of other verbs.
+
+> You aren't going anywhere. ➡ You ain't going nowhere. <br/>
+> I haven't got any money. ➡ I ain't got no money. <br/>
+> He hasn't seen anything. ➡ He ain't seen nothing. <br/>
