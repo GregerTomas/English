@@ -1,9 +1,15 @@
 # Negation
 
 - [Expressing a negation](#expressing-a-negation)
-  - [No](#no)
-  - [No (as determiner)](#no-as-determiner)
-  - [Not](#not)
+    - [No](#no)
+    - [No (as determiner)](#no-as-determiner)
+    - [Not](#not)
+    - [None](#none)
+        - [Phrases](#phrases)
+            - [None of](#none-of)
+            - [None other than](#none-other-than)
+            - [None but](#none-but-)
+            - [None the + comparative](#none-the--comparative)
 
 <hr/>
 
@@ -72,6 +78,52 @@ We are using **not** as a negation of a sentence.
 We are using a phrase **or not** *(💡nebo ne)* as follows:
 > We will go there whether you like it or not. <br/>
 > We could go out. Or not <br/>
+
+### None
+
+pronoun
+
+> He wanted to buy some books, but he got none. *(none = no books)* <br/>
+> I asked my friends for help but none helped me. *(none = no friends)* <br/>
+> Did you drink all the beer? There is none left in the fridge. *(none = no beer)* <br/>
+> 🔴 I have none friends. ➡ 🟢 I have no friends. <br/>
+> 🔴 There is no in the fridge. ➡ 🟢 There is none in the fridge. <br/>
+
+#### Phrases
+
+##### None of
+
+💡*žádný z*
+> None of them helped me. <br/>
+> None of the children brought an umbrella. <br/>
+> None of the money went to charity. <br/>
+> None of the students is/are very smart. <br/>
+
+If we use **none of** with a plural noun, we can then use either singular (✏formal) or plural verb (🗣informal).
+
+##### None other than
+
+💡*nikdo jiný než*
+
+> I realized that the person in front of me was no other than mz mother. <br/>
+> It was revealed that Robert I. was no other than Robert II. <br/>
+
+##### None but ✏
+
+💡*pouze*
+
+✏formal variant of **only**
+
+> He says that French cuisine is for none but the brave. <br/>
+> None but you can help me. <br/>
+
+##### None the + comparative
+
+💡*o nic lepší / moudřejší / ...*
+
+> He is none the better than you. <br/>
+> She did apologize to him, but he felt none the better. <br/>
+> She has explained everything but I'm none the wiser. <br/>
 
 # TODOs
 
