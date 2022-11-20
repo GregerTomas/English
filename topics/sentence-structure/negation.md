@@ -3,6 +3,7 @@
 - [Expressing a negation](#expressing-a-negation)
   - [No](#no)
   - [No (as determiner)](#no-as-determiner)
+  - [Not](#not)
 
 <hr/>
 
@@ -47,6 +48,30 @@ Rarely can be used with a singular noun (except when we want to add emphasis to 
 > She has no child. ➡ She does not have a child. <br/>
 > No child should suffer discrimination. <br/>
 > No question is a stupid question. <br/>
+
+### Not
+
+We are using **not** as a negation of a sentence.
+
+> I am not a good player. <br/>
+> He liked the book but I did not. <br/>
+
+**Not** can stand before:
+
+* noun
+* pronoun
+* adverb
+* adverbial determination
+* fragment (an incomplete sentence)
+
+> Not me. <br/>
+> Not today. <br/>
+> Not now. <br/>
+> I will tell you about it but not here. <br/>
+
+We are using a phrase **or not** *(💡nebo ne)* as follows:
+> We will go there whether you like it or not. <br/>
+> We could go out. Or not <br/>
 
 # TODOs
 
