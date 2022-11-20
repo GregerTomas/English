@@ -13,6 +13,10 @@
             - [None the + comparative](#none-the--comparative)
     - [Neither](#neither)
     - [Nobody / no one / nothing](#nobody--no-one--nothing)
+    - [Never](#never)
+    - [Until / unless](#until--unless)
+    - [Words with negative meaning](#words-with-negative-meaning)
+    - [Ain't](#aint-)
 
 <hr/>
 
@@ -223,6 +227,39 @@ with persons and things, but it must have any context.
 > No one helped me. *(generally)* <br/>
 > I found none. *(context: I was searching for my friends.)* <br/>
 > I found nothing. *(generally)* <br/>
+
+### Never
+
+> I have never been to Italy. <br/>
+
+### Until / unless
+
+💡*dokud a pokud*
+
+We use a positive sentence after both **until** and **unless**.
+
+> We'll wait until you return. 💡*Počkáme, dokud se nevrátíš.* <br/>
+> I won't tell you my name unless you tell me yours. 💡*Neřeknu ti, jak se jmenuju, pokud mi neřekneš, jak se jmenuješ
+ty.* <br/>
+
+### Words with negative meaning
+
+Words like **hardly**, **rarely**, **seldom**, **unlikely**, **fail**, **deny**, ... have a negative meaning.
+
+> I can hardly hear anything. 💡*Skoro nic neslyším.* <br/>
+> Hardly anybody came to the party. 💡*Skoro nikdo nepřišel na párty.* <br/>
+> I have hardly any money. 💡*Nemám skoro žádné peníze.* <br/>
+> We're unlikely to see anything. 💡*Pravděpodobně nic neuvidíme.* <br/>
+
+### Ain't 🗣
+
+💡*nebýt, není, nejsem, nejsi, ...*
+
+A very informal negative form of the verb **be** and sometimes of other verbs.
+
+> You aren't going anywhere. ➡ You ain't going nowhere. <br/>
+> I haven't got any money. ➡ I ain't got no money. <br/>
+> He hasn't seen anything. ➡ He ain't seen nothing. <br/>
 
 # TODOs
 
