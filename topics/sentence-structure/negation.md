@@ -11,6 +11,7 @@
             - [None other than](#none-other-than)
             - [None but](#none-but-)
             - [None the + comparative](#none-the--comparative)
+    - [Neither](#neither)
 
 <hr/>
 
@@ -174,6 +175,34 @@ If we use **none of** with a plural noun, we can then use either singular (✏fo
 > He is none the better than you. <br/>
 > She did apologize to him, but he felt none the better. <br/>
 > She has explained everything but I'm none the wiser. <br/>
+
+### Neither
+
+determiner or pronoun
+
+Almost the similar usage to **no** and **none**, but in this case we talk about two things.
+
+> Neither parent had money to support the child. *(mother or father)* <br/>
+> No parent likes to see their child unhappy. *(parents generally)* <br/>
+
+**Neither** can be used with a singular noun (neither parent), with a preposition (neither of the parents) or as a
+pronoun.
+> Neither eye was damaged. <br/>
+> Neither answer was right. <br/>
+> She liked neither option. <br/>
+> She liked neither of her two math teachers. <br/>
+> Neither of the parents was / were present. <br/>
+> If neither of the teams score/scores, it's a draw. <br/>
+> Which one do you like, the black one or the green one? Neither. <br/>
+> I thought she would kill me or at least hit me, but she did neither. <br/>
+
+As with **none of**, if we use **neither of** with a plural noun, we can then use either singular (✏formal) or plural
+verb (🗣informal).
+
+We can use **neither** together with **nor** (💡*ani to, ani ono*).
+
+> She liked neither the blue one nor the red one. <br/>
+> She neither killed me nor hit me. <br/>
 
 # TODOs
 
