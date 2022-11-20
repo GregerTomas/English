@@ -12,6 +12,7 @@
             - [None but](#none-but-)
             - [None the + comparative](#none-the--comparative)
     - [Neither](#neither)
+    - [Nobody / no one / nothing](#nobody--no-one--nothing)
 
 <hr/>
 
@@ -203,6 +204,25 @@ We can use **neither** together with **nor** (💡*ani to, ani ono*).
 
 > She liked neither the blue one nor the red one. <br/>
 > She neither killed me nor hit me. <br/>
+
+### Nobody / no one / nothing
+
+pronouns
+
+* nobody = no one (*used with persons*) 💡*nikdo, nikoho, nikomu*
+* nothing *(used with things)*💡*nic*
+
+> No one helped me. <br/>
+> She had nothing in her pockets. <br/>
+> I'm sorry. There is nothing I can do about it. <br/>
+
+Pay attention to the difference between **nobody** / **no one** / **nothing** and **none**. **None** can be used both
+with persons and things, but it must have any context.
+
+> None helped me. *(context: I asked my friends for help.)* <br/>
+> No one helped me. *(generally)* <br/>
+> I found none. *(context: I was searching for my friends.)* <br/>
+> I found nothing. *(generally)* <br/>
 
 # TODOs
 
