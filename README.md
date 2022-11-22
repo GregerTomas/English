@@ -8,7 +8,7 @@
   - [Imperative](topics/sentence-structure/imperative.md)
   - [Negation](topics/sentence-structure/negation.md)
 - **Parts of speech**
-  - Determiners
+  - **Determiners**
     - [All, every, none, no, each, either](topics/parts-of-speech/determiners/basic-determiners.md)
 
 ## 😀 Emojis
