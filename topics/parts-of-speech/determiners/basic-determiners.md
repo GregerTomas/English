@@ -2,15 +2,16 @@
 
 - [Each other](#each-other)
 - [Either / neither](#either--neither)
-  - [Expressing agreement or disagreement](#expressing-agreement-or-disagreement)
-  - [So / neither + verb + subject](#so--neither--verb--subject)
-- [Either + or](#either--or)
-  - [Either 🆚 both](#either--both)
-  - [Either way](#either-way)
-- [Neither + nor](#neither--nor)
-  - [Inversion](#inversion)
-  - [Neither 🆚 none](#neither--none)
-- [Both + and](#both--and)
+    - [Expressing agreement or disagreement](#expressing-agreement-or-disagreement)
+        - [So / neither + verb + subject](#so--neither--verb--subject)
+    - [Either + or](#either--or)
+        - [Either 🆚 both](#either--both)
+        - [Either way](#either-way)
+    - [Neither + nor](#neither--nor)
+        - [Inversion](#inversion)
+        - [Neither 🆚 none](#neither--none)
+- [Both](#both)
+- [All](#all)
 
 <hr/>
 
@@ -61,7 +62,7 @@ There are more possibilities how to express agreement or disagreement, see the f
 | So do I.                              | Neither do I.                                | [see also article](#so--neither--verb--subject)             |
 |
 
-### So / neither + verb + subject
+#### So / neither + verb + subject
 
 > I live in Prague. So do I. <br/>
 > Jack is a doctor. So is Peter. <br/>
@@ -74,9 +75,7 @@ There are more possibilities how to express agreement or disagreement, see the f
 
 You can use **nor** instead of **neither** in British English.
 
-<hr/>
-
-## Either + or
+### Either + or
 
 💡buď ... nebo ...
 
@@ -97,7 +96,7 @@ The verb form is determined by the nearer subject.
 > Either Jack or Susan is going to come, but not both of them. <br/>
 > Either Jack or his parents are going to come. <br/>
 
-### Either 🆚 both
+#### Either 🆚 both
 
 **either** (the first one or the second one) 🆚 **both** (both of them)
 
@@ -113,7 +112,7 @@ We use a singular noun after **either** but a plural noun after **both**.
 > There were people standing on either side of the road. <br/>
 > There were people standing on both sides of the road. <br/>
 
-### Either way
+#### Either way
 
 💡tak či onak / ať je to jak chce
 
@@ -125,9 +124,7 @@ a reaction to the previous sentence.
 > You can ask someone for help or do it on your own. Either way, I think you will manage just fine. <br/>
 > Do you want to go dancing or go to the cinema? Either way, we have to go now. <br/>
 
-<hr/>
-
-## Neither + nor
+### Neither + nor
 
 💡ani ... ani ...
 
@@ -143,14 +140,14 @@ As with **either + or**, the verb form is determined by the nearer subject.
 > Neither Jack nor Susan is going to come. <br/>
 > Neither Jack nor his parents are going to come. <br/>
 
-### Inversion
+#### Inversion
 
 If we use **neither + nor** in classic sentences, we must use the inversion.
 
 > 🔴 You can neither stay here nor you can stay at your grandma's. ➡ 🟢 You can neither stay here nor can you stay at your
 > grandma's. *(You can stay neither here nor at your grandma's.)* <br/>
 
-### Neither 🆚 none
+#### Neither 🆚 none
 
 If we talk about two things, we use **neither**, if we talk about more than two things, we use **none**.
 
@@ -161,12 +158,12 @@ If we talk about two things, we use **neither**, if we talk about more than two 
 
 <hr/>
 
-## Both + and
-
-💡jak ... tak ... / i ... i ...
+## Both
 
 If we use **either + or** or **neither + nor**, we express that we want one thing from two or none of them. If we want
 both of them, we use **both + and**.
+
+💡jak ... tak ... / i ... i ...
 
 > What are you going to wear? Both a jumper and a jacket. <br/>
 > I am going to tell both Peter and Susan. <br/>
@@ -176,4 +173,8 @@ The verb from is always plural.
 
 > Both Jack and Susan are going to come. <br/>
 
-We use *all* for more than two things.
+<hr/>
+
+## All
+
+We use *all* as an alternative to both, but for more than two things.
