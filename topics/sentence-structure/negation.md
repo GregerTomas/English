@@ -21,6 +21,7 @@
 - [Transferred negation](#transferred-negation)
 - [Negative concord](#negative-concord)
 - [Double concord](#double-concord)
+
 <hr/>
 
 ## Expressing a negation
@@ -289,8 +290,14 @@ A very informal negative form of the verb **be** and sometimes of other verbs.
 > I haven't got any money. ➡ I ain't got no money. <br/>
 > He hasn't seen anything. ➡ He ain't seen nothing. <br/>
 
+<hr/>
+
 ## Transferred negation
 
+<hr/>
+
 ## Negative concord
+
+<hr/>
 
 ## Double concord

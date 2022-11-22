@@ -7,6 +7,9 @@
   - [There is / there are](topics/sentence-structure/there-is-there-are.md)
   - [Imperative](topics/sentence-structure/imperative.md)
   - [Negation](topics/sentence-structure/negation.md)
+- **Parts of speech**
+  - Determiners
+    - [All, every, none, no, each, either](topics/parts-of-speech/determiners/basic-determiners.md)
 
 ## 😀 Emojis
 
