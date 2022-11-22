@@ -16,9 +16,11 @@
     - [Never](#never)
     - [Until / unless](#until--unless)
     - [Words with negative meaning](#words-with-negative-meaning)
-  - [Ain't](#aint-)
-  - [Usage of negation and really](#usage-of-negation-and-really)
-
+    - [Ain't](#aint-)
+    - [Usage of negation and really](#usage-of-negation-and-really)
+- [Transferred negation](#transferred-negation)
+- [Negative concord](#negative-concord)
+- [Double concord](#double-concord)
 <hr/>
 
 ## Expressing a negation
@@ -286,3 +288,9 @@ A very informal negative form of the verb **be** and sometimes of other verbs.
 > You aren't going anywhere. ➡ You ain't going nowhere. <br/>
 > I haven't got any money. ➡ I ain't got no money. <br/>
 > He hasn't seen anything. ➡ He ain't seen nothing. <br/>
+
+## Transferred negation
+
+## Negative concord
+
+## Double concord
