@@ -11,6 +11,9 @@
             - [None other than](#none-other-than)
             - [None but](#none-but-)
             - [None the + comparative](#none-the--comparative)
+            - ⏳None too + adjective *(💡ne moc, nijak zvlášť)*
+            - ⏳Second to none *(💡bezkonkurenční, nejlepší, nikdo se tomu nevyrovná)*
+            - ⏳Have none of *(💡nedopustit něco, odmítat něco přijmout )*
     - [Neither](#neither)
     - [Nobody / no one / nothing](#nobody--no-one--nothing)
     - [Never](#never)
@@ -184,6 +187,14 @@ If we use **none of** with a plural noun, we can then use either singular (✏fo
 > He is none the better than you. <br/>
 > She did apologize to him, but he felt none the better. <br/>
 > She has explained everything but I'm none the wiser. <br/>
+
+We can use this phrase with the preposition **for** *(💡i přesto, že ...)*. The same meaning has **nonetheless** *(⏳)*.
+
+> She explained it to me, but I was none the wiser for it. <br/>
+> He knew his decision had been the right one, but he felt none the better for it. <br/>
+> He was none the richer for the gift. <br/>
+> I was none the wiser for the information. <br/>
+> I almost died but, in the end, I was none the worse for the experience. <br/>
 
 ### Neither
 

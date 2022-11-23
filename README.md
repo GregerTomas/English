@@ -25,6 +25,7 @@ The following table contains all types of emojis together with their meaning whi
 | ➡     | another possible option, derivation |
 | 🟢    | correct usage                       |
 | 🔴    | incorrect usage                     |
+| ⏳     | to be done                          |
 
 Preselected emojis from [unicode.org](https://unicode.org/emoji/charts/full-emoji-list.html).
 
