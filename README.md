@@ -20,7 +20,7 @@ The following table contains all types of emojis together with their meaning whi
 | ✏     | formal English                      |
 | 🗣    | informal/spoken English             |
 | 📚    | literary English                    |
-| 💡    | translation                         |
+| 💡    | translation, meaning                |
 | 🆚    | versus                              |
 | ➡     | another possible option, derivation |
 | 🟢    | correct usage                       |

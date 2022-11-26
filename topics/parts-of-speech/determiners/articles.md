@@ -1,3 +1,109 @@
+# Articles
+
+## Definite article
+
+It expresses a specific thing. Both speaker and listener should have in mind the same thing.
+
+> Where's the kitchen? It's the door on your right *(the specific door on you right)*.
+
+There are two variants of **the** which differ only in pronunciation.
+
+* the /'ðə/ (čteme krátce s /ə/) 💡*před vyslovovanou souhláskou*
+* the /ði:/ (čteme dlouze s /i:/) 💡*před vyslovovanou samohláskou*
+
+### Known thing
+
+We use the definite article before a noun if a listener knows the noun.
+
+> He lives in a house in the city centre and the house is very old. <br/>
+> The car which I bought yesterday is excellent. *(the listener must know about the car)* <br/>
+
+### Only one instance
+
+in the world, in a state, in a house
+
+> The sun is shining. <br/>
+> Can you put it in the fridge? <br/>
+> I think I left it in the car. <br/>
+> Where's John? – He's in the bathroom. <br/>
+
+### States, mountains, rivers
+
+We use the definite article for states which names consist of multiple word or are in plural.
+
+> the Czech Republic <br/>
+> the United States of America <br/>
+> the Himalayas <br/>
+> the Andes <br/>
+> the Sierra Nevada <br/>
+
+## Indefinite article
+
+It does not express a specific thing. An instance of a noun does not matter.
+
+> Where's the kitchen? It's a door on your right. *(any door on the right side)*
+
+**a** 💡*před vyslovovanou souhláskou*
+> a dog, a house, a union
+
+**an** 💡*před vyslovovanou samohláskou*
+> an engineer, an actor, an hour
+
+### New information
+
+> I bought a new car. <br/>
+> She lives in a house in the city center. <br/>
+
+### What is what / who is who
+
+> He's a teacher. <br/>
+> I want to be an astronaut. <br/>
+> Jem is a boy. <br/>
+> Oscar is a dog. <br/>
+> Burton is a brand of snowboards. <br/>
+> It's a beautiful morning. <br/>
+> She's a very smart girl. <br/>
+
+### Quantity / frequency
+
+> He bought an apple and two bananas. <br/>
+> a few <br/>
+> a little / a bit <br/>
+> a couple of <br/>
+> a lot of <br/>
+> half an hour <br/>
+> twice a week <br/>
+> kilometres an hour <br/>
+
+The indefinite article can mean one and can not be used with a plural noun or with an uncountable noun. In case of a
+plural / uncountable noun, we use **some**.
+
+> some cars, some snow, some money
+
+## Zero article
+
+The zero article is not omitted article. An article can be omitted for example in titles or headings.
+
+### Speaking in general
+
+Uncountable or plural nouns.
+
+> Water is wet. <br/>
+> Giraffes have long necks. <br/>
+
+### Established prepositional phrases
+
+> by car, by bus, by train <br/>
+> at home, at school, at work, to work, to school <br/>
+> in bed, in hospital, in prison, in church <br/>
+
+### States, cities, streets
+
+States which names consist of single word.
+
+> Germany, Italy, France, Spain, ... <br/>
+> London, New York, Prague, Fifth Avenue, Mulholland Drive, ... <br/>
+
 ### Be in a/the mood
 
 #### Be in a mood
