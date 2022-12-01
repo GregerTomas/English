@@ -27,15 +27,56 @@ in the world, in a state, in a house
 > I think I left it in the car. <br/>
 > Where's John? – He's in the bathroom. <br/>
 
-### States, mountains, rivers
+### Oceans, seas, rivers, canals
 
-We use the definite article for states which names consist of multiple word or are in plural.
+> **oceans, seas** - the Pacific, the Atlantic Ocean, the North Sea, the Mediterranean <br/>
+> **rivers** - the Mississippi, the River Elbe, the Missouri River <br/>
+> **straits, canals, bays** - the Bering Strait, the Gulf of Mexico, the Panama Canal, the English Channel <br/>
+
+But we use the negative article for **lakes**.
+
+### Mountains, groups of islands, deserts
+
+> **mountains** - the Alps, the Himalayas, the Sierra Nevada, the Andes <br/>
+> **groups of islands** - the Shetlands, the Channel Islands, the British Isles <br/>
+> **deserts** - the Sahara, the Great Sandy Desert, the Mojave Desert <br/>
+
+### States
+
+We use the definite article for states which:
+
+* names consist of multiple words and include a common noun,
+* are in plural.
 
 > the Czech Republic <br/>
 > the United States of America <br/>
-> the Himalayas <br/>
-> the Andes <br/>
-> the Sierra Nevada <br/>
+> the United Kingdom <br/>
+> the European Union <br/>
+> the Netherlands <br/>
+
+Phrases like **the state of**, **the republic of**, ...
+
+> New Mexico, New Zealand, Great Britain <br/>
+
+### Buildings (general)
+
+If a name of a building starts with a noun or an adjective, we use the definite article.
+
+> the World Trade Center <br/>
+> The National Museum <br/>
+> the White House <br/>
+> the Empire State Building <br/>
+> The Statue of Liberty <br/>
+
+But there are some exceptions.
+
+> Big Ben <br/>
+
+### Hotels, theatres, cinemas, museums
+
+> **hotels** - the Ritz, the Grand Hotel <br/>
+> **theatres, cinemas** - the Odeon, the Apollo Theatre <br/>
+> **museums** - the Acropolis Museum, the Prado, the Riverside Museum, the Museum of London, the Tate Gallery <br/>
 
 ## Indefinite article
 
@@ -97,12 +138,73 @@ Uncountable or plural nouns.
 > at home, at school, at work, to work, to school <br/>
 > in bed, in hospital, in prison, in church <br/>
 
-### States, cities, streets
+### States
 
-States which names consist of single word.
+States which names consist of single word or of multiple worlds without a common noun.
 
-> Germany, Italy, France, Spain, ... <br/>
-> London, New York, Prague, Fifth Avenue, Mulholland Drive, ... <br/>
+> Germany, Italy, France, Spain <br/>
+> New Mexico, New Zealand, Great Britain <br/>
+
+### Cities, streets, squares, parks
+
+> **cities** - London, New York, Prague, Fifth Avenue, Mulholland Drive <br/>
+> **streets** - Wall Street, Broadway, Madison Avenue, Sunset Boulevard <br/>
+> **square** - Trafalgar Square, Piccadilly Circus, Times Square <br/>
+> **parks** - Hyde Park, Yosemite National Park, St. Stephen's Green <br/>
+
+Again, we use the definite article in phrases like **the city of**.
+
+> the city of New York <br/>
+
+### City districts
+
+> Brooklyn, Chinatown, Manhattan, Queens, West End <br/>
+
+But some use the definite article.
+
+> the Riviera, the Bronx, the Hague, the City <br/>
+
+### Buildings (general)
+
+If a name of a building starts with an own name, we use the zero article.
+
+> Westminster Abbey, Buckingham Palace <br/>
+
+But there are some exceptions.
+
+> the Charles Bridge <br/>
+> the Eiffel Tower <br/>
+
+### Universities
+
+> Harvard University <br/>
+> Oxford University <br/>
+> Charles University <br/>
+
+Again, we use the definite article in the phrase **the university of**.
+
+> the University of California in Los Angeles <br/>
+
+### Castles
+
+> Prague Castle <br/>
+> Edinburgh Castle <br/>
+
+### Individual mountains, islands, lakes, ...
+
+> **mountains** - Mount Everest, Mount St. Helen, Half Dome, Mt. Whitney, Ben Nevis <br/>
+> **lakes** - Lake Erie, Lake Michigan, Loch Ness, Great Bear Lake, Great Salt Lake <br/>
+> **islands** - Madagaskar, Holy Island, Java <br/>
+> **caves, waterfalls, valleys** - Mammoth Cave, Niagara Falls, Death Valley <br/>
+
+### World Continents
+
+> Europe, Australia, Asia, Africa, America, Antarctica <br/>
+> Central Asia, medieval Europe, South America <br/>
+
+But we use the definite article in the phrase **continent of**.
+> the continent of Africa <br/>
+> the continent of Europe <br/>
 
 ### Be in a/the mood
 
