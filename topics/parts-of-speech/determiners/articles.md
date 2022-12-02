@@ -1,5 +1,41 @@
 # Articles
 
+- [Definite article](#definite-article)
+  - [Known thing](#known-thing)
+  - [Only one instance](#only-one-instance)
+  - [Oceans, seas, rivers, canals](#oceans-seas-rivers-canals)
+  - [Mountains, groups of islands, deserts](#mountains-groups-of-islands-deserts)
+  - [States (definite article)](#states-definite-article)
+  - [Buildings (definite article)](#buildings-definite-article)
+  - [Hotels, theatres, cinemas, museums](#hotels-theatres-cinemas-museums)
+  - [Families](#families)
+  - [Profession, function before name](#profession-function-before-name)
+  - [Name with adjective](#name-with-adjective)
+  - [That one](#that-one)
+  - ⏳ Animal species
+- [Indefinite article](#indefinite-article)
+  - [New information](#new-information)
+  - [What is what / who is who](#what-is-what--who-is-who)
+  - [Quantity / frequency](#quantity--frequency)
+  - [Member of a family](#member-of-a-family)
+  - [Someone unknown](#someone-unknown)
+  - [Person with similar characteristics](#person-with-similar-characteristics)
+  - [Name as object replacement](#name-as-object-replacement)
+  - [Profession](#profession)
+  - ⏳ Individual animal
+- [Zero article](#zero-article)
+  - [Speaking in general](#speaking-in-general)
+  - [Established prepositional phrases](#established-prepositional-phrases)
+  - [States (zero article)](#states-zero-article)
+  - [Cities, streets, squares, parks](#cities-streets-squares-parks)
+  - [City districts](#city-districts)
+  - [Buildings (zero article)](#buildings-zero-article)
+  - [Universities](#universities)
+  - [Castles](#castles)
+  - [Individual mountains, islands, lakes, etc.](#individual-mountains-islands-lakes-etc)
+  - [World Continents](#world-continents)
+  - [Names with titles](#names-with-titles)
+
 ## Definite article
 
 It expresses a specific thing. Both speaker and listener should have in mind the same thing.
@@ -41,7 +77,7 @@ But we use the negative article for **lakes**.
 > **groups of islands** - the Shetlands, the Channel Islands, the British Isles <br/>
 > **deserts** - the Sahara, the Great Sandy Desert, the Mojave Desert <br/>
 
-### States
+### States (definite article)
 
 We use the definite article for states which:
 
@@ -58,7 +94,7 @@ Phrases like **the state of**, **the republic of**, ...
 
 > New Mexico, New Zealand, Great Britain <br/>
 
-### Buildings (general)
+### Buildings (definite article)
 
 If a name of a building starts with a noun or an adjective, we use the definite article.
 
@@ -209,7 +245,7 @@ Uncountable or plural nouns.
 > at home, at school, at work, to work, to school <br/>
 > in bed, in hospital, in prison, in church <br/>
 
-### States
+### States (zero article)
 
 States which names consist of single word or of multiple worlds without a common noun.
 
@@ -235,7 +271,7 @@ But some use the definite article.
 
 > the Riviera, the Bronx, the Hague, the City <br/>
 
-### Buildings (general)
+### Buildings (zero article)
 
 If a name of a building starts with an own name, we use the zero article.
 
@@ -261,7 +297,7 @@ Again, we use the definite article in the phrase **the university of**.
 > Prague Castle <br/>
 > Edinburgh Castle <br/>
 
-### Individual mountains, islands, lakes, ...
+### Individual mountains, islands, lakes, etc.
 
 > **mountains** - Mount Everest, Mount St. Helen, Half Dome, Mt. Whitney, Ben Nevis <br/>
 > **lakes** - Lake Erie, Lake Michigan, Loch Ness, Great Bear Lake, Great Salt Lake <br/>
@@ -277,7 +313,7 @@ But we use the definite article in the phrase **continent of**.
 > the continent of Africa <br/>
 > the continent of Europe <br/>
 
-### Name with title
+### Names with titles
 
 We consider a title *(social, professional, academic, military, religious, ...)* as a part of the name, therefore we use
 it with capital letter at the beginning.
