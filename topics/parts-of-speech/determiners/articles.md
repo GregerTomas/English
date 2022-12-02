@@ -78,6 +78,39 @@ But there are some exceptions.
 > **theatres, cinemas** - the Odeon, the Apollo Theatre <br/>
 > **museums** - the Acropolis Museum, the Prado, the Riverside Museum, the Museum of London, the Tate Gallery <br/>
 
+### Families
+
+> The Simpsons live in Springfield. <br/>
+> I met the Browns this morning. <br/>
+
+### Profession, function before name
+
+> "Her writing is terrible," the writer Stephen King said in an interview. <br/>
+> We were able to finish the project with the help of the teacher John Barnes. <br/>
+
+### Name with adjective
+
+> He had a chat with the famous Jared Leto. <br/>
+> The doubting Thomas said, "Unless I see the print of the nails and put my finger in them I will not believe." <br/>
+> She held the dying John Smith in her arms. <br/>
+> The book was dedicated to the late Peter Sellers. <br/>
+> The Amazing Spiderman. <br/>
+
+Sometimes an adjective is inseparable from a name.
+
+> Gandalf the Grey <br/>
+> William the Conqueror <br/>
+> Ivan the Terrible <br/>
+> Henry the Eighth <br/>
+
+### That one
+
+* **the** - that one
+* **a / an** - someone else with the same name
+
+> He had lunch with Dan Brown. What, the Dan Brown? <br/>
+> No, not the Dan Brown who wrote the Da Vinci Code. A different Dan Brown. <br/>
+
 ## Indefinite article
 
 It does not express a specific thing. An instance of a noun does not matter.
@@ -120,6 +153,44 @@ The indefinite article can mean one and can not be used with a plural noun or wi
 plural / uncountable noun, we use **some**.
 
 > some cars, some snow, some money
+
+### Member of a family
+
+> Romeo was a Montague, Juliet was a Capulet. <br/>
+
+### Someone unknown
+
+We can use it if we do not know the person.
+
+> Mom, a Mr Brown was asking about you. Do you know him? <br/>
+> Sir, a Mary Golding is waiting for you in the lobby. <br/>
+> People say that she met a Peter Smith in Birmingham and that the child may be his. <br/>
+
+### Person with similar characteristics
+
+> His mom thinks he's an Einstein. <br/>
+> He's not a Mozart, but he sure can play the piano. <br/>
+
+### Name as object replacement
+
+> He owns a Picasso. 💡Picasso = a painting by Picasso <br/>
+
+The same rules apply as when using a whole phrase.
+
+> Does he still own the Picasso? <br/>
+> He owns two Picassos now. <br/>
+> Has the new Avril Lavigne come out yet? <br/>
+> My favorite Vonnegut is Slaughterhouse-Five. <br/>
+
+### Profession
+
+See also the [What is what / who is who](#what-is-what--who-is-who) article.
+
+> I'm a student. <br/>
+> My mother is a teacher. <br/>
+> I want to be a pilot. <br/>
+> Rihanna is a singer. <br/>
+> Elton John is a famous British musician. <br/>
 
 ## Zero article
 
@@ -205,6 +276,27 @@ Again, we use the definite article in the phrase **the university of**.
 But we use the definite article in the phrase **continent of**.
 > the continent of Africa <br/>
 > the continent of Europe <br/>
+
+### Name with title
+
+We consider a title *(social, professional, academic, military, religious, ...)* as a part of the name, therefore we use
+it with capital letter at the beginning.
+
+> Mr. and Mrs. Smith <br/>
+> Doctor Richards <br/>
+> Professor O'Hara <br/>
+> King James <br/>
+> Queen Elizabeth I <br/>
+> Prince Harry <br/>
+> President Kennedy <br/>
+> Sir William <br/>
+> Lord Darcy <br/>
+> Lady Diana <br/>
+> Detective Morgan <br/>
+> Colonel John Sheppard <br/>
+> Lieutenant Dan Taylor <br/>
+> Father Cavanaugh <br/>
+> Mother Mar <br/>
 
 ### Be in a/the mood
 
