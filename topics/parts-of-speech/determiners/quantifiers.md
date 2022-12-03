@@ -1,13 +1,16 @@
 # Quantifiers
 
-- [A lot (of)](#a-lot-of-)
-- [Much / many](#much--many)
-- [Plenty (of)](#plenty-of-)
-- [A great deal (of)](#a-great-deal-of-)
-- [A large amount (of) / a large number (of)](#a-large-amount-of--a-large-number-of-)
-- [Summary](#summary)
+- [A lot (of), many, much, etc.](#a-lot-of-many-much-etc)
+  - [A lot (of)](#a-lot-of-)
+  - [Much / many](#much--many)
+  - [Plenty (of)](#plenty-of-)
+  - [A great deal (of)](#a-great-deal-of-)
+  - [A large amount (of) / a large number (of)](#a-large-amount-of--a-large-number-of-)
+  - [Summary](#summary)
 
-## A lot (of) 🗣
+## A lot (of), many, much, etc.
+
+### A lot (of) 🗣
 
 💡hodně
 
@@ -32,7 +35,7 @@ You can use **lots of** in 🗣informal English.
 > I've got lots of money. <br/>
 > I've got lots of friends. <br/>
 
-## Much / many
+### Much / many
 
 💡hodně
 
@@ -87,14 +90,14 @@ We don't normally use a preposition **of** after many / much, but we do when we 
 > I haven't spent much of the money I got for my birthday yet. <br/>
 > 🔴 Many of friends. *(we must use my, her, the, ...)* <br/>
 
-## Plenty (of) 🗣
+### Plenty (of) 🗣
 
 💡dostatek, více než je potřeba
 
 > There's no rush. We've got plenty of time. <br/>
 > Since I've got the new job, I have plenty of money. <br/>
 
-## A great deal (of) ✏
+### A great deal (of) ✏
 
 💡mnoho
 
@@ -102,7 +105,7 @@ Can be used with uncountable nouns.
 
 > There seems to be a great deal of confusion about the new policy. <br/>
 
-## A large amount (of) / a large number (of) ✏
+### A large amount (of) / a large number (of) ✏
 
 * a large amount of - uncountable nouns
 * a large number of - countable nouns
@@ -116,7 +119,7 @@ The object of a sentence is still the noun after of preposition and verb is dete
 
 > Every year, a large number of people are killed in traffic. <br/>
 
-## Summary
+### Summary
 
 |                                                        | countable nouns   | uncountable nouns                     |
 |--------------------------------------------------------|-------------------|---------------------------------------|
