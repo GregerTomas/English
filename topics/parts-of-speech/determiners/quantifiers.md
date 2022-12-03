@@ -7,6 +7,10 @@
   - [A great deal (of)](#a-great-deal-of-)
   - [A large amount (of) / a large number (of)](#a-large-amount-of--a-large-number-of-)
   - [Summary](#summary)
+- [Little, a little, few, a few](#little-a-little-few-a-few)
+  - [Little](#little)
+  - [Few](#few)
+  - [A little / a few](#a-little--a-few)
 
 ## A lot (of), many, much, etc.
 
@@ -126,3 +130,56 @@ The object of a sentence is still the noun after of preposition and verb is dete
 | 🗣 informal English                                    | a lot of          | a lot of                              |
 | ✏ formal English                                       | a large number of | a larger ammount of / a great deal of |
 | negative sentence, questions on the quantity / number  | many              | much                                  |
+
+## Little, a little, few, a few
+
+### Little
+
+💡málo, malé množství
+
+Used with uncountable nouns.
+
+> We have little work today. <br/>
+> There's very little snow this year. <br/>
+> Grandpa has little hair left. <br/>
+> Little information is available at this time. <br/>
+> I got little sleep last night. <br/>
+
+We can use it even as a pronoun (= without a noun).
+
+> He said very little. <br/>
+> There was little I could do. <br/>
+
+Little can be used as a adjective too, compare following.
+> few children 💡*málo dětí* <br/>
+> 🆚 <br/>
+> little children 💡*malé děti, dětičky* <br/>
+
+### Few
+
+💡málo, malý počet
+
+Used with countable nouns in plural.
+
+> Few people know that. <br/>
+> He has very few friends. <br/>
+> There are few bands that sound like this. <br/>
+> Cooking is one of my few hobbies. <br/>
+> You've got very few options. <br/>
+
+We can use it even as a pronoun (= without a noun).
+
+> Very few attended the concert. (= very few people) <br/>
+
+### A little / a few
+
+Little / few have rather a negative meaning, in contrast a little / a few have a possitive meaning.
+
+💡 pár, několik, trochu
+
+> Let's take a walk. I have a little time. <br/>
+> Can you give me a little information about yourself? <br/>
+> There was a little pain, but not too bad. <br/>
+> We had a few hours to spare, so we took a tour of the city. <br/>
+> I read a few chapters and went to sleep. <br/>
+> He forgot to tell me a few things. <br/>
