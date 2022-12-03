@@ -35,6 +35,23 @@
   - [Individual mountains, islands, lakes, etc.](#individual-mountains-islands-lakes-etc)
   - [World Continents](#world-continents)
   - [Names with titles](#names-with-titles)
+- [Others](#others)
+  - [Be in a/the mood](#be-in-a--the-mood)
+    - [Be in a mood](#be-in-a-mood)
+    - [Be in the mood](#be-in-the-mood)
+  - [Last / next](#last--next)
+    - [Without the](#without-the)
+    - [With the](#with-the)
+    - [Summary](#summary)
+  - [Ago / in / from now](#ago--in--from-now)
+    - [Ago](#ago)
+    - [Ago vs before](#ago-vs-before)
+  - [In / from now](#in--from-now)
+- [Countable singular nouns without a determiner](#countable-singular-nouns-without-a-determiner)
+  - [School](#school)
+  - [Home / work](#home--work)
+  - [Car / bike / etc.](#car-bike-etc)
+  - [Other nouns](#other-nouns)
 
 ## Definite article
 
@@ -334,7 +351,9 @@ it with capital letter at the beginning.
 > Father Cavanaugh <br/>
 > Mother Mar <br/>
 
-### Be in a/the mood
+## Others
+
+### Be in a / the mood
 
 #### Be in a mood
 
@@ -361,7 +380,7 @@ It must be clear from context that we have / do not have a mood for something pa
 > I didn't want to talk about it. I wasn't in the mood. <br/>
 > Are you in the mood for some classical music, darling? <br/>
 
-### last / next
+### Last / next
 
 We do not use prepositions.
 
@@ -403,14 +422,14 @@ Do not forget to use an article with nouns like day, week, month, ...
 > a week ago <br/>
 > an year ago <br/>
 
-##### Ago vs before
+#### Ago vs before
 
 **Before** refers to some event, unlike **ago** which is counted from now.
 
 > I bought the presents a week ago. <br/>
 > Christmas was wonderful. I bought the presents a week before. <br/>
 
-#### In / from now
+### In / from now
 
 We can use **in** / **from now** if we want to say that something will happen after some time.
 
@@ -459,7 +478,7 @@ We can not use **at home** / **at work** if we want to say that we are at a some
 > She spent the night in her friend's house. <br/>
 > Your parents are out of town, right? Let's go to your place! <br/>
 
-### Car / bike / ...
+### Car, bike, etc.
 
 We do not use an article with these nouns if used with preposition **by**. We talk about a type of transport.
 
@@ -474,7 +493,7 @@ If we think one particular vehicle, we must use a determiner.
 > The robber escaped by bike. ➡ The robber escaped on a stolen bike. <br/>
 > We're going to the beach by car. ➡ We're going to the beach in my father's car. <br/>
 
-### Another nouns
+### Other nouns
 
 | noun          |                                       |                                  |
 |---------------|---------------------------------------|----------------------------------|
