@@ -11,6 +11,7 @@
   - **Determiners**
     - [All, every, none, no, each, either](topics/parts-of-speech/determiners/basic-determiners.md)
     - [⏳ Articles](topics/parts-of-speech/determiners/articles.md)
+    - [Quantifiers](topics/parts-of-speech/determiners/quantifiers.md)
 
 ## 😀 Emojis
 
