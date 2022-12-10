@@ -11,6 +11,7 @@
   - [Too with nouns](#too-with-nouns)
   - [Too with infinite](#too-with-infinite)
 - [Comparison of Enough, Too, Very, So](#comparison-of-enough-too-very-so)
+- [Determiner position ✏](#determiner-position-)
 
 ## So
 
@@ -155,3 +156,48 @@ As in the case with **enough**, we can change the subject with the preposition *
 > He's too old. No one wants to give him a job. <br/>
 > He's very old. He'll be ninety next month. <br/>
 > He's so old! I thought he was younger! <br/>
+
+## Determiner position ✏
+
+Generally we use a determiner before a noun (with possible adjectives or adverbs).
+
+> It was an extremely hot day. <br/>
+> He's a very stupid boy. <br/>
+> We have a fairly large garden. <br/>
+
+There are words which are placed before a determiner. These words include **such**, **what**, **quite**, **rather**
+(*both variants are possible*).
+
+> What a hot day it was! <br/>
+> He's such a stupid boy. <br/>
+> We have quite a large garden. <br/>
+> It was a rather serious problem. <br/>
+> It was rather a serious problem. <br/>
+
+There are adverbs with change a word order much more. These adverbs include:
+
+* **that** 💡*až tak*
+* **as** 💡*tak … jako*
+* **so** 💡*tak … že*
+* **too** 💡*až moc*
+* **how** 💡*jak*
+
+These adverbs cause the transfer of the determiner between the adjective and the noun.
+
+> It wasn't that hot a day. <br/>
+> Honestly, it's not that good a book but I like it nonetheless. <br/>
+> He's as tall a man as his father was. <br/>
+> We have as large a garden as you do. <br/>
+> He's so stupid a boy that he can't find California on a map. <br/>
+> It was so cold a day that we decided to stay home. <br/>
+> It was too hot a day for a barbecue. <br/>
+> I think you are far too young a man to be getting married. <br/>
+> How stupid a question is that? <br/>
+> This test will tell you how good a lover you are. <br/>
+
+In informal English we can rephrase the sentence and omit the noun.
+
+> It was too hot for a barbecue. *(too hot a day)* <br/>
+> He's so stupid that he can't find California on a map. *(so stupid a boy)* <br/>
+> You are far too young to be getting married. *(far too young a man)* <br/>
+> We have a garden as large as yours. *(as large a garden)* <br/>
