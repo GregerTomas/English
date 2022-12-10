@@ -13,6 +13,7 @@
     - [⏳ Articles](topics/parts-of-speech/determiners/articles.md)
     - [Quantifiers](topics/parts-of-speech/determiners/quantifiers.md)
     - [Some, any, no](topics/parts-of-speech/determiners/some-any-no.md)
+    - [Intensifiers](topics/parts-of-speech/determiners/intensifiers.md)
 
 ## 😀 Emojis
 
