@@ -231,3 +231,57 @@ In opposite to [With ordinal numeral](#with-ordinal-numeral) we can use **tens**
 The combinations ten thousand, one hundred thousand, ten million, one hundred million are derived from real numbers.
 
 > 🔴 one thousand hundred ➡ 🟢 one hundred thousand <br/>
+
+## How long does something take
+
+> The journey takes two days. <br/>
+
+### As an adjective
+
+We just add hyphen (💡spojovník) and remove plural from the noun (adjectives are not typically in plural). This newly
+created adjective can stand only before a noun.
+
+> two days ➡ two-day 💡*dvoudenní* <br/>
+
+> It was a two-day journey. <br/>
+> They went on a three-week cruise in the Caribbean. <br/>
+> After a four-year hiatus the band released a new album. <br/>
+> Sheldon won a grant to pay for a three-month expedition to the North Pole. <br/>
+> There was a fifteen-minute delay. <br/>
+> When the battery is low, the second hand moves at two-second intervals. <br/>
+> You can't speak fluent English after five forty-five-minute lessons! <br/>
+> 🔴 The journey was two-day. ➡ 🟢 That was the two-day journey.
+> a seven-pound baby <br/>
+> a two-meter alligator <br/>
+> a hundred-dollar bill <br/>
+> a six-and-a-half-mile run <br/>
+> a hundred-degree fever <br/>
+> a two-gram dose <br/>
+> a ten-foot ladder <br/>
+> a half-litre bottle <br/>
+> a ten-month-old boy <br/>
+
+### Noun with genitive
+
+> two days ➡ two days' <br/>
+
+We do use an indefinite article in this case only for indication of time in singular.
+
+> 🔴 a two days' journey 💡*The journey takes two days.* <br/>
+> 🟢 a day's journey 💡*The journey takes **a** day* <br/>
+
+| noun      | noun + adjective  | noun with genitive   | 🔴 wrong               |
+|-----------|-------------------|----------------------|------------------------|
+| a book    | 	a nice book      | 	John's book         | 🔴 a John's book       | 
+| a journey | a two-day journey | 	two days' journey   | 🔴 a two days' journey |
+| a journey | a one-day journey | 	a one day's journey | 🔴 two days' journey   |
+
+This variant is typical for indication of time.
+
+> yesterday's news <br/>
+> tomorrow's problems <br/>
+> in two weeks' time <br/>
+> last year's election <br/>
+> his life's work <br/>
+> a lifetime's dream <br/>
+> a year or two's experience <br/>
