@@ -128,3 +128,41 @@ We use these words primarily when we talk about an increase, a grew, a drop, etc
 These words can be used as an adjective too.
 
 > We expect a threefold increase in traffic in the town center. <br/>
+
+## Decimals
+
+> whole number / integer 💡*celé číslo* <br/>
+> decimal number / decimal 💡*desetinné číslo* <br/>
+> decimal point 💡*desetinná čárka* <br/>
+> decimal place 💡*desetinné místo* <br/>
+> tenth 💡*desetina* <br/>
+> hundredth 💡*setina* <br/>
+> thousandth 💡*tisícina* <br/>
+> hundred-thousandth 💡*stotisícina* <br/>
+> millionth 💡*miliontina* <br/>
+
+The point is used as a decimal point, the comma is used as a thousands separator.
+
+> 1,001 💡*tisíc jedna* <br/>
+> 1.001 💡*jedna celá, jedna tisícina* <br/>
+
+| number | general variant                 | mathematical variant                      | notes                                                                                          |
+|--------|---------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------|
+| 54.026 | fifty-four **point** oh two six | fifty-four **and** twenty-six thousandths ||
+| 1.25   | one **point** two five          | one and twenty-five hundredths            | 🔴one point twenty-five (this rule does not apply for money - *one pound twenty-five (£1.25)*) |
+
+### Decimals and nouns
+
+The noun is always without a preposition and in plural. We can use the preposition **of** for decimals smaller than 1.
+
+> 1.6 km = one point six kilometres, 0.9 kilometres, 1.1 kilometres 🆚 1 kilometre <br/>
+> 2.37 l = two point three seven litres <br/>
+> 0.7 h = zero point seven hours <br/>
+> 0.7 h = zero point seven of an hour = zero point seven hours <br/>
+
+Percent (the preposition **per** + a noun **cent**) does not have plural.
+
+> 1 percent <br/>
+> 5 percent <br/>
+> 0.78 percent = zero point seven eight percent <br/>
+
