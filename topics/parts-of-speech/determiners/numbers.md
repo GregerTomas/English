@@ -98,18 +98,46 @@ We can use **one time** (💡jednou se něco stalo) if we want to say that there
 
 > I will give you your gift once you give me mine. <br/>
 
-### Comparison
+### Comparison of adjectives or adverbs (or nouns)
 
-Dvakrát více, pětkrát rychleji
-Při porovnávání často používáme spojení s AS:
+We use phrase **as** or **as ... as**
 
-twice as much/many – dvakrát více
-three times as fast – třikrát rychleji/rychlejší
-ten times as heavy – desetkrát těžší
+### More
 
-Od tří výše se používá i THREE TIMES FASTER, FOUR TIMES LONGER apod.
+> My wife and I work the same hours but I earn twice as much. <br/>
+> You can take the train but if you drive, you will get there three times as fast. <br/>
+> My laptop is ten times as heavy as my tablet. <br/>
 
-Více o tomto typu porovnání se dočtete v článku Dvakrát více, třikrát méně
+We can use the phrase with a comparative for numbers greater than 2.
+
+> 🔴 twice more ➡ 🟢 twice as much <br/>
+> three times faster <br/>
+> ten times heavier <br/>
+
+### Less
+
+We use fractions if something is smaller, slower, lighter, etc.
+
+> 🔴 twice as small ➡ 🟢 half as large 💡*dvakrát menší* <br/>
+> 🔴 three times as slow ➡ 🟢 a/one third as fast 💡*třikrát pomalejší* <br/>
+> 🔴 five times as bad ➡ 🟢 a/one fifth as good 💡*pětkrát horší* <br/>
+
+We can change the order of both things, it will be more natural and understandable.
+
+> My new Internet connection is only a third as fast as my previous one. ➡ My previous internet connection was three
+> times as fast as my new one. <br/>
+
+### Comparison of nouns
+
+We can compare the nouns directly.
+
+> Utah is twice as large as Ohio. ➡ Utah is twice the size of Ohio. <br/>
+> Ohio is half as large as Utah. ➡ Ohio is half the size of Utah. <br/>
+> My previous internet connection was three times the speed of my new one. <br/>
+> My laptop is ten times the weight of my tablet. <br/>
+> My new Internet connection is only one third the speed of my previous one. <br/>
+> Teachers make about one quarter the salary of pharmacists. <br/>
+> The e-book was one fifth the price of the paper edition. <br/>
 
 ### Twofold, threefold, tenfold, etc.
 
