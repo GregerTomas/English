@@ -166,3 +166,40 @@ Percent (the preposition **per** + a noun **cent**) does not have plural.
 > 5 percent <br/>
 > 0.78 percent = zero point seven eight percent <br/>
 
+### Tens, hundreds, thousands
+
+### With ordinal numeral
+
+> 2 hundred cars <br/>
+> 10 thousand people <br/>
+> two dozen computers 💡*přibižně 2 desítky / 2 tucty*<br/>
+
+Tens, hundreds, thousands are always in singular and without a preposition.
+
+The ordinal number can be replaced with different numeral or with an indefinite aricle.
+
+> many hundred years ago <br/>
+> a few thousand people <br/>
+> several million pounds <br/>
+> a couple of thousand MP3s <br/>
+
+### Numeral in plural
+
+Plural with the preposition **of**.
+
+> Dozens of people showed up to support the village team. <br/>
+> Hundreds of birds were circling above my head. <br/>
+> Every year the company spends thousands of dollars on security. <br/>
+> There might be millions of species we haven't discovered yet. <br/>
+> Thanks to the Hubble Space Telescope we can see galaxies that are billions of light years away. <br/>
+> Facebook has tens of millions of users worldwide. <br/>
+> The Milky Way contains hundreds of billions of stars. <br/>
+
+In opposite to [With ordinal numeral](#with-ordinal-numeral) we can use **tens** instead of **dozens** too.
+
+> dozens of birds <br/>
+> tens of thousands <br/>
+
+The combinations ten thousand, one hundred thousand, ten million, one hundred million are derived from real numbers.
+
+> 🔴 one thousand hundred ➡ 🟢 one hundred thousand <br/>
