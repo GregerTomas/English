@@ -42,3 +42,41 @@ doctor's.
 
 > I'll be at the doctor's office this afternoon. ➡ She was at the doctor's yesterday. <br/>
 > He's gone to the doctor's office. Can you call back tomorrow? ➡ Jack went to the doctor's a while ago. <br/>
+
+## Double genitive
+
+As an example, we can mention the phrase **a friend of mine**. There are two genitives in this phrase.
+
+1. preposition **of**
+2. possessive pronouns
+
+### single vs double genitive
+
+| genitive   | phrase           | meaning              | general meaning                   |
+|------------|------------------|----------------------|-----------------------------------|
+| **single** | my friend        | a very closed friend | a special one from the collection |
+| **double** | a friend of mine | one of my friends    | one of the collection             |
+
+> a student of mine *(a teacher has many students)* 💡*můj student (jeden z mých studentů)* <br/>
+> my car, my house *(a person has usually one car / house)* 💡*moje auto / můj dům* <br/>
+> a car of mine *(you can have more than one car)* 💡*moje auto (jedno z mých aut)*
+
+We can not use a possessive pronoun with some words (articles, indicative pronouns, ...). We use freestanding possessive
+pronouns, the possessive case or a noun (*in case of more than one word behind the preposition **of***) in this kind of
+phrases (**mine**, **yours**, **ours**, **Jack's**, **a friend of Mr. Jack Peterson**, ...).
+
+> 🔴 This my habit. ➡ 🟢 This habit of mine. 💡*tenhle můj zlozvyk* <br/>
+> 🔴 Some Jack's friends. ➡ 🟢 Some friends of Jack's. <br/>
+> Is she a friend of yours? <br/>
+> They are students of ours. <br/>
+> They're friends of my sister's. <br/>
+> Are they students of Mr White's? <br/>
+> A friend of Mr. Jack Peterson. <br/>
+
+There can be a difference in meaning when you use a noun instead of the possessive case, compare following.
+
+> a bone of the dog 💡*kost psa (mohla by to být psí kost, tedy kost z psí kostry)* <br>
+> a bone of the dog's 💡*kost psa (ten pes si ji vzal, má ji, a hlídá si ji, ohryzává ji atd.)* <br>
+
+> the students of Aristotle 💡*studenti studují jeho dílo (např. i dnešní studenti)* <br>
+> the students of Aristotle's 💡*studenti, kteří s ním studovali, byli jeho žáky* <br>
