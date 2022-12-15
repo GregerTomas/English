@@ -114,6 +114,17 @@ Some nouns seem to be singular, but in reality, they are plural.
 > staff 💡*personál, zaměstnanci* <br/>
 > crew 💡*posádka* <br/>
 
+## Cities, pasta, illnesses
+
+Always in singular.
+
+> Pardubice is 💡*Pardubice jsou* <br/>
+> Athens is 💡*Athény jsou* <br/>
+> spaghetti / gnocchi / macaroni is 💡*špagety / gnocchi / makaróny jsou* <br/>
+> measles / mumps / pox is 💡*spalničky / příušnice / neštovice jsou* <br/>
+> The spaghetti is very good. <br/>
+> The measles is not a good disease. <br/>
+
 ## Others
 
 > man ➡ men <br/>
