@@ -98,6 +98,30 @@ If we want to count them, we must use the phrase **a pair of**.
 > a pair of trousers 💡*jedny kalhoty*
 > two pairs of glasses 💡*dvoje brýle*
 
+## Collective nouns
+
+> team <br/>
+> family <br/>
+> staff <br/>
+> class <br/>
+> bank <br/>
+> ministry <br/>
+> government <br/>
+> committee 💡*komise, výbor*<br/>
+> firm <br/>
+> school <br/>
+> club <br/>
+> choir <br/>
+
+We can consider a collective nouns as one piece. Typical for American English.
+
+> All my family hope I'll go to university next year. But I'm not so sure I want it myself! <br/>
+> It's his last night here. His family moves to Philadelphia next week. <br/>
+> The government is elected every four years. <br/>
+> All the government are over 60. <br/>
+> The team are a bit apprehensive of the Thursday's finals. <br/>
+> The team has a good coach. They hope to win. <br/>
+
 ## Singular vs plural
 
 Some nouns seem to be plural, but in reality, they are uncountable.
