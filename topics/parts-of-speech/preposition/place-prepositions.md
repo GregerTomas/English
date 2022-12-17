@@ -53,3 +53,73 @@ We can use it if we have / have not something on use.
 > Sorry, I don't have it on me right now. 💡*Nemám to teď u sebe* <br/>
 > Do you have a toothpick on you by any chance? <br/>
 > I didn't have any money on me. <br/>
+
+## Between 🆚 among
+
+💡*mezi*
+
+### Place
+
+💡*mezi (kde), mezi (kam)*
+
+We use **between** when we say that somebody / something is between two persons / things or between multiple persons /
+things which are specifically named.
+
+> The stone hit him between the eyes. <br/>
+> There is a large yard between the two houses. <br/>
+> She sat between George and Andy. <br/>
+> There was some money stuffed between the mattresses. <br/>
+> The State of Georgia lies between Alabama, Florida and South Carolina. <br/>
+
+We use **among** when we say that somebody / something is among more than two persons / things.
+
+> I couldn't find him among the people. <br/>
+> I like music, among other things. <br/>
+> Children were running among the trees. <br/>
+> The dog was hiding among the bushes. <br/>
+> Can you see it? It's over there, among the rocks! <br/>
+
+### Time
+
+We use only **between*. We have two things (beginning and end).
+
+> I'm at work between 8 am and 2 pm. <br/>
+> There are no major holidays between Christmas and Easter. <br/>
+> I don't eat anything between meals. <br/>
+> There was hardly any wait between buses. <br/>
+> I'm between jobs right now. <br/>
+
+### People
+
+We use **between** when we talk about a relationship between two people, specifically named people.
+
+> It will stay between us. <br/>
+> Felicity has to choose between Ben and Noel. <br/>
+> It's between you and me. <br/>
+> Felicity has to choose between Ben, Noel and David. <br/>
+> It's none of your business. It's between me, my brother and my dad. <br/>
+
+We use **among** for group of people.
+> It led to yet another argument among the four of us. <br/>
+> There was a discussion among the whole class. <br/>
+> He didn't like being among kids. <br/>
+
+## Between
+
+🗣'tween
+
+> It's just 'tween you and me. <br/>
+
+### Difference between
+
+> What's the difference between ‘among’, ‘between’ and ‘in the middle’? <br/>
+> Which one do you like better? I can't tell the difference between them. <br/>
+> The teacher asked me to explain the difference between stocks and shares. <br/>
+
+## In the middle
+
+We use it when we say that something is in the middle of something else.
+
+> Red's grandma lived in the middle of the forest. <br/>
+> He woke up in the middle of the night and couldn't go back to sleep. <br/>
+> I can't talk right now. I'm in the middle of something. Let me call you back. <br/>
