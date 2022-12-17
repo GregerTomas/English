@@ -63,3 +63,16 @@ Some words can be used instead of one of these prepositions.
 > **every** ➡ every day, every year <br/>
 > **yesterday** ➡ yesterday morning, tomorrow night <br/>
 > and many others...
+
+| yesterday                          | today                              | tomorrow           | note             | 
+|------------------------------------|------------------------------------|--------------------|------------------|
+| yesterday morning                  | 🔴 today morning ➡ 🟢 this morning | tomorrow morning   ||
+| yesterday afternoon                | this afternoon                     | tomorrow afternoon ||
+| yesterday evening                  | this evening                       | tomorrow evening   | 💡*podvečer*     |
+| 🔴 yesterday night ➡ 🟢 last night | 🔴 this night ➡ 🟢 tonight         | tomorrow night     | 💡*pozdní večer* |
+
+> What did you do last night? <br/>
+> What are your plans for tomorrow night? <br/>
+> I saw my girlfriend yesterday afternoon. <br/>
+> I overslept this morning. <br/>
+> I'll see you tomorrow evening. <br/>
