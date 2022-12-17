@@ -31,3 +31,25 @@ We can use **house** instead of **place** or omit it completely. But we muse kee
 > I was at Susan's house yesterday. <br/>
 > I was at Susan's yesterday. <br/>
 
+## With
+
+meaning 💡*u*
+
+> I live with my parents. 💡*Bydlím u rodičů (s rodiči).* <br/>
+> I'll stay with you. 💡*Zůstanu u tebe (s tebou).* <br/>
+> You can leave it with me. 💡*Můžeš to nechat u mě.* <br/>
+> I will leave the key with your colleague. <br/>
+> This place is very popular with tourists. <br/>
+> Nothing new with me. <br/>
+> I've been with the company for fifteen years. <br/>
+> What's new with you? <br/>
+
+## On
+
+meaning 💡*u*
+
+We can use it if we have / have not something on use.
+
+> Sorry, I don't have it on me right now. 💡*Nemám to teď u sebe* <br/>
+> Do you have a toothpick on you by any chance? <br/>
+> I didn't have any money on me. <br/>
