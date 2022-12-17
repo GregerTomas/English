@@ -87,20 +87,21 @@ Some words have a different meanings depending on the countability.
 
 >  <br/>
 
-| uncountable               | countable                                                   |
-|---------------------------|-------------------------------------------------------------|
-| pepper 💡*pepř*           | a pepper / some peppers 💡*paprika / papriky*               |
-| paper (generally)	        | a paper 💡*noviny*                                          | 
-| hair 💡*vlasy*            | a hair 💡*jeden vlas, jeden chlup*                          |
-| chocolate                 | 	a chocolate 💡*čokoládový bonbon*                          |
-| beer                      | 	a beer 💡*jedno pivo v hospodě*                            |
-| coffee                    | 	a coffee                                                   |
-| room 💡*prostor*	         | a room 💡*místnost, pokoj*                                  | 
-| experience 💡*zkušenosti* | 	an experience 💡*jeden zážitek, jedna konkrétní zkušenost* |
-| chicken 💡*kuřecí maso*	  | a chicken 💡*jedno kuře*                                    |
-| lamb 💡*jehněčí*	         | a lamb 💡*jehně*                                            |
-| cake                      | 	a cake 💡*jeden celý koláč či dort*                        |
-| iron 💡*železo*	          | an iron 💡*žehlička*                                        |
+| uncountable               | countable                                                                    |
+|---------------------------|------------------------------------------------------------------------------|
+| pepper 💡*pepř*           | a pepper / some peppers 💡*paprika / papriky*                                |
+| paper (generally)	        | a paper 💡*noviny*                                                           | 
+| hair 💡*vlasy*            | a hair 💡*jeden vlas, jeden chlup*                                           |
+| chocolate                 | 	a chocolate 💡*čokoládový bonbon*                                           |
+| beer                      | 	a beer 💡*jedno pivo v hospodě*                                             |
+| coffee                    | 	a coffee                                                                    |
+| sugar                     | 	a sugar 💡*pytlík / kostka cukru v restauraci (přesně definované množství)* |
+| room 💡*prostor*	         | a room 💡*místnost, pokoj*                                                   | 
+| experience 💡*zkušenosti* | 	an experience 💡*jeden zážitek, jedna konkrétní zkušenost*                  |
+| chicken 💡*kuřecí maso*	  | a chicken 💡*jedno kuře*                                                     |
+| lamb 💡*jehněčí*	         | a lamb 💡*jehně*                                                             |
+| cake                      | 	a cake 💡*jeden celý koláč či dort*                                         |
+| iron 💡*železo*	          | an iron 💡*žehlička*                                                         |
 
 # TODO
 
