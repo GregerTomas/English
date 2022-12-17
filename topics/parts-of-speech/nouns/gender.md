@@ -10,10 +10,11 @@ There are universal nouns which can refer to both men and women.
 
 > friend, student, classmate, doctor, singer, teacher, ... <br/>
 
-We can distinguish the gender by a pronoun.
+We can distinguish the gender by a pronoun or an adjective.
 
 > I have a new teacher. **She** is very kind. <br/>
 > I have a new friend. **His** name is Jack. <br/>
+> Some students prefer male teachers over female teachers. <br/>
 
 If we do not distinguish the gender, we can use **they** or **their**.
 
