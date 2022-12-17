@@ -53,6 +53,58 @@ the preposition **on**.
 > on Christmas Day, on Easter Monday <br/>
 > on Halloween <br/>
 
+## Until and by
+
+💡 do, až do nějaké doby
+
+### Until
+
+**Until** can be both a preposition and a conjunction. This article is about the preposition. We can use **till** as
+well, it is just an 🗣 informal variant of **until**.
+
+> You can stay here until / till Friday. <br/>
+> The ticket is valid until / till December. <br/>
+> She didn't come back until 5 o'clock. <br/>
+
+#### Until 🆚 to
+
+We can use **to** instead of **until** when we use the preposition **from**.
+
+> I waited there from five until / till / to six. <br/>
+> 🔴 I waited there to six. ➡ 🟢 I waited there until / till six. <br/>
+
+TODO until now / so far
+
+#### Until 🆚 by
+
+We use the preposition
+
+* **until** when we are talking about something that lasts (is happening and will happen) until some point in the
+  future, then it will stop.
+* **by** when we are talking about something that will happen at some point in the future, or sooner.
+
+> I'll be at home until/till Sunday. 💡*Budu doma do neděle. Jsem nebo budu doma do neděle, ale v neděli odjedu.* <br/>
+> I'll be at home by Sunday. 💡*Budu doma do neděle. Nejsem doma, ale nejpozději do neděle přijedu.* <br/>
+
+> You can stay until 10. You have to leave by 10. <br/>
+> You can stay here until Friday but you have to leave by 6 o'clock. <br/>
+> Keep the brochures until this afternoon. I need them back by 6 pm though. <br/>
+> You can borrow the laptop until the end of next week. Return it to my assistant by Friday next week. <br/>
+
+### By
+
+> 🔴 I need the report until / till Friday. ➡ 🟢 I need the report by Friday. <br/>
+> I have to leave by 3 o'clock. <br/>
+> Do you think you'll be able to finish it by Monday? <br/>
+> I need it back by the end of the week. <br/>
+> Can you repair my car by Friday? <br/>
+
+In opposite to **until**, **by** is just a preposition, but sometimes we need a conjunction, in this case we can use **
+by the time**.
+
+> I'll be at home until Sunday. ➡ I'll be at home by Sunday. (*preposition*)<br/>
+> I'll be at home until you come. ➡ I'll be at home by the time you come. (*conjunction*) <br/>
+
 ## Without a preposition
 
 Some words can be used instead of one of these prepositions.
