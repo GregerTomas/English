@@ -82,22 +82,6 @@ We can use it as both a countable and an uncountable noun.
 > I ate some fish. 💡*Snědl jsem ryby (více kusů ryb)* <br/>
 > I ate some fish. 💡*Snědl jsem rybu (kousek, kus masa)* <br/>
 
-## Pair nouns
-
-They exist only in plural.
-
-> goods 💡*zboží* <br/>
-> barracks 💡*kasárny* <br/>
-> trousers <br/>
-> scissors <br/>
-> pyjamas <br/>
-> glasses <br/>
-
-If we want to count them, we must use the phrase **a pair of**.
-
-> a pair of trousers 💡*jedny kalhoty*
-> two pairs of glasses 💡*dvoje brýle*
-
 ## Collective nouns
 
 > team <br/>
