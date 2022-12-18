@@ -417,3 +417,52 @@ We can use **round** in meanings like 💡*po městě, po bytě, ...*.
 Which cities, station, ... we visit during a trip / journey.
 
 > from Prague to New York via Frankfurt <br/>
+
+## Above or over
+
+We can use either if we say that something is directly above / over something else.
+
+> We live in an apartment above/over the grocery store. <br/>
+> There is a light above/over the coffee table. <br/>
+> The explosion formed an umbrella cloud above/over the volcano. <br/>
+> A huge spider was sitting over/above the door. <br/>
+> She had three stitches above/over the right eye. <br/>
+
+### Above
+
+We use **above** when we talk that something is indirectly above something else. **Above** can have a meaning 💡*všude
+nad* or 💡*vyšší pozice* as well.
+
+> They live in a small house above the river. <br/>
+> 80% of the area of the Maldives is less than one meter above sea level. <br/>
+> It was five degrees above zero. <br/>
+> Do you think there is a God above us? <br/>
+> <br/>
+> The sky above the town was full of clouds. <br/>
+> The ceiling above me was decorated with allegorical paintings. <br/>
+> <br/>
+> I'm my own boss. There's no one above me. <br/>
+> Above all, you should think about your kids. <br/>
+
+**Above** can be used as an adverb too.
+
+> The best gifts come from above. <br/>
+> For more information, see the chart above. <br/>
+> Is there a God above? <br/>
+> To be allowed to drink alcohol, you need to be 21 or above. <br/>
+
+### Over
+
+If something moves over something else.
+
+> A jet flew over the city. <br/>
+> There was a narrow bridge over the river. <br/>
+> A beautiful rainbow stretched over the hills. <br/>
+> The horse jumped over the fence. <br/>
+
+If something covers something else.
+
+> There was green canvas over the piano. <br/>
+> He put fresh paint over the graffiti on the wall. <br/>
+
+Be aware that **over** has much more meanings.
