@@ -123,3 +123,68 @@ We use it when we say that something is in the middle of something else.
 > Red's grandma lived in the middle of the forest. <br/>
 > He woke up in the middle of the night and couldn't go back to sleep. <br/>
 > I can't talk right now. I'm in the middle of something. Let me call you back. <br/>
+
+## In
+
+We use **in** when we say that something is inside something else (in some space) or something is on the surface, but
+inside some boundaries.
+
+> in the box <br/>
+> in the house <br/>
+> in the room <br/>
+> in the table <br/>
+> in my mouth <br/>
+> <br/>
+> in the garden / field <br/>
+> in the mountains <br/>
+> in the village <br/>
+> in the world <br/>
+> in New York, in the USA <br/>
+> in the pan <br/>
+> in the tree <br/>
+> in the sky <br/>
+> in the picture / photo <br/>
+> in the street <br/>
+
+## On
+
+We use **on** when
+
+* we say that something is on the surface of something, does not matter if the surface is horizontal or
+  vertical.
+* we want to say that something is lying on the street, highway, etc.
+* For means of public transport, we consider it as a deck.
+
+> on the table <br/>
+> on the roof <br/>
+> on the floor <br/>
+> on the wall <br/>
+> on the hill <br/>
+> <br/>
+> The shop is on / in Queen Street. <br/>
+> The city lies on the Hudson River. <br/>
+> There's a good motel on the road between X and Y. <br/>
+> It's on the south coast. <br/>
+> It's on the way to Jakesville. <br/>
+> <br/>
+> on the bus <br/>
+> on the train <br/>
+> on the plane <br/>
+> on the subway <br/>
+> on the bike, on the horse <br/>
+> ❗🔴 on the car, on the taxi ➡ 🟢 in the car, in the taxi <br/>
+
+See as well these examples where a lot of students do mistakes.
+> on the farm <br/>
+> on page 99 <br/>
+> on the left, on the right <br/>
+> on the second floor <br/>
+> on the map <br/>
+> on the menu <br/>
+
+### On 🆚 in
+
+> There are a lot of people in the street. 🆚 He is on the street. 💡*je bezdomovec* <br/>
+> There is a cat in the tree (space in the treetop). 🆚 Apples grew on the tree. <br/>
+> He is in the picture. 🆚 There is a mosquito on the picture <br/>
+> The man in the corner is my friend. 🆚 He is living on / at the corner of this street. <br/>
