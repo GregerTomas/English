@@ -68,6 +68,40 @@ Typically in connection with words like **home** or **abroad**.
 > How often do you go for a swim. ➡ How often do you go swimming? <br/>
 > My dad hates going shopping. <br/>
 
+## Meet
+
+### Meet without a preposition
+
+> I met here before the pub. <br/>
+
+### ✏ Meet with somebody
+
+We use it for very formal meetings (meetings of presidents, business meetings, political meetings).
+
+Can be replaced with **have a meeting with somebody**.
+
+> Agreed, Mr Hanson. I'll meet with you in court at 8 o'clock before the hearing starts. <br/>
+> The new Czech president has met with the Slovak president. <br/>
+> Andrea's marketing team meets with the CEO on Tuesdays. <br/>
+> Lobbyists meet with lawmakers in their offices instead of in bars or on golf courses. <br/>
+> Patients are advised to meet with a genetic counselor before they decide to get tested. <br/>
+
+### Meet with something
+
+It is a phrasal verb with two meanings.
+
+💡zažít něco nepříjemného, setkat se s něčím nepříjemným
+
+> I have never met with such poverty as in Cambodia. <br/>
+> Children usually don't know what to do when they meet with failure. <br/>
+> Drug addicts regularly meet with a nasty end. <br/>
+
+💡dočkat se od někoho určité reakce
+
+> I'm not surprised that my proposal hasn't met with your expectations! <br/>
+> I think we will meet with unwillingness from his part, but as you wish, call him. <br/>
+> Thatcher's uncompromising politics sometimes met with resistence. <br/>
+
 ## Care
 
 ### Care + about
