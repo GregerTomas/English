@@ -252,3 +252,168 @@ Again, if we do not mean the building itself, we us **at**. We use it with compa
 > at the match <br/>
 > at university <br/>
 > at sea 💡*na moři - o lodi, o plavbě* <br/>
+
+## Where (💡kam) prepositions
+
+### To
+
+💡do, k, na
+
+> to Italy <br/>
+> to school <br/>
+> to me <br/>
+> to the doctor <br/>
+> to the square <br/>
+> 🔴 I am going to home ➡ 🟢 I am going home. <br/>
+> 🔴 I am going to abroad. ➡ 🟢 I am going abroad. <br/>
+
+I would expect that **to** is used even with the verb **arrive**, but this is not the case.
+
+> We arrived at the bus stop five minutes late. <br/>
+> We arrived in Bristol at 10 pm. <br/>
+> We arrived home in time for dinner. <br/>
+
+### In, into, on, onto
+
+> I put it in the table. <br/>
+> I put it in the car. <br/>
+> I put it on the table. <br/>
+> I put it on the wall. <br/>
+
+Sometimes we can not distinguish if we answer to question 💡kde or 💡kam. If we want to emphasise
+the direction "💡kam", we can use **into** or **onto**.
+
+> He jumped on the stage. 🆚 He jumped onto the stage. <br/>
+> He was walking in the room. 🆚 He walked into the room. <br/>
+
+### Towards / toward
+
+💡k, směrem k
+
+These prepositions are equivalent and we use them to talk about a direction, not about a place.
+
+> He walked to the tree and climbed up. 🆚 He was walking towards the tree, but then he suddenly stopped. <br/>
+
+## From which way
+
+### From
+
+💡od, z
+
+It is an opposite to the preposition **to**.
+
+> to school ➡ from school <br/>
+> to the dentist ➡ from the dentist <br/>
+
+### Out of
+
+💡ven z
+
+It is an opposite to the preposition **in** / **into**.
+
+> out of the school <br/>
+> out of the car <br/>
+
+### Off
+
+💡z povrchu pryč
+
+It is an opposite to the preposition **on** / **onto**.
+
+> off the roof <br/>
+> off the table <br/>
+> off the wall <br/>
+
+We use **off** together with **on** for large means of transport and means of transport where we sit on. For small means
+of transport (taxi, car) we use **out of** together with **in**.
+
+> on / off the bus, on / off the train, on / off the plane <br/>
+> on / off the horse, on / off the bike <br/>
+> ❗in / out of the car, in / out of the taxi <br/>
+
+## Which way prepositions
+
+### Along
+
+💡po, podél
+
+> along the street <br/>
+> along the sidewalk <br/>
+> along the road <br/>
+> along the fence <br/>
+> along the river <br/>
+> along the wall <br/>
+
+### Up / down
+
+💡nahoru po (něčem), dolů po (něčem)
+
+> up the street <br/>
+> up the tree <br/>
+> up the stairs <br/>
+> down the street <br/>
+> down the tree <br/>
+> down the stairs <br/>
+
+Be careful, **down** means 💡*dolů po něčem*, in opposite **off** means 💡*dolů z něčeho*.
+
+> fall off / from the tree 🆚 climb down the tree <br/>
+> climb off the horse 💡(you don't climb on a horse) <br/>
+
+### Around / round
+
+💡kolem, okolo
+
+These prepositions are equivalent.
+
+> around the world <br/>
+> around the house <br/>
+> around our village <br/>
+> round the corner <br/>
+
+We can use **round** in meanings like 💡*po městě, po bytě, ...*.
+
+> We walked round the town. <br/>
+> I showed him round the house. <br/>
+
+### Past
+
+💡kolem (projít kolem)
+
+> past our house 💡*We do not walk around it.* <br/>
+> people walk past <br/>
+
+### Over
+
+💡přes (horem), nad
+
+> over the net <br/>
+> over the hill <br/>
+> a bridge over the river <br/>
+
+### Across
+
+💡přes (napříč)
+
+> across the street <br/>
+> across the river 💡*přebrodíme nebo přeplaveme* <br/>
+> over the river 💡*přeletí pták, přejdeme po mostě* <br/>
+
+### Through
+
+💡skrz, přes (skrz)
+
+> through the window <br/>
+> through the gate <br/>
+> through the skin <br/>
+> through the park <br/>
+> through the forest <br/>
+> through the crowd <br/>
+
+### Via
+
+💡přes (cestování)
+
+Which cities, station, ... we visit during a trip / journey.
+
+> from Prague to New York via Frankfurt <br/>
