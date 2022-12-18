@@ -188,3 +188,67 @@ See as well these examples where a lot of students do mistakes.
 > There is a cat in the tree (space in the treetop). 🆚 Apples grew on the tree. <br/>
 > He is in the picture. 🆚 There is a mosquito on the picture <br/>
 > The man in the corner is my friend. 🆚 He is living on / at the corner of this street. <br/>
+
+## At
+
+We use **at** when we mean a specific point in a place rather than a place or a surface, or we consider the thing as a
+whole.
+
+### Transport stop, stations, airports
+
+> at the bus stop <br/>
+> at the railway station <br/>
+> at the airport <br/>
+> at the second stop <br/>
+> at the terminal 💡*na konečné* <br/>
+
+We can use **at** before names of cities / streets / ... when we mean it as a transport stop.
+
+> We had to wait at Cedar Rapids. <br/>
+> Get off at George Street. <br/>
+> You'll have to change trains at Berlin. <br/>
+> Get off at the Colony Cinema. <br/>
+
+### Place on the map
+
+> I was waiting at the traffic lights. <br/>
+> Turn right at the bank. <br/>
+
+### Place + purpose
+
+> No, he isn't at home. 💡*We do not think only the building.* <br/>
+> He's still at work. <br/>
+> He's still at school. 🆚 We have a drinks machine in our school. <br/>
+> They're sitting at the table, having dinner. 🆚 He was standing by the table, looking at the picture on the wall. <br/>
+> Somebody's at the door. Can you open it? 🆚 He There's a shoe rack by the door. <br/>
+> She was standing at the window watching the people walking by. 🆚 He There is a table by the window. <br/>
+
+### At my place
+
+> I spent 2 weeks at my grandmother's (house) <br/>
+> I was at Jane's. <br/>
+> at the dentist's <br/>
+
+### Buildings
+
+Again, if we do not mean the building itself, we us **at**. We use it with company names as well.
+
+> We had lunch at the new restaurant. 🆚 It was very hot in the restaurant. <br/>
+> The film is at the Odeon Cinema. 🆚 The seats in the Odeon are very comfortable. <br/>
+> She works at Tesco. <br/>
+
+### Other phrases
+
+> at the top of the page <br/>
+> at the top of the stairs <br/>
+> at the bottom of the page <br/>
+> at the top of the mountain <br/>
+> at 16 Park Road 💡*address* 🆚 on/in Park Road 💡*street* <br/>
+> at the front / back of the house 🆚 in the front/back of the car <br/>
+> at the concert <br/>
+> at the wedding <br/>
+> at a party <br/>
+> at the conference <br/>
+> at the match <br/>
+> at university <br/>
+> at sea 💡*na moři - o lodi, o plavbě* <br/>
