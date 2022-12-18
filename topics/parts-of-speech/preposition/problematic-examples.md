@@ -1,5 +1,73 @@
 # Verb examples with prepositions
 
+## Go
+
+We use a lot of prepositions with the verb **go**.
+
+### Go + to
+
+We express that we go somewhere (to a place).
+
+> I'm going to Paris next week. <br/>
+> God, I'm tired. I'm going to bed. Good night. <br/>
+> Let's go to a pub and have a drink to celebrate. <br/>
+
+### Go + for
+
+💡jít něco dělat, jít / jet na
+
+> go for a walk <br/>
+> go for a drink <br/>
+> go for a swim <br/>
+> go for a ride <br/>
+> go for a run <br/>
+
+❗We do not use an article before words **breakfast**, **lunch** and **dinner**.
+> go for breakfast <br/>
+> go for lunch <br/>
+> go for dinner <br/>
+
+> Let's go for a drink. I'm sure you'll feel better. <br/>
+> Where do you want to go for lunch today? <br/>
+> My grandparents usually go for a walk after breakfast. <br/>
+> I feel like going for a swim. What about you? <br/>
+
+### Go + on
+
+💡jít na nějaký výlet / dovolenou
+
+> go on holiday <br/>
+> go on a tour <br/>
+> go on a trip <br/>
+> go on a cruise <br/>
+> go on a visit <br/>
+
+> Where are you going on holiday this summer? <br/>
+> I went to London on a business trip last week. <br/>
+> Do you think we should go on a guided tour? Is it worth it? <br/>
+> The band went on their first round-the-world tour. <br/>
+> A few hours after the ceremony they went on a honeymoon trip. <br/>
+> They decided not to go on holiday to Greece or Italy and went on a Mediterranean cruise. <br/>
+
+### Go + by
+
+We use it with manners of transport. ❗We do not use an article in these sentences.
+
+> We went there by car in the end and it was much faster. <br/>
+> If you can't take a bus, go by train. <br/>
+> I use public transport instead of going by car. <br/>
+> My mum is afraid of flying so we're going by bus. It'll take 8 hours! <br/>
+> I went there by bike, but someone stole it and I had to hitchhike on the way back. <br/>
+
+### Go without a preposition
+
+Typically in connection with words like **home** or **abroad**.
+
+> I was having a great time, but had to go home before midnight. <br/>
+> I usually go abroad in summer. My favourite holiday destination is Greece. <br/>
+> How often do you go for a swim. ➡ How often do you go swimming? <br/>
+> My dad hates going shopping. <br/>
+
 ## Leave
 
 > 🔴 I leave to London. ➡ 🟢 I leave for London. 💡*Odjet do Londýna. We leave one city for **another**.* <br/>
