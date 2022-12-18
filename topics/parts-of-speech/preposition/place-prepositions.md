@@ -509,3 +509,34 @@ If something is covered by something else.
 
 > Someone was hiding under the blanket. <br/>
 > The graffiti could still be seen under the fresh coat of paint. <br/>
+
+## Before 🆚 in front of
+
+In general, **before** is a time conjunction and **in front of** is a place conjunction.
+
+> He returned before dinner. <br/>
+> Before Christmas everybody goes crazy shopping. <br/>
+> There is a bus stop in front of our building. <br/>
+> A tall man was sitting in the seat in front of me so I couldn't see a thing. <br/>
+
+But sometimes we can use **before** also in a place meaning
+
+### Before my eyes
+
+It is not really about a specific place, it has rather a transferred meaning.
+
+> The fairy disappeared right before his eyes. <br/>
+> The accident happened before my very eyes. <br/>
+> Before me stretched the vast blue ocean. <br/>
+> She stood before the King and asked for mercy. <br/>
+> "Before God we are all equally wise – and equally foolish." – Albert Einstein <br/>
+> He proposed to her before a crowd of people. <br/>
+> He was brought before the jury. <br/>
+> She promised before two witnesses that she would pay back every cent. <br/>
+
+We can **in front of** in these sentences as well.
+
+### Order
+
+> A comes before B. <br/>
+> My husband puts his work before me. <br/>
