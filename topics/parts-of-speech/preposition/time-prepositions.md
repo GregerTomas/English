@@ -66,6 +66,42 @@ well, it is just an 🗣 informal variant of **until**.
 > The ticket is valid until / till December. <br/>
 > She didn't come back until 5 o'clock. <br/>
 
+#### Not ... until
+
+We use this phrase when we want to express that something happens late. Can be either a preposition or a conjuction.
+
+> He came at midnight. ➡ He didn't come until midnight. 💡*Nepřišel před půlnocí. Přišel **až** o půlnoci.* <br/>
+> She didn't finish the report until Friday afternoon. <br/>
+> I usually don't come home until eight. <br/>
+> Our boss isn't coming until next Monday. <br/>
+> I won't see him until five. <br/>
+> I couldn't fall asleep until two. <br/>
+> I didn't notice my mistake until it was too late. <br/>
+> She didn't see her brother again until she was 35. <br/>
+> You won't see the money until you are 18. <br/>
+> When is he coming back? Not until next Monday. <br/>
+> When are you going to talk to him again? – Not until he apologizes. <br/>
+
+##### Not ... until 🆚 not ... for another ...
+
+💡až za
+
+We talk about the length of a period.
+
+> 🔴 He didn't come until a few hours. ➡ 🟢 He didn't come for another few hours. 💡*Přišel až za několik hodin.* <br/>
+> We can watch a movie. I'm not going anywhere for another two hours. <br/>
+> He didn't see his parents for another nine years. <br/>
+> She didn't show up for another day. <br/>
+> I can't give it back to you for another two days. <br/>
+> We still have time. The show doesn't start for another hour. <br/>
+> They probably won't finish for another three weeks. <br/>
+> My birthday's not for another month. <br/>
+> When is he coming back? – Not for another five days. <br/>
+
+You can encounter the **not ... for** phrase too.
+
+> We won't get home for three weeks. <br/>
+
 #### Until 🆚 to
 
 We can use **to** instead of **until** when we use the preposition **from**.
