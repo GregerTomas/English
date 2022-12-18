@@ -115,3 +115,47 @@ We can use **eventually** instead of this phrase.
 > Who did they choose eventually? <br/>
 > You'll have to do it eventually anyway. <br/>
 
+## Other
+
+| verb / adjective | preposition | example                                                         |
+|------------------|-------------|-----------------------------------------------------------------|
+| listen           | to          | I like listening to music. What kind of music do you listen to? |
+| look             | at          | Look at that girl!                                              |
+| married          | to          | He is married to a famous woman                                 |
+| ride             | -           | I often ride a bike. 💡*I am the driver.*                       |
+| ride             | -           | I often ride on a bike. 💡*Somebody else is the driver.*        |
+| play             | -           | My sister plays the piano.                                      |
+
+## School
+
+### Marks
+
+We use the preposition **in**.
+
+> 🔴 I got an A from Math today. ➡ 🟢 I got an A in Math today. <br/>
+> 🔴 We have a test from Geography tomorrow. ➡ 🟢 He ended up with a D in French. <br/>
+> 🔴 I have a certificate from English. ➡ 🟢 What did you get in Math? <br/>
+> I got an A in the test! <br/>
+
+### Tests
+
+We can simply put the word **test** before a subject name.
+
+> We have a history test tomorrow. <br/>
+> She failed her English test. <br/>
+> Most of the questions in the Geography test were really easy. <br/>
+
+If it is test on a specific topic, we use the preposition **on**.
+
+> He needed to study for the test on state capitals. <br/>
+> What was the test on? <br/>
+> He gave us a pop quiz on fractions. <br/>
+
+### Qualifications and exams
+
+We use the preposition **in**.
+
+> He has a certificate in computer programming. <br/>
+> I am thinking about doing a degree in English Literature. <br/>
+> Raj has a Ph.D. in astrophysics. <br/>
+
