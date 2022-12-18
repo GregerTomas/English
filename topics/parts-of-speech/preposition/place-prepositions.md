@@ -466,3 +466,46 @@ If something covers something else.
 > He put fresh paint over the graffiti on the wall. <br/>
 
 Be aware that **over** has much more meanings.
+
+## Below or under
+
+We can use either if we say that something is directly below / under something else.
+
+> He climbed below / under the car to fix something. <br/>
+> There is a small wine cellar under / below the poolhouse. <br/>
+> She turned the phone on under / below the desk. <br/>
+
+### Below
+
+Opposite to [above](#above).
+
+We use **below** when we talk that something is indirectly below something else. **Below** can have a meaning 💡*všude
+pod* or 💡*nižší pozice* as well.
+
+> They live in a small house below the hill. <br/>
+> The lowest point in the USA is 86 metres below sea level. <br/>
+> It was five degrees below zero. <br/>
+> There is no hell below us, only dirt! <br/>
+> Below us, the blue ocean stretched out as far as the eye could see. <br/>
+> I'm the department manager. There are five people working below me. <br/>
+
+**Below** can be used as an adverb too.
+
+> For more information, see the chart below. <br/>
+> If you're seventeen and below, they won't let you into the club. <br/>
+> We were looking at the vast ocean below. <br/>
+
+### Under
+
+Opposite to [over](#over).
+
+If something moves under something else.
+
+> A great white shark swam under the boat. <br/>
+> They travelled 20,000 leagues under the sea. <br/>
+> The dog dug a hole under the fence. <br/>
+
+If something is covered by something else.
+
+> Someone was hiding under the blanket. <br/>
+> The graffiti could still be seen under the fresh coat of paint. <br/>
