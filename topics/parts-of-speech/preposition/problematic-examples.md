@@ -256,3 +256,72 @@ We use the preposition **in**.
 > I am thinking about doing a degree in English Literature. <br/>
 > Raj has a Ph.D. in astrophysics. <br/>
 
+## By 🆚 with
+
+We often use these prepositions in a connection with adverbial determinations of manner.
+
+### By
+
+The preposition **by** express a manner or a method, how we can manage to do something / achieve something.
+
+> He got to where he is by hard work and perseverance. <br/>
+> We will contact you by e-mail. <br/>
+> I paid by credit card. <br/>
+> We can get there by train or by plane. <br/>
+> The burglar must have escaped by the back door. <br/>
+
+We often use the gerundium after it.
+
+> You can only win by taking risks. <br/>
+> He started his talk by quoting Albert Einstein. <br/>
+> You can open the doors by pressing this button. <br/>
+> You can relieve an itch by scratching it, but it will probably just make it worse. <br/>
+> She tried to see over the wall by standing on her toes. <br/>
+
+As an opposite, we can use **without**.
+
+> He knew how to ride the bike without holding the handlebars. <br/>
+> He never won without cheating. <br/>
+
+We can use the preposition **through** (💡*prostřednictvím čeho, skrze*) instead of **by**.
+
+> You can achieve a lot through hard work. <br/>
+> He improved through practicing every day. <br/>
+> Some tried to gain advantages through bribery. <br/>
+> Did you get the job through someone? <br/>
+
+### With
+
+We use the preposition **with** in a connection with a tool which we do something with.
+
+> He tried to swat the fly with a newspaper. <br/>
+> Do you know how to chop firewood with an axe? <br/>
+> The boy drew a circle with a compass. <br/>
+
+As an opposite, we can use **without**.
+
+> Can you draw a straight line without a ruler? <br/>
+> You can't fix it without a screwdriver. <br/>
+
+We can use the present participle of the verb **use (using)** as a preposition before tools.
+
+> He opened the box using a screwdriver. <br/>
+> They fought using swords and shields. <br/>
+> You can measure this angle using a protractor. <br/>
+> The teacher spoke to her using sign language. <br/>
+
+## In passive
+
+The preposition **by** is used for expressing 💡činitele (kdo nebo co něco způsobilo). In opposite, we use **with** for a
+tool which was used to do something.
+
+> damaged by a burglar <br/>
+> damaged by a tornado <br/>
+> damaged with an axe <br/>
+> The cabin was destroyed by fire. <br/>
+> The temple was built by the Aztecs. <br/>
+> This is one of the best pieces composed by Mozart. <br/>
+> You could be hit by a truck tomorrow. You never know. <br/>
+> The door was unlocked with a bobby pin. <br/>
+> The victim was hit with a blunt object. <br/>
+> The car window was broken with a rock. <br/>
