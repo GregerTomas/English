@@ -68,6 +68,35 @@ Typically in connection with words like **home** or **abroad**.
 > How often do you go for a swim. ➡ How often do you go swimming? <br/>
 > My dad hates going shopping. <br/>
 
+## Care
+
+### Care + about
+
+💡záležet na někom / na něčem
+
+> I care about you. <br/>
+> She really cared about him. <br/>
+> He only cares about money. <br/>
+> They don't care about him anymore. <br/>
+> Do you still care about me? <br/>
+
+### Take care (noun) + of
+
+💡starat se o něco / někoho, pečovat
+
+
+> He had to take care of her. <br/>
+> David took care of the problem in no time. <br/>
+> My father takes very good care of his car. <br/>
+> Do you think our neighbour could take care of our dog while we're away? <br/>
+> After dinner her date took care of the bill. <br/>
+
+We can use **look after** as well.
+
+### ⏳ Care + for
+
+[link](https://www.englishme.cz/app/article?number=2020060701&backlink=%2Ftests%2Ftopic%2Fdefault%3Fid%3D382%26backlink%3D%252Ftests%252Ftopic%252Fgrammar-list)
+
 ## Leave
 
 > 🔴 I leave to London. ➡ 🟢 I leave for London. 💡*Odjet do Londýna. We leave one city for **another**.* <br/>
