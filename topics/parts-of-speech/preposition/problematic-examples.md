@@ -69,3 +69,49 @@ in** and **at** or **on** with this verb, it depends on what preposition is used
 > They went to the island last week. ➡ They were / arrived on the island at 5. <br/>
 > They got to the island at 5 o'clock in the morning. ➡ They were / arrived on the island at 5. <br/>
 > They came to the island at 5 o'clock in the morning. ➡ They were / arrived on the island at 5. <br/>
+
+## At the end 🆚 in the end
+
+> We signed the contract at the end of the meeting. 🆚 We signed the contract at the end.
+> We sang a song at the end and went home. 💡*například na konci školní hodiny* 🆚 We sang a song in the end and went
+> home. 💡*Nevyjadřujeme, kdy jsme si zazpívali, ale dáváme důraz na to, že jsme se například rozhodovali (jestli si
+zazpíváme, nebo ne). Nakonec jsme se ale rozhodli si zazpívat.*
+
+### At the end
+
+💡*na konci něčeho*
+
+> at the end of the movie <br/>
+> at the end of the street <br/>
+> at the end of the meeting <br/>
+> at the end of March <br/>
+
+We use it together with a preposition **of**, which is not always necessary.
+
+> At the end of the movie they get married. <br/>
+> Our house is at the end of the street. <br/>
+> At the end of the meeting they made an agreement. <br/>
+> They are coming at the end of March. <br/>
+> We sang a song at the end of the class and went home. ➡ We sang a song at the end and went home. <br/>
+
+### In the end
+
+💡*nakonec, v důsledku něčeho*
+
+Something happened after a some kind of process (for example thought process).
+
+> We wanted to go to Greece, but we flew to Spain in the end. <br/>
+> In the end, we made an agreement, but it took at least 3 hours. <br/>
+> I wanted to go to the party, but in the end I didn't. <br/>
+> He was three hours late in the end. <br/>
+> What did you do in the end? <br/>
+> Who did they choose in the end? <br/>
+
+We can use **eventually** instead of this phrase.
+
+> Eventually, we made an agreement, but it took at least 3 hours. <br/>
+> He was eventually three hours late. <br/>
+> What did you do eventually? <br/>
+> Who did they choose eventually? <br/>
+> You'll have to do it eventually anyway. <br/>
+
