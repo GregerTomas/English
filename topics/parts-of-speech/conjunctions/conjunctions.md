@@ -126,3 +126,36 @@ The opposite is **uneven**.
 > Jack evened the score again. <br/>
 > Even the surface out with a plane. <br/>
 > Harris scored and evened the match up to 4–4 in the last minute. <br/>
+
+## When 🆚 if
+
+**when** is a time conjunction, in opposite **if** is a conditional conjunction.
+
+We do not often use a future tense after them, but that is not always true.
+
+> 🔴 If I will see him, I will tell him to call you. ➡ 🟢 If I see him, I will tell him to call you. <br/>
+> 🔴 When I will see him, I will tell him to call you. ➡ 🟢 When I see him, I will tell him to call you. <br/>
+
+### In the past
+
+> When I was young, I liked pop music. <br/>
+> I saw Buckingham Palace when I was in London. <br/>.
+> I don't know when he arrived. 💡*Nevím, kdy dorazil.* 🆚 I don't know if he arrived. 💡*Nevím, jestli dorazil.* <br/>
+
+### In the future
+
+**when** 💡když, až
+
+**if** 💡když, pokud, jestli ➡ **1st conditional**
+
+> When I see him, I will tell him. = Až ho uvidím, řeknu mu to. 💡*Vím, že ho uvidím. Je to jen otázka času, kdy se tak
+stane.* 🆚 If I see him, I will tell him. = Pokud ho uvidím, řeknu mu to. 💡*Nevím, jestli ho uvidím. Pokud se tak stane,
+řeknu mu to.* <br/>
+> I don't know when he'll come. 💡*Nevím, kdy přijde.* 🆚 I don't know if he'll come. 💡*Nevím, jestli přijde.* <br/>
+
+### In the present
+
+**when = if** 💡když, pokud, jestli ➡ **2nd conditional**
+
+> If you water plants, they grow. 💡*Pokud/Jestli zalijete rostliny, rostou.* <br/>
+> When you water plants, they grow. 💡*Když zalijete rostliny, rostou.* <br/>
