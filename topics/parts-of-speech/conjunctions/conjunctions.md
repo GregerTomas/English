@@ -190,3 +190,64 @@ We can use **till** instead of **until.
 > I'll wait for you here until you come back. ➡ I'll wait for you here till you come back. <br/>
 > I'll stay there until you call me. ➡ I'll stay there till you call me. <br/>
 > You're not going outside until you clean your room. ➡ You're not going outside till you clean your room. <br/>
+
+## Whether
+
+💡jestli, zda, zdali
+
+### Conditionals
+
+We can not use it in the conditional sentences.
+
+> 🔴 We would have died whether they hadn't saved us. ➡ 🟢 We would have died if they hadn't saved us. <br/>
+
+### Object clauses
+
+We can often use both **whether** and **if**, whether is in this case more ✏formal.
+
+> I don't know whether / if we'll make it. <br/>
+> Could you tell me whether / if Mr Smith is in his office? <br/>
+> I don't know whether / if I should trust her. <br/>
+
+We must use **whether** in following cases.
+
+#### A subordinate clause after preposition
+
+> 🔴 He was worried about if he would get the job or not. ➡ 🟢 He was worried about whether he would get the job or
+> not. <br/>
+> We still had no answer to whether if they would do it or not. <br/>
+> The investors wrestled with whether they should invest in our company. <br/>
+
+#### Object with infinitive phrase
+
+> 🔴 I don't know if to apply to Oxford or Cambridge. ➡ 🟢 I don't know whether to apply to Oxford or Cambridge. <br/>
+> She's still considering whether to take the job. <br/>
+> You have to choose whether to continue with the relationship or bail out. <br/>
+
+#### Whether or not
+
+> 🔴 I don't know if I should trust her. ➡ 🟢 I don't know whether or not I should trust her. <br/>
+> She didn't say whether or not she would be here for dinner. <br/>
+
+If we use **or not** at the end of the sentence, we can even use **if**.
+
+> I don't know whether I should trust her or not. ➡ I don't know if I should trust her or not. <br/>
+> She didn't say whether she would be here for dinner or not. ➡ She didn't say if she would be here for dinner or
+> not. <br/>
+
+#### Object clauses at beginning of sentence
+
+> Whether I passed the test I don't know yet. <br/>
+
+#### After verb be
+
+> The question is whether he was telling the truth. <br/>
+
+### Relative clauses
+
+We can replace it with **if** unless it is followed by an infinitive or **whether or not** phrase.
+
+> He raised a question whether the proposal was feasible. ➡ He raised a question whether / if the proposal was feasible.
+> 🔴 He raised a question if to go ahead with the plan. ➡ 🟢 He raised a question whether to go ahead with the plan. <br/>
+> 🔴 He raised a question if or not they should go ahead with the plan. ➡ 🟢 He raised a question whether or not they
+> should go ahead with the plan. <br/>
