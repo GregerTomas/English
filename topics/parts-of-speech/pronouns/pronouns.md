@@ -95,3 +95,32 @@ We can use a reflexive pronoun to emphasize the subject or an object.
 > Jack had a lot to learn before he could drive by himself. <br/>
 > I bought him a drink but he didn't want it, so I had to drink it myself. 🆚 Nobody came to the party so I drank the
 > whole bottle by myself. <br/>
+
+## Each other
+
+See [here](../determiners/basic-determiners.md)
+
+## Demonstratives
+
+**this** 💡tento
+**these** 💡tyto
+**that** 💡tamten
+**those** 💡tamty
+
+We use **this** and **these** for things the speaker has nearby (they are *here*). In opposite, we use **that** and **
+those** for things
+that are distant from the speaker, are with person being spoken to or are with a third person (they are *there*).
+
+> This is my bag. <br/>
+> These are my shoes. <br/>
+> That is your bag. <br/>
+> Those are your shoes. <br/>
+
+Demonstratives should be used only if necessary.
+
+> 🔴 What's this? This is my bag. What's this? ➡ 🟢 What's this? It's my bag. <br/>
+> 🔴 Is that your car? – That's mine. ➡ 🟢 Is that your car? Yes, it's mine. <br/>
+> What are these? They are my sleeping pills. <br/>
+> The table is black. 🆚 This table is black. 💡If there is only one table in the room, we should use the definite
+> article. <br/>
+
