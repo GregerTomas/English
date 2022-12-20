@@ -124,3 +124,31 @@ Demonstratives should be used only if necessary.
 > The table is black. 🆚 This table is black. 💡If there is only one table in the room, we should use the definite
 > article. <br/>
 
+## One
+
+We can use pronouns like **someone**, **no one**, **anyone**, etc.
+
+> Someone stole my bag! <br/>
+> I haven't seen anyone. <br/>
+> No one helped me. <br/>
+
+It can represent an indefinite person as well (✏ rather formal, 🗣 in informal English we can use **you**).
+
+> One never knows. ➡ You never know. <br/>
+> It doesn't matter what one believes. <br/>
+> Lions are not as dangerous as one might think. ➡ Lions are not as dangerous as you might think. <br/>
+
+It can represent a countable noun, there is even a plural. We can omit it in questions. We can not use it after
+possessive pronouns, after numerals and some other words (**many**, **few**, **some**, **both**, **all**, etc.).
+
+> I have two shirts. A blue shirt and a white one. This is the blue one. <br/>
+> Which shoes? ➡ Which ones? <br/>
+> The red shoes. ➡ The red ones. <br/>
+> The shoes that you gave me. ➡ The ones that you gave me. <br/>
+> Which (one) do you like better? <br/>
+> This (one)? <br/>
+> I like these. <br/>
+> 🔴 Was the balloon filled with cold air or hot air? – Cold one. 💡*uncountable* <br/>
+> 🔴 Your car is broken? You can borrow my one. ➡ 🟢 Your car is broken? You can borrow mine. <br/>
+> 🔴 Which one do you like better? Both ones. ➡ 🟢 Which one do you like better? I like both. / I like them both. <br/>
+> 🔴 How many dogs do you have? Two ones. ➡ 🟢 How many dogs do you have? I've got two. <br/>
