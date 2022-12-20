@@ -159,3 +159,34 @@ stane.* 🆚 If I see him, I will tell him. = Pokud ho uvidím, řeknu mu to. �
 
 > If you water plants, they grow. 💡*Pokud/Jestli zalijete rostliny, rostou.* <br/>
 > When you water plants, they grow. 💡*Když zalijete rostliny, rostou.* <br/>
+
+## Until 🆚 unless
+
+Until can be used a a preposition as well.
+
+**until** (time conjunction) 💡dokud ne (kdy)
+
+**unless** (conditional conjunction) 💡pokud ne (jestli)
+
+Be aware of the future tense and the double negation.
+
+> 🔴 I'll wait for you here until you will come back. ➡ 🟢 I'll wait for you here until you come back. <br/>
+> 🔴 I'll come at 5 unless there will be a traffic jam. ➡ 🟢 I'll come at 5 unless there is a traffic jam. <br/>
+> 🔴 I'll wait for you here until you don't come back. ➡ 🟢 I'll wait for you here until you come back. <br/>
+> 🔴 I'll come at 5 unless there isn't a traffic jam. ➡ 🟢 I'll come at 5 unless there is a traffic jam. <br/>
+
+> I'll stay there until you call me. 💡*Zůstanu tam, dokud mi nezavoláš (než mi zavoláš).* <br/>
+> I'll stay there unless you call me. 💡*Zůstanu tam, pokud mi nezavoláš (jestli mi zavoláš).* <br/>
+
+We can use **if not** instead of **unless**.
+
+> I'll stay there unless you call me. ➡ I'll stay there if you don't call me. <br/>
+> You won't pass the exam unless you study hard. ➡ You won't pass the exam if you don't study hard. <br/>
+> Unless the weather improves, we will have to stay at home. ➡ If the weather doesn't improve, we will have to stay at
+> home. <br/>
+
+We can use **till** instead of **until.
+
+> I'll wait for you here until you come back. ➡ I'll wait for you here till you come back. <br/>
+> I'll stay there until you call me. ➡ I'll stay there till you call me. <br/>
+> You're not going outside until you clean your room. ➡ You're not going outside till you clean your room. <br/>
