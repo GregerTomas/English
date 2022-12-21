@@ -152,3 +152,37 @@ possessive pronouns, after numerals and some other words (**many**, **few**, **s
 > 🔴 Your car is broken? You can borrow my one. ➡ 🟢 Your car is broken? You can borrow mine. <br/>
 > 🔴 Which one do you like better? Both ones. ➡ 🟢 Which one do you like better? I like both. / I like them both. <br/>
 > 🔴 How many dogs do you have? Two ones. ➡ 🟢 How many dogs do you have? I've got two. <br/>
+
+## Compound indefinite pronouns
+
+> some / any / no / every + thing / body / one / where / time
+
+### Anything
+
+> Does she have anything in her wallet? 💡*něco* <br/>
+> I didn't ask him anything. 💡*nic* <br/>
+> I need something to eat. Anything! 💡*cokoli* <br/>
+
+### Somebody / someone
+
+> Somebody wants to speak to you. <br/>
+> I need someone to help me. <br/>
+
+### Nobody / no one
+
+> There was nobody in the house. <br/>
+> No one is going to help you. <br/>
+
+### Anybody / anyone
+
+> Did you know anybody at the party last night? 💡*někoho* <br/>
+> She didn't see anybody. 💡*nikoho* <br/>
+> Anybody can learn English. 💡*kdokoli* <br/>
+
+### Everybody / everyone
+
+We use a singular verb after them.
+
+> 🔴 Everyone are happy. ➡ 🟢 Everyone is happy. <br/>
+> Everybody was smiling. <br/>
+> Pay attention, everyone. <br/>
