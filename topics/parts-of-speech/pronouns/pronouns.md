@@ -186,3 +186,33 @@ We use a singular verb after them.
 > 🔴 Everyone are happy. ➡ 🟢 Everyone is happy. <br/>
 > Everybody was smiling. <br/>
 > Pay attention, everyone. <br/>
+
+## So
+
+We can replace something which someone recently told (in 🗣informal English we can sometimes use **it**).
+
+> If you haven't registered yet, please do so as soon as possible. <br/>
+> She told her dog to sit and it did so immediately. <br/>
+> "See? I told you so!" he said triumphantly. <br/>
+> If he doesn't want to go to college, why doesn't he say so. <br/>
+> I think he's a bit slow. But don't tell him I said so. <br/>
+> She works for the government, or so she claims. <br/>
+> Did you enjoy the book? If so, what did you like about it? 💡*if it is so* <br/>
+> Do you still love me? – Very much so. <br/>
+
+### Think so, believe so, hope so
+
+> I think so. 💡*myslím si, že ano* <br/>
+> It seems so. 💡*zdá se, že ano* <br/>
+> if so... 💡*jestliže ano* <br/>
+
+We confirm something which was told.
+
+> He said it. 💡*řekl to (slovo, informaci, větu)* 🆚 He said so. 💡*řekl, že to tak je, řekl, že ...* <br/>
+> Is she coming to the party? I think so. ➡ I think it's true, I think she is coming to the party. <br/>
+> Is Charlie in his office? I believe so. <br/>
+> Did you pass the test? Um, I guess so. <br/>
+> Don't worry, she will be fine. I really hope so. <br/>
+> Does he still work there? Well, I suppose so. <br/>
+> I suppose it's going to rain? It certainly seems so. <br/>
+> 🔴 Is she coming to the party? I think that yes / I think it. ➡ 🟢 Is she coming to the party? I think so. <br/>
