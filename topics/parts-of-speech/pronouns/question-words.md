@@ -24,6 +24,7 @@ The following is a list of question word. See also [this pdf file](question-word
 > What do you want to be? 💡*Čím chceš být?* <br/>
 > What colour is your bike? 💡*Jakou barvu má tvoje kolo? <br/>
 > What is your job? 💡*Jaké je tvoje zaměstnání? <br/>
+> 🔴 How is it called? ➡ 🟢 What is it called? 💡*ptáme se na věc, nikoliv na způsob* <br/>
 
 ## Who
 
@@ -97,3 +98,24 @@ We can use the verb directly after **whose**, but it is not so often.
 
 > How are you? 💡*Jak se máš?* <br/>
 > How do you get to work? 💡*Jak jezdíš do práce?* <br/>
+
+## Whom
+
+💡object pronoun *(me, you, him, her. it, us, you, them)*
+
+It can be replaced with **who** (it is preferable) if there is no preposition before (if so, the preposition must be
+moved at the end of
+the sentence).
+
+> Whom did you see? ➡ Who did you see? <br/>
+> The man whom we met was handsome. ➡ The man who we met was handsome. <br/>
+> To whom did she talk? ➡ Who did she talk to? <br/>
+> The Browns, with whom we spent our vacation, are very nice people. ➡ The Browns, who we spent our vacation with, are
+> very nice people. <br/>
+> 🔴 To who did she talk? ➡ 🟢 Who did she talk to? <br/>
+
+We use it especially in short questions with a preposition.
+
+> She was in the cinema last night. With whom? <br/>
+> For whom are you waiting here? <br/>
+> Against whom are you playing that match? <br/>

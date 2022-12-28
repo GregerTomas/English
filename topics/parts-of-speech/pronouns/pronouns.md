@@ -29,7 +29,7 @@ In formal English you can use a subject pronoun after a linking verb.
 
 ## Alone pronoun
 
-The subject pronoun form is preferred.
+The object pronoun form is preferred.
 
 > Come here. Who? Me? <br/>
 > Who is it? Me! <br/>
