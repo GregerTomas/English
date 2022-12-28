@@ -58,12 +58,22 @@ The following is a list of question word. See also [this pdf file](question-word
 
 ### Which 🆚 what
 
-If we talk in general terms, we use **what**. If we have a limited count, we use **which**.
+When selecting from an indefinite (large) number, use **what**. When selecting from a definite (small) number, use **
+which**.
 
 > What ice cream do you like? 💡*Jakou máš rád zmrzlinu? (Ptáme se obecně, jakou má rád zmrzlinu. Ze všech možných
 druhů.) <br/>
 > Which ice cream do you want? 💡*Kterou chceš zmrzlinu? (Jsme třeba v obchodě, kde mají deset druhů zmrzliny, a ptáme
 > se, kterou z těchto deseti někdo chce.) <br/>
+
+> What sport do you like? <br/>
+> What colour is your bike? <br/>
+> What's your email address? <br/>
+> What sandwich filling do you like? <br/>
+
+> Which leg did she break? <br/>
+> Which sandwich would you like? Tuna or ham? <br/>
+> Which channel is the film on? BBC1 or BBC2? <br/>
 
 ## Why
 
@@ -82,6 +92,8 @@ druhů.) <br/>
 ## How
 
 💡jak (ptáme se na způsob)
+
+We can use the verb directly after **whose**, but it is not so often.
 
 > How are you? 💡*Jak se máš?* <br/>
 > How do you get to work? 💡*Jak jezdíš do práce?* <br/>
