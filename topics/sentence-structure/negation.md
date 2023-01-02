@@ -19,11 +19,14 @@
     - [Never](#never)
     - [Until / unless](#until--unless)
     - [Words with negative meaning](#words-with-negative-meaning)
-    - [Ain't](#aint-)
     - [Usage of negation and really](#usage-of-negation-and-really)
+    - [Ain't](#aint-)
+    - [Summary](#summary)
 - [Transferred negation](#transferred-negation)
 - [Negative concord](#negative-concord)
 - [Double concord](#double-concord)
+    - [Lexical + grammatical negation](#lexical--grammatical-negation)
+    - [Two grammatical negations](#two-grammatical-negations)
 
 <hr/>
 
@@ -301,14 +304,93 @@ A very informal negative form of the verb **be** and sometimes of other verbs.
 > I haven't got any money. ➡ I ain't got no money. <br/>
 > He hasn't seen anything. ➡ He ain't seen nothing. <br/>
 
+### Summary
+
+Usually the negation stands with the verb and the rest of the sentence is positive (alternatively it contains **
+anything**,
+**anyone**, **anybody**, **anywhere**).
+
+We can use a positive verb with another type of negation like **no**, **none**, **nobody**, **no one**, **nothing**, **
+never**, **nowhere**,
+**neither**.
+
+If a subject is negative (**nobody**, **nothing**, **none**, **neither**), the verb and all other parts of the sentences
+are positive.
+If an adverb **never** is included, the rest of the sentence is positive.
+
 <hr/>
 
 ## Transferred negation
+
+A transferring the negation of the subordinate clause to the verb of the main clause.
+
+> I want you not to go there. ➡ I don't want you to go there. <br/>
+> This is what I think: You shouldn't do it. ➡ I don't think you should do it. <br/>
+> This is what I think: It won't help. ➡ I don't think it will help. <br/>
+> This is what I think: He doesn't live here anymore. ➡ I don't think he lives here anymore. <br/>
+> This is what I think: She will never change. ➡ I don't think she will ever change. <br/>
+> This is what I think: Nothing happened. ➡ I don't think anything happened. <br/>
+> This is what I thought: You can't do it. ➡ I didn't think you could do it. <br/>
+> This is what I always thought: It doesn't matter. ➡ I never thought it mattered. <br/>
+
+Not every verb causes the transferred negation. Only verbs expressing our thoughts (**think**, **suppose**, **believe**
+, **feel**,
+**imagine**) and how something appears to us (**seem**, **appear**) do so. In opposite, for example **wish**, **guess**
+, **bet**, **hope** do not so.
+
+> I don't think you realise what this means. You could lose your job over this. <br/>
+> I didn't tell her where I was going because I didn't suppose she'd care. <br/>
+> Hi, I don't believe we've met. I'm Richie. <br/>
+> Her parents didn't feel he was good enough for her. <br/>
+> I did not expect you to do that. <br/>
+> I do not want you to do that. <br/>
+> He's flunking out of school and he doesn't seem to care. <br/>
+> My question doesn't appear to be answered in the FAQ. <br/>
+> 🔴 I don't wish it was. ➡ 🟢 I wish it wasn't true. <br/>
+> 🔴 I don't guess he is. ➡ 🟢 I guess he's not happy. <br/>
+> 🔴 I don't hope it is. ➡ 🟢 I hope it's not going to rain. <br/>
+> 🔴 I don't bet you knew. ➡ 🟢 I bet you didn't know. <br/>
 
 <hr/>
 
 ## Negative concord
 
+In Czech (even in 🗣 informal English), we use multiple negations in sentences which are negative as well. Contrary, in
+English only one negation is possible.
+
+> Nobody has ever done anything to me. 💡*Nikdo mi nikdy nic neudělal.* <br/>
+
 <hr/>
 
 ## Double concord
+
+Double negation behaves like logical negation - two negations are erased and the meaning of a sentence is positive.
+
+> He did not say nothing. 💡*ne, že nic neřekl / něco řekl*
+
+There are two types of negation:
+
+* **lexical** - prefixes (**un-**, **in-**, **im-**, ...) / suffixes (**-less**, **-free**, ...)
+* **grammatical** - do not, nobody, ...
+
+### Lexical + grammatical negation
+
+More often than [two grammatical negation](#two-grammatical-negations).
+
+> It wasn't impossible. ➡ It was possible. 💡*grammatical - wasn't, lexical - impossible* <br/>
+> Sarah isn't unattractive. ➡ Sarah is attractive. 💡*grammatical - isn't, lexical - unattractive* <br/>
+> Nobody can do it without money. 💡*grammatical - nobody, lexical - without* <br/>
+> It's not hopeless, there's hope! 💡*grammatical - is not, lexical - hopeless* <br/>
+
+### Two grammatical negations
+
+> I don't like doing nothing. ➡ I like doing nothing. 💡*grammatical - negative main clause and negative secondary
+subject clause* <br/>
+> 🆚 <br/>
+> I don't like doing anything <br/>
+
+> I can't not say anything about it. ➡ I must say something. 🆚 I can't say anything about it. <br/>
+> Nobody has never made a mistake. ➡ Everyone has made a mistake. 🆚 Nobody has ever made a mistake. <br/>
+> Nobody had nothing to say to me. <br/>
+> Nothing ever happens for no reason at all. <br/>
+> Not a day passed when she did not receive a card or letter from him. <br/>
