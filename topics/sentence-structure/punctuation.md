@@ -166,3 +166,82 @@ We use a comma only if they do not stand before a noun or if we express our opin
 > She was tall, slim and sexy. <br/>
 > I saw an interesting, funny movie. <br/>
 
+<hr/>
+
+## Apostrophe
+
+## Hyphen
+
+💡spojovník
+
+It connects words together.
+
+### Numbers
+
+> twenty-four <br/>
+> twenty-fourth <br/>
+> two-thirds <br/>
+
+### Nouns
+
+> mother-in-law <br/>
+
+### Nouns formed from phrasal verbs
+
+> make-up <br/>
+> work-out <br/>
+> screw-up <br/>
+> lift-off <br/>
+
+### Composed adjectives
+
+Especially with the suffix **-ing** and **-ed** or with adjectives which substitute a phrase (we can use quotes too).
+
+> good-looking <br/>
+> soft-hearted <br/>
+> middle-aged <br/>
+> blue-eyed <br/>
+> left-handed <br/>
+
+> He had this how-stupid-do-you-think-I-am kind of look on his face. <br/>
+> He is a the-glass-is-always-half-empty kind of person. <br/>
+> We have an I-scratch-your-back-and-you-scratch-mine kind of relationship. <br/>
+> She gave him a deer-in-the-headlights look.
+> She had an I-love-you kind of look on her face. ➡ She had an “I love you” kind of look on her face. <br/>
+
+> He is five years old. ➡ He's a five-year-old boy. <br/>
+> He's six feet tall. ➡ He's a six-foot-tall man. <br/>
+> I work part time. ➡ I have a part-time job. <br/>
+> The service was top notch. ➡ They provided top-notch service. <br/>
+> The phone is state of the art. ➡ It's a state-of-the-art phone. <br/>
+> She is hard to get. ➡ She's a hard-to-get woman. <br/>
+
+### Prefixes **ex-**, **co-**, **anti-**, **pre-**
+
+Not always necessary (slowly fading away)
+
+> ex-boyfriend <br/>
+> ex-president <br/>
+> co-operation <br/>
+> co-worker <br/>
+> co-director <br/>
+> anti-drug <br/>
+> anti-semitism <br/>
+> pre-school <br/>
+> mid-eighties <br/>
+> non-smoker <br/>
+> non-profit <br/>
+> non-verbal <br/>
+
+The hyphen is necessary if we use a name with the capital letter or if two same letter are behind each other.
+
+> pre-Christian <br/>
+> un-American <br/>
+> mid-October <br/>
+> 🔴 antiimpotence ➡ 🟢 anti-impotence <br/>
+> 🔴 reevaluate ➡ 🟢 re-evaluate <br/>
+> 🔴 coop ➡ 🟢 co-op <br/>
+> 🔴 posttraumatic ➡ 🟢 post-traumatic <br/>
+> 🔴 megaampere ➡ 🟢 mega-ampere <br/>
+
+> ❗midday, coordination <br/>
