@@ -245,3 +245,94 @@ The hyphen is necessary if we use a name with the capital letter or if two same 
 > 🔴 megaampere ➡ 🟢 mega-ampere <br/>
 
 > ❗midday, coordination <br/>
+
+<hr/>
+
+## Apostrophe
+
+### 🗣 Contractions
+
+In case of missing letter/s - very often with subject + auxiliary verb (not).
+
+> I am ➡ I'm <br/>
+> he is ➡ he's <br/>
+> we are ➡ we're <br/>
+> you have got ➡ you've got <br/>
+> she has been ➡ she's been <br/>
+> they had seen ➡ they'd seen <br/>
+> we will ➡ we'll <br/>
+> he would ➡ he'd <br/>
+> is not ➡ isn't <br/>
+> cannot ➡ can't <br/>
+> have not ➡ haven't <br/>
+
+### 🗣 Informal English
+
+Better or quicker pronunciation.
+
+#### Suffix -ing
+
+> sitting ➡ sittin' <br/>
+> talking ➡ talkin' <br/>
+
+#### And, because, between
+
+> rock and roll ➡ rock'n'roll <br/>
+> fish and chips ➡ fish'n'chips <br/>
+> Guns and Roses ➡ Guns'n'Roses <br/>
+> because ➡ 'cause, 'cos <br/>
+> between ➡ 'tween <br/>
+
+#### Pronoun you
+
+> you all ➡ y'all <br/>
+> you know ➡ y'know <br/>
+
+### Possessive pronoun
+
+#### Singular noun
+
+We use the suffix **'s**.
+
+> John's car <br/>
+> my mother's recipe <br/>
+> the Earth's surface <br/>
+
+#### Plural noun
+
+We use the suffixes **'s** or **s'**.
+
+> the children's toys <br/>
+> women's club <br/>
+> the students' essays <br/>
+> my parents' lawyer <br/>
+
+#### Nouns naturally ending in 's'
+
+We use the suffix **'s**.
+
+> Charles's wife <br/>
+
+### Plural
+
+There are exceptions when the suffix **'s** is used for plural.
+
+#### Letters
+
+> In Japan they often switch R's and L's. <br/>
+> Cross your t's and dot your i's. <br/>
+> He got straight A's. <br/>
+
+#### Extraordinary words and phrases
+
+> But I. No but's! <br/>
+> No more I love you's. <br/>
+
+### Shortcuts
+
+We do not use the apostrophe when a shortcut is used in plural, but we do if we use other grammatical endings.
+
+> 2 CDs <br/>
+> I believe in UFOs. <br/>
+> He OD'd on heroin. <br/>
+> I love DJ'ing. <br/>
