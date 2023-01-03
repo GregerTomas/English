@@ -2,64 +2,6 @@
 
 An interchanged of a subject and a verb.
 
-## Direct speech
-
-> He said: "I love you." 💡*direct speech* ➡ He told her he loved her. 💡*indirect speech* <br/>
-
-* **reporting clauses** - who said it, how it was said
-* **reported clauses** - sentence in quotes, what was said
-
-In general reported clauses are used before reporting ones, but both variants are possible.
-
-### Reported + reporting
-
-The direct speech must have a punctuation (dot, comma, question mark, exclamation).
-
-> "Well, 'bout damn time!" I said. <br/>
-> "No, it's not like that," Chelsea answered. <br/>
-
-### Reporting + reported
-
-The comma as a separator must be used.
-
-> I said, "Well, 'bout damn time!" <br/>
-
-### Reporting verbs
-
-> ask <br/>
-> say <br/>
-> tell <br/>
-> cry <br/>
-> exclaim 💡*vykřiknout* <br/>
-> reply <br/>
-> shout <br/>
-> yell <br/>
-> scream <br/>
-> whisper <br/>
-> promise <br/>
-> suggest <br/>
-> warn <br/>
-> claim 💡*tvrdit* <br/>
-> inform <br/>
-> demand 💡*žádal* <br/>
-> murmur 💡*šeptat* <br/>
-> mumble 💡*mumlat* <br/>
-> stutter 💡*koktat* <br/>
-> think <br/>
-> be like <br/>
-
-### 📚 Inversion
-
-> "It's over," said Jack. <br/>
-> "That's beautiful!" exclaimed my sister. <br/>
-> "Where have you been?" inquired his wife sharply. <br/>
-
-The inversion is not possible when a personal pronoun is used as a subject.
-
-> 🔴 "It's over," said he. ➡ 🟢 "It's over," he said. <br/>
-> 🔴 "That's beautiful!" exclaimed she. ➡ 🟢 "That's beautiful!" she exclaimed. <br/>
-> 🔴 "Where have you been?" inquired she. ➡ 🟢 "Where have you been?" she inquired sharply. <br/>
-
 ## Partial inversion
 
 💡 subject - auxiliary verb inversion
@@ -224,4 +166,87 @@ shortened. A phrase with **were** + **infinitive** is often used.
 
 ⏳
 
+<hr/>
 
+## Full inversion
+
+💡 subject - main verb inversion
+
+### Direct speech
+
+> He said: "I love you." 💡*direct speech* ➡ He told her he loved her. 💡*indirect speech* <br/>
+
+* **reporting clauses** - who said it, how it was said
+* **reported clauses** - sentence in quotes, what was said
+
+In general reported clauses are used before reporting ones, but both variants are possible.
+
+#### Reported + reporting
+
+The direct speech must have a punctuation (dot, comma, question mark, exclamation).
+
+> "Well, 'bout damn time!" I said. <br/>
+> "No, it's not like that," Chelsea answered. <br/>
+
+#### Reporting + reported
+
+The comma as a separator must be used.
+
+> I said, "Well, 'bout damn time!" <br/>
+
+#### Reporting verbs
+
+> ask <br/>
+> say <br/>
+> tell <br/>
+> cry <br/>
+> exclaim 💡*vykřiknout* <br/>
+> reply <br/>
+> shout <br/>
+> yell <br/>
+> scream <br/>
+> whisper <br/>
+> promise <br/>
+> suggest <br/>
+> warn <br/>
+> claim 💡*tvrdit* <br/>
+> inform <br/>
+> demand 💡*žádal* <br/>
+> murmur 💡*šeptat* <br/>
+> mumble 💡*mumlat* <br/>
+> stutter 💡*koktat* <br/>
+> think <br/>
+> be like <br/>
+
+#### 📚 Inversion
+
+> "It's over," said Jack. <br/>
+> "That's beautiful!" exclaimed my sister. <br/>
+> "Where have you been?" inquired his wife sharply. <br/>
+
+The inversion is not possible when a personal pronoun is used as a subject.
+
+> 🔴 "It's over," said he. ➡ 🟢 "It's over," he said. <br/>
+> 🔴 "That's beautiful!" exclaimed she. ➡ 🟢 "That's beautiful!" she exclaimed. <br/>
+> 🔴 "Where have you been?" inquired she. ➡ 🟢 "Where have you been?" she inquired sharply. <br/>
+
+### Adverbs here and there
+
+We use the full inversion if there is an adverb **here** (💡*něco přichází*) or **there** (💡*něco ujelo*) at the
+beginning of the sentence and the subject is not a personal pronoun.
+
+> Oh, here comes my train. Bye! <br/>
+> "Here comes trouble," I thought to myself. <br/>
+> "Here comes another problem," she said. <br/>
+> Look kids, here comes Santa Claus! <br/>
+> Oh no, here come the tears again. <br/>
+> Here we go! 💡*A je to tady!* <br/>
+> 🔴 Here comes it ... ➡ 🟢 Here it comes. Here comes more drama! <br/>
+> Here you go. / Here you are. 💡*Tady to máš.* <br/>
+
+> Look, we're late! There goes our train! <br/>
+> "There goes my bonus," I thought. <br/>
+> "We need to talk," Harry says and there goes her smile. <br/>
+> 🔴 ... There went it, just like that. ➡ 🟢 He lost all the money. There it went, just like that. 💡*Byly pryč, prostě jen
+tak.* <br/>
+> There you go. 💡*Tady to máš.* <br/>
