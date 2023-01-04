@@ -1,9 +1,14 @@
-# Subjunctive
+# Conjunctive
 
 ## Unreal time
 
 When we speak in an unreal context, we use the **past tense** for future and present time and the **past perfect** for
 past time.
+
+It is not affected in any way by the so-called temporal sequence (💡*časova souslednost*).
+
+> I wish I were an angel. ➡ 🔴 He said he wished **he had been** an angel. ➡ 🟢 He said he wished **he were** an
+> angel. <br/>
 
 ### Wish sentences
 
