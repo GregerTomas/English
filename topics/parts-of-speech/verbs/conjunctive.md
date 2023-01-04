@@ -1,5 +1,7 @@
 # Conjunctive
 
+💡 spojovací způsob
+
 ## Unreal time
 
 When we speak in an unreal context, we use the **past tense** for future and present time and the **past perfect** for
@@ -94,3 +96,47 @@ In Czech, the subjunctive (💡*podmiňovací způsob*) is used in both sentence
 > He says he would do what he could to help. 💡*Říká, že by udělal, co by mohl, aby pomohl.* <br/>
 > He has parents who would give him anything he wanted. 💡*Má rodiče, kteří by mu dali všechno, co by chtěl.* <br/>
 > Under normal circumstances I would do whatever she asked. <br/>
+
+<hr/>
+
+## Conjunctive
+
+We use it in sentences with unreal time or if we express our opinions, proposals or recommendations.
+
+| pronoun                                   | present conjunctive | past conjunctive  |
+|-------------------------------------------|---------------------|-------------------|
+| I / you / he / she / it / we / you / they | be / have / go      | were / had / went |
+
+It does not matter if the sentence is in present / past tense - we can use both conjunctives.
+
+### Use with unreal time
+
+> If I were younger, I would travel around the world. <br/>
+> I wish it were Christmas already. <br/>
+> She looked as if she were saying goodbye. <br/>
+> I'd rather she were with someone her age. <br/>
+> What if he were a killer? <br/>
+
+See also [unreal time](#unreal-time). We can use simple past present in this case.
+
+### Wishes
+
+💡 nechť, kéž, ať
+
+It is actually used only in established phrases.
+
+> God save the Queen! 💡*Nechť Bůh ochraňuje Královnu.* <br/>
+> God help us! <br/>
+> Long live the king! <br/>
+> (God) bless you! <br/>
+> God forbid / Heavens forbid! <br/>
+> So be it! <br/>
+> Peace be with you! <br/>
+> Truth be told ... 💡*Popravdě řečeno ...* <br/>
+
+A sentence can start with **may** as well.
+
+> Come what may ... 💡*Ať se stane, co se stane ...* <br/>
+> Be that as it may ... 💡*Ať je to jakkoliv ...* <br/>
+> Try as he might ... 💡*Ať se snažíl, jak se snažil ...* <br/>
+> May the force be with you! <br/>
