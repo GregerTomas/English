@@ -233,6 +233,18 @@ There is always the gerund after a preposition.
 > **look forward to** ➡ I look forward to seeing you. <br/>
 > **object to** ➡ I object to him saying such things. <br/>
 
+#### Preposition and that
+
+❗There can not be the word **that** after a preposition. We can omit the preposition or use the gerund (if the subjects
+of both sentences are the same).
+
+> 🔴 We agreed on that people should help each other. ➡ 🟢 We agreed that people should help each other. <br/>
+> 🔴 We talked about that we'd go swimming together. ➡ 🟢 We talked that we'd go swimming together. <br/>
+> 🔴 She insisted on that we should leave. ➡ 🟢 She insisted that we should leave. <br/>
+> We talked about going swimming together. <br/>
+> He boasted about speaking five languages fluently. <br/>
+> He insisted on going home. <br/>
+
 <hr/>
 
 ## Infinitive 🆚 gerund
