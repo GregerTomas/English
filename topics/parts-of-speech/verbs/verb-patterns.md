@@ -45,6 +45,32 @@ object and then by the infinitive (see [this article](#verb---object---verb)).
 
 ## Verbs followed by full infinitive
 
+| -                | -          | -         | -          |
+|------------------|------------|-----------|------------|
+| afford           | convince   | 	intend*  | regret+    |
+| advise*	         | continue*	 | learn	    | remember+  |
+| agree	           | dare	      | like+     | 	remind    |
+| allow*           | 	decide    | 	long     | 	require   |
+| appear           | 	deserve   | 	love*    | 	seem      |
+| arrange	         | enable	    | manage    | 	start*    |
+| ask	             | encourage	 | mean+	    | struggle   |
+| attempt*         | 	expect	   | need+	    | swear      |
+| (be) able        | 	fail      | 	offer	   | teach      |
+| beg	             | forbid     | 	order    | 	tell      |
+| begin*           | 	force     | 	permit   | 	threaten  |
+| care	            | forget+	   | persuade  | 	trouble   |
+| choose	          | happen     | 	plan     | 	try+      |
+| cause	           | hate+	     | prefer*   | 	urge      |
+| challenge        | 	help      | 	prepare  | 	volunteer |
+| can't     bear*	 | hesitate	  | pretend   | 	wait      |
+| choose           | 	hire	     | propose*  | 	want      |
+| claim	           | hope       | 	promise	 | warn       |
+| consent	         | instruct   | 	refuse   | 	wish      |
+
+`*` ➡ no meaning change / `+` ➡ meaning change
+
+Phrasal verbs are not included in these lists, but of course the same rule applies to them.
+
 We can divide these verbs into two categories, which have an intersection.
 
 ### Verb - infinitive
@@ -96,6 +122,30 @@ Verbs which are followed by the object and then by the infinitive.
 > **recall** ➡ I don't recall meeting him before. <br/>
 > **recommend** ➡ I recommended calling her. <br/>
 > **suggest** ➡ She suggested going to the cinema. <br/>
+
+| -            | -         | -          | -          |
+|--------------|-----------|------------|------------|
+| admit        | 	deny	    | involve    | 	recall    |
+| advise*	     | detest    | 	keep      | 	recollect |
+| allow*       | 	dislike  | 	like+     | 	recommend |
+| anticipate   | 	endure   | 	love*     | 	regret+   |
+| appreciate	  | enjoy     | 	mention	  | remember+  |
+| avoid	       | escape	   | mean+      | 	resent    |
+| attempt*     | 	excuse   | 	mind	     | resist     |
+| begin*	      | fancy	    | miss       | 	risk      |
+| can't bear*	 | finish    | 	need+     | 	start*    |
+| can't help	  | forget+   | 	permit*   | 	stop      |
+| consider     | 	forgive  | 	postpone	 | suggest    |
+| contemplate  | 	hate+    | 	practise  | 	try+      |
+| continue*	   | imagine   | 	prefer*	  | understand |
+| delay        | 	intend*	 | propose*	  | (be) worth |
+
+`*` ➡ no meaning change / `+` ➡ meaning change
+
+Phrasal verbs are not included in these lists, but of course the same rule applies to them.
+
+> He continued / carried on / went on speaking. <br/>
+> She postponed / put off leaving until tomorrow. <br/>
 
 ### Phrases with go
 
