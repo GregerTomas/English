@@ -155,3 +155,12 @@ Try to replace a verb with a noun or a pronoun.
 
 > **I want to + infinitive** ➡ 🔴 I want to you. I want to people. I want to it. <br/>
 > **I am close to + gerund** ➡ 🟢 I'm close to death. I'm close to you. I'm close to it. <br/>
+
+#### Established phrases with gerund
+
+> **have a good time** ➡ We had a good time playing soccer. <br/>
+> **have a hard time** ➡ We had a hard time finding the house. <br/>
+> **have a difficult time** ➡ I will have a difficult time making up my mind. <br/>
+> **have fun** ➡ We had fun playing football. <br/>
+> **have trouble** ➡ We had trouble looking for our car. <br/>
+> **have difficulty** ➡ We had difficulty filling in the form. <br/>
