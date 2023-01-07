@@ -23,4 +23,3 @@ Basically it is an equivalent of a negative question in the present simple tense
 > Why not give it a try? ➡ Why don't you give it a try? 💡*Proč to nezkusit?* <br/>
 > Why not ask for directions? ➡ Why don't we ask for directions? 💡*Nezeptáme na cestu?* <br/>
 > Since we're both going to the party, why not go together? <br/>
-
