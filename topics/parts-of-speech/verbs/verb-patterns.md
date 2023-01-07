@@ -185,9 +185,75 @@ There is always the gerund after a preposition.
 
 <hr/>
 
-### Remember
+## Infinitive 🆚 gerund
 
-**remember + infinitive** 💡*vzpomenout si, nezapomenout*
+### General help
+
+❗This rule is far from 100%.
+
+The **gerund** is often used when the action described by the second verb takes place before the action described by the
+first verb.
+
+> She denied stealing the money. 💡*popírá něco, co udělala dříve* <br/>
+
+The **infinitive** has the opposite rule, the first verb takes place before the second verb, the verbs follow each other
+chronologically.
+
+> She decided to steal the money. 💡*nejprve se rozhodla a pak ukradla* <br/>
+
+### Hear / see
+
+**hear / see + bare infinitive** 💡*dokonové, viděli nebo slyšeli jsme celou akci*
+
+**hear / see + gerund** 💡*nedokonavé, viděli nebo slyšeli jsme pouze část*
+
+We can not use the full infinitive with these verbs.
+
+> I saw him cross the street. 🆚 I saw him crossing the street. <br/>
+> He saw the tree fall down. 🆚 He saw the tree falling down. <br/>
+> I heard her knock on the door. 🆚 I heard her knocking on the door. <br/>
+> She heard her parents argue in their bedroom. 🆚 She heard he parents arguing in their bedroom. <br/>
+
+### The same meaning
+
+If there is a gerund in the sentence, we prefer the infinitive, otherwise it does not matter whether the infinitive or
+the gerund is used.
+
+> **advise** ➡ She advised me to wait. / She advised waiting. <br/>
+> **can't bear** ➡ I can't bear to wait / waiting in long lines. 💡*Nesnesu čekat ve dlouhých frontách.*<br/>
+> **begin** ➡ It began to rain / raining. <br/>
+> **continue** ➡ He continued to speak / speaking. <br/>
+> **prefer** ➡ Janet prefers to walk home. / I prefer walking to running. <br/>
+> **start** ➡ It started to rain / raining. <br/>
+
+> 🔴 It's starting raining. ➡ 🟢 It's starting to rain. <br/>
+> It started raining. ➡ It started to rain. <br/>
+
+#### Advise
+
+If there is an object in the sentence, we must use the infinitive, otherwise the gerund. We use the infinitive in the
+passive voice even for sentences without an object.
+
+> He advised me to buy a Volvo. <br/>
+> He advised buying a Volvo. <br/>
+> I was advised to buy a Volvo. <br/>
+
+#### Prefer
+
+Typically, it is used with the infinitive. It is used with the preposition **to** - so the next verb must be in the
+gerund (or we must say it in a different way).
+
+> I prefer to stay home. <br/>
+> I prefer tea to coffee. <br/>
+> I prefer staying home to going to the concert. <br/>
+> ➡ I'd prefer to stay home rather than to go to the concert. <br/>
+> ➡ I'd prefer to stay home than go to the concert. <br/>
+
+### Different meaning
+
+#### Remember
+
+**remember + infinitive** 💡*vzpomenout si, nezapomenout (nejprve přichází děj slovesa **remember** a pak činnost)*
 
 > I remembered to lock the door. 💡*Vzpomněl jsem si a dveře jsem zamknul.* <br/>
 > I didn't remember to lock the door. 💡*Nevzpomněl jsem si na to ty dveře zamknout. (zapomněl jsem na to)* <br/>
@@ -196,7 +262,8 @@ There is always the gerund after a preposition.
 > I will remember to call you when I get there. <br/>
 > I never remember to set the alarm clock. <br/>
 
-**remember + gerund** 💡*vzpomínat si, pamatovat si něco z minula*
+**remember + gerund** 💡*vzpomínat si, pamatovat si něco z minula (nejprve přišla nějaká činnost, pak až děj slovesa
+**remember**)*
 
 > I remember locking the door. 💡*Pamatuju si, že jsem ty dveře zamykal.* <br/>
 > I don't remember locking the door. 💡*Nepamatuju si, že jsem ty dveře zamykal.* <br/>
@@ -205,9 +272,9 @@ There is always the gerund after a preposition.
 > I clearly remember putting the money into the envelope. <br/>
 > I will always remember seeing the London Eye for the first time. <br/>
 
-### Forget
+#### Forget
 
-**forget + infinitive** 💡*zapomenout, nevzpomenout*
+**forget + infinitive** 💡*zapomenout, nevzpomenout (nejprve přichází děj slovesa **forget** a pak činnost)*
 
 > I forgot to lock the door. 💡*Zapomněl jsem ty dveře zamknout. (nevzpomněl jsme si na to, neudělal jsem to)* <br/>
 > I didn't forget to lock the door. 💡*Nezapomněl jsem ty dveře zamknout. (vzpomněl jsem si a udělal jsem to)* <br/>
@@ -216,7 +283,7 @@ There is always the gerund after a preposition.
 > I won't forget to call you when I get there. <br/>
 > I always forget to set the alarm clock. <br/>
 
-**forget + gerund** 💡*zapomenout něco z minula*
+**forget + gerund** 💡*zapomenout něco z minula (nejprve přišla nějaká činnost, pak až děj slovesa **forget**)*
 
 > I forgot locking the door. 💡*Zapomněl jsem, že jsem ty dveře zamykal.* <br/>
 > I didn't forget locking the door. 💡*Nezapomněl jsem, že jsem ty dveře zamykal.* <br/>
@@ -225,7 +292,17 @@ There is always the gerund after a preposition.
 > How could I forget putting the money in the envelope? <br/>
 > I will never forget seeing the London Eye for the first time. <br/>
 
-### Try
+#### Regret
+
+**regret + infinitive** 💡*litovat něčeho (nejprve přichází děj slovesa **regret** a pak činnost)*
+
+> I regret to tell you that you failed the test. <br/>
+
+**regret + gerund** 💡*litovat něčeho z minulosti (nejprve přišla nějaká činnost, pak až děj slovesa **regret**)*
+
+> I regret lending him the money. <br/>
+
+#### Try
 
 **try + infinitive** 💡*pokusit se, snažit se (nevíme, zda se daná činnost podaří)*
 
@@ -246,9 +323,9 @@ There is always the gerund after a preposition.
 > Paul tried changing the light bulb, but the lamp still didn't work. <br/>
 > Have you tried turning it off and on again, madam? <br/>
 
-### Stop
+#### Stop
 
-**stop + infinitive** 💡**
+**stop + infinitive** 💡*zastavit se, abych něco udělal*
 
 Example of the purpose infinitive. ⏳ See this [article](ucelovy infinitiv)
 We can replace the purpose infinitive with the conjunction **and**.
@@ -259,5 +336,49 @@ We can replace the purpose infinitive with the conjunction **and**.
 
 **stop + gerund** 💡*s něčím přestali*
 
+We use the gerund after all verbs that mean the end of an action.
+
 > I stopped smoking. 💡*Přestal jsem kouřit.* <br/>
 > He stopped looking at her. <br/>
+
+#### Hate
+
+**hate + infinitive** 💡*nechutenství něco udělat*
+
+> I hate to tell you that you failed the test. <br/>
+
+**hate + gerund** 💡*obecná nevole*
+
+> I hate making such stupid mistakes. <br/>
+
+#### Like
+
+Just a small difference in meaning.
+
+**like + infinitive** 💡*myslíme konkrétní situaci*
+
+> He likes to go swimming in the morning. 💡*Rád si ráno zajde zaplavat.* <br/>
+> She likes to buy a strong coffee before work. 💡*Ráda si koupí před prací silnou kávu.* <br/>
+
+**like + gerund** 💡*obecně máme něco rádi*
+
+> I like going to the cinema. 💡*Rád chodím do kina.* <br/>
+> They like working out. 💡*Mají rádi posilování.* <br/>
+
+#### Need
+
+In general, we use the infinitive after it. But if we say that something needs some action.
+
+> You need to go there and tell him. <br/>
+> We need Chris to help us. <br/>
+> The car needs washing. 💡*To auto potřebuje umýt.* <br/>
+
+#### Mean
+
+**mean + infinitive** 💡*zamýšlet, mít v úmyslu*
+
+> I didn't mean to hurt you. <br/>
+
+**mean + gerund** 💡*znamenat*
+
+> Do you really want to pass the test? It will mean studying very hard. <br/>
