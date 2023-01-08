@@ -100,19 +100,19 @@ We put adjectives after verbs like:
 
 <hr/>
 
-## Two subjects
+## Two objects
 
-It is possible to have two subjects in one sentence: **direct subject** (*co*) and **indirect subject** (*komu*).
+It is possible to have two objects in one sentence: **direct object** (*co*) and **indirect object** (*komu*).
 
 There are two possible ways how to use them together.
 
-### Indirect subject followed by direct subject
+### Indirect object followed by direct object
 
-Not possible if a direct subject is a pronoun.
+Not possible if a direct object is a pronoun.
 > I give him a gift. <br/>
 > He gave me a book. <br/>
 
-### Direct subject + to/for + indirect subject
+### Direct object + to/for + indirect object
 
 > I give it to him. <br/>
 > I give a gift to him. <br/>
