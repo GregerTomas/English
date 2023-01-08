@@ -159,3 +159,40 @@ For some verbs we must use an adverbial determination (well, easily, ...).
 > Although the key turned in the ignition, the car wouldn't start. <br/>
 > The doorbell rang. <br/>
 > My water broke! <br/>
+
+<hr/>
+
+## Impersonal passive voice
+
+**passive voice + infinitive**
+
+> The passive is said to be difficult. <br/>
+> His girlfriend is said to be very rich. <br/>
+
+We use it to express that something is generally known / said / considered for something / etc. The speaker refuses
+responsibility for what he says.
+
+> People say that his girlfriend is very rich. 💡***people** is useless* ➡ It is said that his girlfriend is very rich.
+> 💡***it** is useless* ➡ His girlfriend is said to be very rich. <br/>
+> Everybody knows that Steve is a liar. ➡ It is known that Steve is a liar. ➡ Steve is known to be a liar. <br/>
+> People say that he's not able to win. ➡ He's said not to be able to win. <br/>
+
+We can use it for finished actions as well - see [⏳ Dokonavý infinitiv.]().
+
+> My dog is thought to killed my neighbours' chickens. 💡*Lidé si myslí, že můj pes zabíjí sousedům slepice. <br/>
+> My dog is thought to have killed my neighbours' chickens. 💡*Lidé si myslí, že můj pes zabil sousedům slepice. <br/>
+> My neighbours' chickens are thought to have been killed by my dog. 💡*2x trpný rod, jeden z nich je dokonavý* <br/>
+
+### Verbs
+
+> **say** ➡ He is said to be very smart. <br/>
+> **think** ➡ She is thought to be rich. <br/>
+> **believe** ➡ He was believed to be innocent. <br/>
+> **consider** ➡ The book is considered to be excellent. <br/>
+> **know** ➡ The British are known to be very conservative. <br/>
+> **suppose** ➡ They are supposed to return by midday. <br/>
+> **expect** ➡ A new album is expected to come out in September. <br/>
+> **claim** ➡ The phone is claimed to survive in extreme temperatures. <br/>
+> **allege** ➡ The politician is alleged to have accepted a bribe. <br/>
+> **report** ➡ Seven people were reported to have died. <br/>
+> **prove** ➡ These chemicals are proved to cause severe health problems. <br/>
