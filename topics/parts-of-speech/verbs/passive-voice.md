@@ -100,3 +100,62 @@ objects with this preposition.
 
 > He was hit by a brick. 💡*Náhodně padající cihla. (spadla například kvůli větru)* <br/>
 > He was hit with a brick. 💡*Někdo tu cihlu hodil, stala se tedy nástrojem.* <br/>
+
+<hr/>
+
+## Passive voice 🆚 ergative verbs
+
+💡 Pomocí ergativních sloves je na nějaký děj pohlíženo nikoliv z pohledu činitele (kdo co udělal) ale z pohledu věci,
+která je dějem ovlivněna.
+
+### Transitive / intransitive verbs
+
+A **transitive verb** is typically used with an object. In opposite, an **intransitive verb** can not have an object.
+Some verbs belongs to both categories.
+
+> I have a dog 💡*transitive* <br/>
+> 🔴 He is sleeping something ➡ 🟢 He is sleeping. 💡*intransitive* <br/>
+> I read a magazine every day. 💡*transitive* 🆚 I read every day. 💡*intransitive* <br/>
+
+### Ergative verbs?
+
+We can omit an object when using a transitive verb, but we must use the logical object as the subject. The ergative
+verbs does not care about the executor of an action, in opposite, the passive voice express the executor at least
+slightly.
+
+> 🔴 I opened nebo they opened. 💡*missing object* <br/>
+> The door opened. <br/>
+> A new supermarket opened in our town. <br/>
+
+This category of verbs can be divided to a few categories, but they do not include all verbs.
+For some verbs we must use an adverbial determination (well, easily, ...).
+
+#### Change in condition, shape, size
+
+> Careful! It would break if you dropped it. <br/>
+> The main sail tore in half. <br/>
+> You should use thick cardboard that doesn't bend easily. <br/>
+> Weather conditions finally improved. <br/>
+> Look, my T-shirt has shrunk! <br/>
+> The vase shattered when it hit the ground. <br/>
+> Blood drained from his face. <br/>
+> The lights dimmed. <br/>
+> The snow melted. <br/>
+
+#### Processes
+
+> Something was cooking in the pot. <br/>
+> You can prepare the sauce while the meat defrosts. <br/>
+> The sweater washes well. <br/>
+> The book sells like crazy and it reads smoothly. <br/>
+> I don't photograph well. <br/>
+> Pale or white skin burns easily and tans poorly and slowly. <br/>
+
+#### Movement, sudden events
+
+> The train stopped. <br/>
+> A large truck was driving down the road. <br/>
+> The ground shook. <br/>
+> Although the key turned in the ignition, the car wouldn't start. <br/>
+> The doorbell rang. <br/>
+> My water broke! <br/>
