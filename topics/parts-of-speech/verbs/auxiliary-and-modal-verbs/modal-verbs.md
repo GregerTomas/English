@@ -58,30 +58,25 @@ can use them in the past tense with help of the [⏳ Dokonavý infinitiv.].
 
 ## Verbs
 
-### Can / can't
+### Can
 
-#### 💡 Ne/schopnost (ne/umět)
+#### 💡 Schopnost (umět)
 
 > I can swim. 💡*Umím plavat.* <br/>
 > He can run 100 metres in 12 seconds. 💡*Uběhne 100 metrů za 12 vteřin – dovede to.* <br/>
 > Can you speak Spanish? <br/>
-> I can't swim. <br/>
-> Chickens can't fly. <br/>
-> I couldn't sing very well when I was a kid. <br/>
-> <br/>I won't be able to learn it. <br/>
 
-We use the verb **could** in the past tense, and the replacement **be able to** for other tenses, as an infinitive, etc.
+We use the verb **could** in the past tense, and the replacement **be able to** in other tenses, as an infinitive, etc.
 
 > I could sing very well when I was a kid. <br/>
 > I want to be able to sing. <br/>
 > Will people be able to do simple maths in the future? <br/>
 > She's never been able to cook. <br/>
 
-#### 💡 Ne/mít možnost (ne/moci, ne/mít možnost)
+#### 💡 Mít možnost (moci)
 
 > Can you come tonight? 💡*Můžeš dnes večer přijít?* <br/>
 > I can be there at 8. 💡*Můžu tam být v osm.* <br/>
-> I can't come tonight. 💡*Dnes večer nemůžu přijít.* <br/>
 
 Again, we use the verb **could** and the replacement **be able to***.
 
@@ -89,21 +84,16 @@ Again, we use the verb **could** and the replacement **be able to***.
 > He couldn't come. <br/>
 > I don't know when I will be able to pay for it. <br/>
 
-#### 💡 Ne/svolení (ne/smět, ne/moci, ne/mít dovoleno)
+#### 💡 Svolení (smět, moci, mít dovoleno)
 
 > Can I go to the cinema with you? 💡*Můžu jít s vámi do kina? (dovolíte mi to?)* <br/>
 > Of course you can. 💡*Jasně že můžeš. (máš naše svolení)* <br/>
 > Can I ask you something? 💡*Smím se tě na něco zeptat?* <br/>
-> You can't come with us! 💡*námi nesmíš!* <br/>
-> I can't talk to my parents like that. <br/>
-> Can I say something? – No, you can't! <br/>
 
 We use the verb **could** again, and as a replacement we use the phrase **be allowed to**.
 
 > Was he allowed to go with them? 💡*Mohl jít s nimi? (měl to dovoleno?)* <br/>
 > I've never been allowed to go out on school nights. 💡*Nikdy jsem nesměl večer ven, když byla další den škola.* <br/>
-> He couldn't go there with them. 💡*Nemohl tam s nimi jít. (neměl to dovoleno)* <br/>
-> You won't be allowed to watch TV tomorrow if you don't listen to us! <br/>
 
 #### Could 🆚 was able to
 
@@ -112,6 +102,38 @@ that someone did something, succeeded in something.
 
 He could run away if he wanted. 💡*Mohl utéct, kdyby chtěl.* <br/>
 They caught him but he was able to run away. 💡*Chytili ho, ale podařilo se mu utéct.* <br/>
+
+### Can't
+
+#### 💡 Neschopnost (neumět)
+
+> I can't swim. <br/>
+> Chickens can't fly. <br/>
+
+We use the verb **couldn't** in the past tense, and the replacement **be (not) able to** in other tenses, as an
+infinitive, etc.
+
+> I couldn't sing very well when I was a kid. <br/>
+> I won't be able to learn it. <br/>
+
+#### 💡 Nemít možnost (nemoci)
+
+> I can't come tonight. 💡*Dnes večer nemůžu přijít.* <br/>
+
+Again, we use the verb **couldn't** in the past tense.
+
+> He couldn't come. <br/>
+
+#### 💡 Nesvolení (nesmět, nemoct, nemít dovoleno)
+
+> You can't come with us! 💡*námi nesmíš!* <br/>
+> I can't talk to my parents like that. <br/>
+> Can I say something? – No, you can't! <br/>
+
+We use the verb **couldn't** again, and as a replacement we use the phrase **be (not) allowed to**.
+
+> He couldn't go there with them. 💡*Nemohl tam s nimi jít. (neměl to dovoleno)* <br/>
+> You won't be allowed to watch TV tomorrow if you don't listen to us! <br/>
 
 ### Must
 
