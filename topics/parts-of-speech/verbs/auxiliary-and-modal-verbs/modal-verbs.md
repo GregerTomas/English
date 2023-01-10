@@ -189,3 +189,64 @@ couldn't** or **be (not) allowed to**.
 | musn't     | 🔴 not have to ➡ 🟢 be not allowed to |
 
 So the replacement **have to** is equivalent to *muset/nemuset* in Czech.
+
+### Needn't
+
+#### Nemuset
+
+> I needn't study tonight because it's Friday. 💡*Nemusím se dnes večer učit, protože je pátek.* <br/>
+> She needn't worry. 💡*Nemusí si dělat starosti.* <br/>
+
+We use this verb in the present tense, but can even mean something in the future. We use the replacements **(not) have
+to** or **(not) need to** in other tenses.
+
+> I needn't go there tomorrow. 💡*Zítra tam nemusím jezdit* <br/>
+> She didn't have to go to work that day. <br/>
+> I didn't need to study yesterday. <br/>
+
+#### The replacement
+
+The verb **needn't** is pretty rare therefore the replacements are even used in the present tenses.
+
+> I needn't study. 💡*pretty rare* <br/>
+> ➡ I don't have to study. <br/>
+> ➡ I don't need to study. <br/>
+
+The verb **needn't** belongs between modal verbs (therefore it is not followed with the infinitive with **to**), in
+opposite the verb **need** does not.
+
+> I needn't go. 🆚 I need to go. <br/>
+
+### Should / shouldn't, ought to / oughtn't to
+
+#### 💡 Měl bych / neměl bych.
+
+These verbs are similar, but a bit softer than **must / mustn't**. The verbs **ought to / oughtn't to** are pretty
+rare, **oughtn't to** event exceptional.
+
+> I should study because there's an exam tomorrow. <br/>
+> You shouldn't go there. <br/>
+> I ought to study because there's an exam tomorrow. <br/>
+> You oughtn't to go there. <br/>
+
+As the replacement in the past tense we use the phrase **be (not) supposed to**.
+
+> I was supposed to study because there was an exam the following day. 💡*Měl jsem se učit ...* <br/>
+> You weren't supposed to go there. 💡*Neměl jsi tam chodit.* <br/>
+
+We can use **be (not) supposed to** even in the present tense. **Should / shouldn't** expresses what you think is the
+right thing to do,
+**be (not) supposed to** expresses what other people think is the right thing to do.
+
+> I should call my boss. 🆚 I’m supposed to call my boss. <br/>
+> I should study. 💡*Měl bych se učit. (sám na tom mám zájem, sám to vím, že bych měl)* 🆚 I'm supposed to study. 💡*Mám se
+učit. (chtějí to po mně)* <br/>
+
+### May
+
+#### 💡 Zdvořilá otázka (smím)
+
+Question in a polite and ✏ formal manner.
+
+> May I ask you something? Yes, you may. 💡*Smím se Vás na něco zeptat? Ano, smíte. <br/>
+> May I call you Jane? 💡*Můžu Vám říkat křestním jménem?* <br/>
