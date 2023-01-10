@@ -288,6 +288,22 @@ Question in a polite and ✏ formal manner.
 > It may rain. 💡*možná bude pršet, vidím to jako reálnou možnost* 🆚 It might rain. 💡*spíš ne, nemyslím si to, ale
 nevylučuji* <br/>
 
+#### May be 🆚 maybe
+
+Maybe is used at the beginning of the sentence. We can use the modal verb **may** with the verb **be** instead. In the
+past tense we must use [⏳ Dokonavý infinitiv.].
+
+> 🔴 I will maybe come tomorrow. / I maybe will come tomorrow. ➡ 🟢 Maybe I will come tomorrow. <br/>
+> Maybe he will go there tomorrow. ➡ He may go there tomorrow. <br/>
+> Maybe you are right. ➡ You may be right. <br/>
+> Maybe I'm wrong. ➡ I may be wrong. <br/>
+> Maybe we will go out. ➡ We may go out. <br/>
+> Maybe he has a cold. ➡ He may have a cold. <br/>
+> Maybe he isn't who he says he is. ➡ He may not be who he says he is. <br/>
+> Maybe he won't tell you his name. ➡ He may not tell you his name. <br/>
+> Maybe they kissed. ➡ They may have kissed. <br/>
+> Maybe your brother borrowed it. ➡ Your brother may have borrowed it. <br/>
+
 ### Should / shouldn't
 
 #### Mělo / nemělo by to tak být
