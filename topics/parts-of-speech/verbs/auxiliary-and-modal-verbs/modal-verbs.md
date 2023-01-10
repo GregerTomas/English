@@ -56,7 +56,7 @@ can use them in the past tense with help of the [⏳ Dokonavý infinitiv.].
 
 <hr/>
 
-## Verbs
+## Primary verbs
 
 ### Can
 
@@ -250,3 +250,46 @@ Question in a polite and ✏ formal manner.
 
 > May I ask you something? Yes, you may. 💡*Smím se Vás na něco zeptat? Ano, smíte. <br/>
 > May I call you Jane? 💡*Můžu Vám říkat křestním jménem?* <br/>
+
+## Secondary verbs
+
+### Must
+
+#### 💡 Určitě ano (něco tak určitě je)
+
+> The film must be very good. 💡*Ten film je určitě velice dobrý.* <br/>
+> He must study very hard. 💡*Určitě se hodně učí.* <br/>
+
+### Can't / couldn't
+
+#### Určitě ne  (něco tak určitě není)
+
+> You can't be serious! 💡*To jistě nemyslíš vážně!* <br/>
+> He can't love her. They argue all the time. 💡*Určitě ji nemiluje. Pořád se přeci hádají.* <br/>
+> He couldn't do that. <br/>
+
+### May / might / could
+
+#### Možná ano (možná)
+
+**Might** and **could** is less confident than **may**.
+
+> She may be at her grandmother's. 💡*Možná je u babičky.* <br/>
+> She might be at her grandmother's. 💡*Je možné, že je u babičky. Není vyloučeno, že je u babičky.* <br/>
+> She could be an actress. 💡*Mohla by to být herečka (není to vyloučené).* <br/>
+> He may not like it. <br/>
+> I might not go there. <br/>
+
+#### May 🆚 might
+
+> **may** - one thinks it might happen <br/>
+> **might** - one does not believe it will happen, but still allows for the possibility <br/>
+
+> It may rain. 💡*možná bude pršet, vidím to jako reálnou možnost* 🆚 It might rain. 💡*spíš ne, nemyslím si to, ale
+nevylučuji* <br/>
+
+### Should / shouldn't
+
+#### Mělo / nemělo by to tak být
+
+> It shouldn't be difficult. 💡*Nemělo by to být těžké (jsem si tím téměř jistý, že nebude).* <br/>
