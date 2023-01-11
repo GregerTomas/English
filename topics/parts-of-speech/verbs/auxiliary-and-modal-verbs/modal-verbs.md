@@ -356,7 +356,7 @@ We use the replacements.
 > I can go with them. ➡ I was allowed to go with them. <br/>
 > She needn't worry. ➡ She didn't have to worry. <br/>
 
-### Secondary modals
+### [Past modals] Secondary modals
 
 **modal verb + have + past participle ([⏳ Dokonavý infinitiv.])**
 
@@ -427,3 +427,135 @@ tam šel.* <br/>
 ne. Pouze říkáme, že měl svobodu tam nechodit.* <br/>
 > 🆚 <br/>
 > He needn't have gone there. 💡*Nemusel tam chodit – šel tam, ale bylo to úplně zbytečné* <br/>
+
+<hr/>
+
+## Expressing deductions
+
+### 💡 Určitě ano
+
+> I'm sure she knows it. ➡ She **must** know it. <br/>
+> He must be very rich. Look at his car! <br/>
+> She must be over 60. <br/>
+> Your sister must like green. Her dress is green, her bag is green, her glasses are green. <br/>
+> Someone's knocking on the door. It must be my brother. He said he would drop by. <br/>
+> David, have something to eat. You must be hungry. You haven't eaten all day. <br/>
+> Look at your parents. They're dancing, talking to friends. They must be having fun. <br/>
+
+Note, if you use the present continuous tense, you must use the present participle with the modal verb.
+
+> I'm sure he has a good job. ➡ He must have a good job. <br/>
+> I'm sure he is having fun. ➡ He must be having fun. <br/>
+
+### 💡 Určitě ne
+
+> I'm sure she doesn't know it. ➡ She can't know it. 💡*Jsem si jistý, že to neví. / Ona to určitě neví. / Ona to (přece)
+nemůže vědět.* <br/>
+> You can't still be hungry. You've just had dinner. <br/>
+> He can't be in London. I saw him in the office an hour ago. <br/>
+> The lady can't be English. Didn't you hear her French accent? <br/>
+> No, he can't speak five languages. I don't believe you. <br/>
+> You can't be serious! <br/>
+
+Note, if you use the present continuous tense, you must use the present participle with the modal verb.
+
+> I'm sure he doesn't have a good job. → He can't have a good job. <br/>
+> I'm sure he isn't having fun. → He can't be having fun. <br/>
+
+### Možná ano / ne
+
+We can use the modal verb **may**.
+
+> It's possible that he has a cold. ➡ He may have a cold. 💡*🔴 On smí být nemocný. ➡ 🟢 Možná je nemocný.* <br/>
+> It's possible that she doesn't know him. ➡ She may not know him. 💡*Je možné, že ho nezná. ➡ Možná ho nezná.* <br/>
+> It may rain all day tomorrow. <br/>
+> She may not want to come with us. <br/>
+> You may be right. <br/>
+
+We can use **maybe** as well, but **may** is more common.
+
+> Maybe you're right. ➡ You may be right. <br/>
+> Maybe they are lovers. ➡ They may be lovers. <br/>
+> Maybe they're having dinner. ➡ They may be having dinner. <br/>
+
+We can use **might** instead of **may** or **could** as well. See also [May / might / could](#may--might--could).
+
+> He might know the answer. <br/>
+> She might not want to come with us. <br/>
+> They might be having dinner. <br/>
+> It might rain tomorrow, but I don't think it will. <br/>
+> It could rain tomorrow, but I don't think it will. <br/>
+
+Note that we can't use **can**, only **must**, **may**, **might**, **can't**, **could** are possible.
+
+> She must be hungry. <br/>
+> She can't be hungry. <br/>
+> She may be hungry. <br/>
+> She might be hungry. <br/>
+> She could be hungry. <br/>
+> She can be hungry. ➡ She could be hungry. <br/>
+
+### Future tenses
+
+The present tenses are used even for the future. There can't be two modal verbs in one sentence (🔴 **~~may will~~**).
+
+> Maybe she **is** hungry now. ➡ She **may be** hungry now. <br/>
+> Maybe she **will** be hungry tomorrow. ➡ She **may be** hungry tomorrow. <br/>
+
+### Past tenses
+
+We use the [⏳ Dokonavý infinitiv.]. See also [Past secondary modals](#past-modals-secondary-modals).
+
+> He must love her very much. ➡ He must have loved her very much. 💡*Určitě ji velice miloval.* <br/>
+> He can't mean this. ➡ He can't have meant this. 💡*To určitě nemyslel vážně.* <br/>
+> Your son may be hungry. ➡ Your son may have been hungry. 💡*Tvůj syn měl možná hlad.* <br/>
+> Your wife may not like it. ➡ Your wife may not have liked it. 💡*Možná se to tvojí ženě nelíbilo.* <br/>
+> She might not come. ➡ She might not have come. 💡*Možná nepřišla.* <br/>
+
+#### 💡 Určitě to tak bylo
+
+> He must have been very busy. 💡*Určitě měl hodně práce.* <br/>
+> That must have been terrible! <br/>
+> She must have lost her temper. <br/>
+> He must have been busy when you called him. <br/>
+> The puppy is hiding. He must have done something wrong. <br/>
+> It must have been love, but it's over now. <br/>
+
+Again, the **present participle** can be used.
+
+> I'm sure she was having a shower and didn't hear you. ➡ She must have been having a shower and didn't hear you. <br/>
+
+#### 💡 Určitě to tak nebylo
+
+> She can't have liked the hat. 💡*Určitě se jí ta čepice nelíbila.* <br/>
+> Come on, you parents can't have liked the movie. <br/>
+> He can't have been at home. I saw him in the city centre. <br/>
+> She can't have heard you when you called. <br/>
+
+We can use **couldn't** as well. It expresses little less certainty.
+
+> She couldn't have heard you when you called. <br/>
+
+Again, the **present participle** can be used.
+
+> They can't have been having fun. <br/>
+> They couldn't have been having fun. <br/>
+
+#### 💡 Možná to tak bylo / nebylo
+
+> She may have been tired. 💡*Možná byla unavená.* <br/>
+> He may have seen it, I don't know. <br/>
+> They may have been at home. You should've stopped by. <br/>
+> He may have made a mistake. I should double-check it. <br/>
+> She may not have told you the whole truth. <br/>
+
+We can use **might** as well. It expresses little less certainty.
+
+> Your sister might have wanted to come with us. You should've asked her. <br/>
+> You don't know. She might not have slept with him. <br/>
+
+Again, we can use the **present participle**.
+
+> Maybe they were having dinner when you called. ➡ They may have been having dinner when you called. <br/>
+> It's possible she was sleeping and didn't hear the burglars. ➡ She might have been sleeping and didn't hear the
+> burglars. <br/>
