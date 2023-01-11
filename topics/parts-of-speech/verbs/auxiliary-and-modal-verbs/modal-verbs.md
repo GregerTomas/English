@@ -343,3 +343,87 @@ past tense we must use [⏳ Dokonavý infinitiv.].
 #### Mělo / nemělo by to tak být
 
 > It shouldn't be difficult. 💡*Nemělo by to být těžké (jsem si tím téměř jistý, že nebude).* <br/>
+
+<hr/>
+
+## Past modals
+
+### Primary modals
+
+We use the replacements.
+
+> I must go. ➡ I had to go. <br/>
+> I can go with them. ➡ I was allowed to go with them. <br/>
+> She needn't worry. ➡ She didn't have to worry. <br/>
+
+### Secondary modals
+
+**modal verb + have + past participle ([⏳ Dokonavý infinitiv.])**
+
+Even thought we use them for the past tense, they express current opinion about what was / happened.
+
+> He must love her very much. ➡ He must have loved her very much. <br/>
+> He can't mean this. ➡ He can't have meant this. <br/>
+> She might not come. ➡ She might not have come. <br/>
+
+**must have done** (💡*určitě to tak bylo*)
+
+> That must have been terrible. 💡*To muselo být strašné!* <br/>
+> She must have lost her temper. 💡*Určitě se rozčílila.* <br/>
+
+**can't have done** (💡*určitě to tak nebylo*)
+
+> She can't have liked the movie. 💡*Ten film se jí nemohl líbit. <br/>
+> He can't have been at home. 💡*Určitě nebyl doma. <br/>
+> He couldn't have stolen it. 💡*On to určitě neukradl. - Expressing a little less certainty. <br/>
+
+**may / might / could have been** (💡*možná to tak bylo, mohlo to tak být*)
+
+> Stonehenge might have been built by somebody from Greece. 💡*Stonehenge mohl postavit někdo z Řecka.* <br/>
+> I may have seen it, I don't know. 💡*Možná jsem to viděl, nevím.* <br/>
+
+**should have done** (💡*měl jsem to udělat (vyjadřuje lítost nebo výčitku)*)
+
+> I should have studied more! 💡*Já se měl víc učit! (ale neučil, a teď toho lituju).* <br/>
+> I should have bought the tickets earlier. 💡*Měl jsem si ty lístky koupit dříve (ale nekoupil, nechal jsem to na
+poslední chvíli a už žádné neměli).* <br/>
+> You should have told me the truth. 💡*Měl jsi mi říci pravdu, (výčitka)* <br/>
+
+**shouldn't have done** (💡*neměl jsem to dělat (vyjadřuje lítost, bylo špatně a nemělo to tak být)*)
+
+> I shouldn't have drunk so much! 💡*Neměl jsem tolik pít! (ale pil jsem a opil se)* <br/>
+> You shouldn't have believed him. 💡*Neměl jsi mu věřit (Hlupáku! Nechal ses napálit.)* <br/>
+
+**needn't have done** (💡*nemusel jsem to dělat, nebylo to nutné*)
+
+> I needn't have studied! 💡*Nemusel jsem se učit! (Ale učil – zbytečně)* <br/>
+> You needn't have got up so early. 💡*Nemusel jsi vstávat tak brzy. (ale vstal a teď musíš čekat)* <br/>
+
+### Past modals 🆚 replacements
+
+We can understand the Czech sentence in two different ways. See following examples.
+
+> I was supposed to go there. 💡*Měl jsem tam jít, očekávali to ode mě, proto jsem tam šel, nebo nešel. Jde o to, že tím
+pouze oznamujeme, že v minulosti byla nějaká povinnost.* <br/>
+> 🆚 <br/>
+> I should have gone there. 💡*Měl jsem tam jít! (ale nešel, a proto toho nyní lituji)* <br/>
+
+> He had to go there. 💡*Musel tam jít, měl povinnost. Nevíme ale, jestli tam šel, nebo ne. Pouze říkáme, že měl tu
+povinnost.* <br/>
+> 🆚 <br/>
+> He must have gone there. 💡*Určitě tam šel – říkám, že vím jistě, že to tak bylo (povinnost však žádnou mít nemusel)
+.* <br/>
+
+> He couldn't go there. 💡*Nemohl tam jít, neměl tu možnost, nebo to měl zakázané.* <br/>
+> 🆚 <br/>
+> He can't have gone there. 💡*Určitě tam nešel – říkám, že vím jistě, že se to nestalo.* <br/>
+
+> He wasn't supposed to go there. 💡*Neměl tam chodit (řekli mu, aby tam nechodil, poradili mu to. Nevíme však, jestli
+tam šel.* <br/>
+> 🆚 <br/>
+> He shouldn't have gone there. 💡*Neměl tam chodit – ale šel tam, a my mu to vyčítáme.* <br/>
+
+> He didn't have to go there. 💡*Nemusel tam chodit – nikdo mu to nepřikázal, neměl žádnou povinnost. A buď tam šel, nebo
+ne. Pouze říkáme, že měl svobodu tam nechodit.* <br/>
+> 🆚 <br/>
+> He needn't have gone there. 💡*Nemusel tam chodit – šel tam, ale bylo to úplně zbytečné* <br/>
