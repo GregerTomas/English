@@ -56,6 +56,32 @@ can use them in the past tense with help of the [⏳ Dokonavý infinitiv.].
 
 <hr/>
 
+## Replacements
+
+| tense                  | ordinary verbs | modal verbs                     |
+|------------------------|----------------|---------------------------------|
+| **basic form**         | go             | must, can, ...                  |
+| **infinitive**         | to go          | -                               |
+| **present simple**     | go (goes)      | must, can, ...                  |
+| **past simple**        | went           | - / could (can is an exception) |
+| **present participle** | going          | -                               |
+| **past participle**    | gone           | -                               |
+
+The replacement of a modal verb is a phrase (there can be more such phrases) with the same or similar meaning. There is
+no other connection with the
+modal verb.
+
+| modal verb         | meaning              | replacement          |
+|--------------------|----------------------|----------------------|
+| can / can't        | 💡*schopnost*	       | be able to           |
+| can, may           | 💡*svolení*          | 	be allowed to       |
+| mustn't, can't     | 💡*zákaz*            | 	(not) be allowed to |
+| must               | 💡*povinnost*	       | have to              |
+| needn't            | 💡*není povinnost*   | 	(not) have to       |
+| should / shouldn't | 💡*doporučení, rada* | 	be supposed to      |
+
+<hr/>
+
 ## Primary verbs
 
 ### Can
@@ -100,8 +126,8 @@ We use the verb **could** again, and as a replacement we use the phrase **be all
 The verb **could** expresses a general ability (someone was able to do something), and the phrase **was able to** says
 that someone did something, succeeded in something.
 
-He could run away if he wanted. 💡*Mohl utéct, kdyby chtěl.* <br/>
-They caught him but he was able to run away. 💡*Chytili ho, ale podařilo se mu utéct.* <br/>
+> He could run away if he wanted. 💡*Mohl utéct, kdyby chtěl.* <br/>
+> They caught him but he was able to run away. 💡*Chytili ho, ale podařilo se mu utéct.* <br/>
 
 ### Can't
 
@@ -170,12 +196,14 @@ obligation comes from circumstances, rules, or other speakers).
 > You mustn't go there. 💡*Nesmíš tam chodit.* <br/>
 > We mustn't cheat during tests. <br/>
 
-It is used only in the present tense, but can express even obligations in the future. In the past tense we can use **
-couldn't** or **be (not) allowed to**.
+It is used only in the present tense, but can express even obligations in the future. In the past tense we can use
+**couldn't** or **be (not) allowed to**, and **be (not) allowed to** in other tenses.
 
 > We mustn't lose the match tomorrow. <br/>
 > I couldn't go to the cinema. <br/>
 > We weren't allowed to use a calculator. <br/>
+> I haven't been allowed to go out much recently. <br/>
+> They left because of not being allowed to practice their religion in their country. <br/>
 
 #### 💡 Důrazná rada
 
@@ -189,6 +217,12 @@ couldn't** or **be (not) allowed to**.
 | musn't     | 🔴 not have to ➡ 🟢 be not allowed to |
 
 So the replacement **have to** is equivalent to *muset/nemuset* in Czech.
+
+While **mustn't** always commands an obligation (the obligation comes from the speaker), **be not allowed to** only
+announces it (the obligation comes from circumstances, rules, or other speakers).
+
+> You mustn't cheat. 💡*Já ti to zakazuji.* 🆚 You are not allowed to cheat. 💡*Je to tak dáno, je to ve školním řádu. Není
+to můj zákaz.* <br/>
 
 ### Needn't
 
