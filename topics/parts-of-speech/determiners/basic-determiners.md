@@ -60,9 +60,8 @@ There are more possibilities how to express agreement or disagreement, see the f
 | I like it too.                        | I do not like it either.                     ||                                                |
 | Me too.                               | Me neither.                                  ||                                                |
 | So do I.                              | Neither do I.                                | [see also article](#so--neither--verb--subject)             |
-|
 
-#### So / neither + verb + subject
+#### So / neither + auxiliary verb + subject
 
 > I live in Prague. So do I. <br/>
 > Jack is a doctor. So is Peter. <br/>
