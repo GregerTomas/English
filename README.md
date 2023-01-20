@@ -56,8 +56,8 @@ The following table contains all types of emojis together with their meaning whi
 | 📚    | literary English        |
 | 💡    | translation, meaning    |
 | 🆚    | versus                  |
-| ➡     | derivation              |
-| ↔     | equivalent option       |
+| ➡     | b4derivation            |
+| 🔃    | equivalent option       |
 | 🟢    | correct usage           |
 | 🔴    | incorrect usage         |
 | ⏳     | to be done              |
