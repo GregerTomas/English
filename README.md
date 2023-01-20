@@ -49,18 +49,19 @@ a sentence 💡*translation, meaning* (without space)
 
 The following table contains all types of emojis together with their meaning which are used in the project.
 
-| emoji | meaning                             |
-|-------|-------------------------------------|
-| ✏     | formal English                      |
-| 🗣    | informal/spoken English             |
-| 📚    | literary English                    |
-| 💡    | translation, meaning                |
-| 🆚    | versus                              |
-| ➡     | another possible option, derivation |
-| 🟢    | correct usage                       |
-| 🔴    | incorrect usage                     |
-| ⏳     | to be done                          |
-| ❗     | be careful                          |
+| emoji | meaning                 |
+|-------|-------------------------|
+| ✏     | formal English          |
+| 🗣    | informal/spoken English |
+| 📚    | literary English        |
+| 💡    | translation, meaning    |
+| 🆚    | versus                  |
+| ➡     | derivation              |
+| ↔     | equivalent option       |
+| 🟢    | correct usage           |
+| 🔴    | incorrect usage         |
+| ⏳     | to be done              |
+| ❗     | be careful              |
 
 Preselected emojis from [unicode.org](https://unicode.org/emoji/charts/full-emoji-list.html).
 
