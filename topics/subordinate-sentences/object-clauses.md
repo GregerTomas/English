@@ -99,3 +99,56 @@ The same rules which are used in the [indirect speech](⏳TODO) apply here.
 See [this article](/topics/parts-of-speech/conjunctions/conjunctions.md#whether).
 
 > I don't know whether I should go there. <br/>
+
+## Object or time clause?
+
+We can use an object clause after a verb which is followed by the object (the logical object of the verb).
+
+> I don't know when he's coming back. <br/>
+> She didn't say when she wanted to get married. <br/>
+
+We use different grammar for verbs like **like**, **love**, **hate**, etc. The subordinate clause is not a grammatical
+object of the verb. In this case, the clause is time or conditional clause. These verbs also belongs
+between [transitive](⏳todo) verbs
+so that they must have an object, we use **it** for this purpose.
+
+Other verbs...
+> adore <br/>
+> despise <br/>
+> detest <br/>
+> can't stand <br/>
+> enjoy <br/>
+
+### It + time clause
+
+> I like it when it rains. 💡*Mám rád, když prší.* <br/>
+> I love it when she sends me letters. 💡*Miluju, když mi posílá dopisy.* <br/>
+> I can't stand it if I hear people talk about her like that. 💡*Nesnášim, když o ní takle lidi mluví.*
+> I adore it when she sings. 💡*Zbožňuje, když zpívá*.
+> I hate it when he treats me like that. <br/>
+
+### It + conditional clause
+
+> I would like it if you were honest with me. 💡*Byl bych rád, kdybys ke mně byl upřímný.* ➡ I'd like you to be honest
+> with
+>
+me. [object infinitive binding](/topics/parts-of-speech/verbs/non-finite-verb-forms/object-infinitive-binding.md) <br/>
+
+### Other examples
+
+**I would appreciate it if** 💡*ocenil bych, kdyby*
+
+> I would appreciate it if you could tell me the truth. <br/>
+> She would appreciate it if you helped her. <br/>
+
+**I can't help it if** 💡*nemůžu za to, když/že*
+
+> I can't help it if I'm still in love with you. <br/>
+
+**I take it that** 💡*předpokládám, že*
+
+> I take it that you won't be coming with us. <br/>
+
+**find it + adjective + that** 💡*přijde mi ..., že*
+
+> I found it strange that there were no other people there. <br/>
