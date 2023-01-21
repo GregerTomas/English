@@ -2,6 +2,25 @@
 
 💡 přípustkové věty (přestože, i když, ačkoliv), něco tvrdíme, ale připouštíme něco jiného
 
+## Grammar
+
+### Future tense
+
+We do not use the future tense, but only the present tense. The same way as with time and conditional clauses.
+
+> 🔴 No matter what you **will do**, I will love you. ➡ 🟢 No matter what you **do**, I will love you. <br/>
+> 🔴 Wherever you **will go**, I will follow you. ➡ 🟢 Wherever you **go**, I will follow you. <br/>
+
+### Shortened clauses
+
+If the subject of both clauses is the same and the verb **be** is used in the concessive clause, we omit the subject and
+the verb **be**.
+
+> **Although the game was difficult**, it turned out to be enjoyable. ➡ **Although difficult**, the game turned out to
+> be enjoyable. <br/>
+> **Whether you're rich or poor**, you can join our club. ➡ **Whether rich or poor**, you can join our club. <br/>
+> Peter, **though he isn't very tall**, plays basketball. ➡ Peter, **though not very tall**, plays basketball. <br/>
+
 ## Although, though, even though
 
 💡 ačkoliv, ač, i když
@@ -90,3 +109,57 @@ We have many ways to say the same thing.
 > In spite of his poor salary, he doesn't want to leave his job. <br/>
 > He isn't paid very well. However, he doesn't want to leave his job. <br/>
 > He isn't paid very well. He doesn't want to leave his job though. <br/>
+
+## While / whilst
+
+💡 ačkoliv
+
+**Whilst** is ✏ formal variant of **while**. **While** is also time conjunction,
+see [time clauses](/topics/subordinate-sentences/time-clauses.md).
+
+> While I share your opinion, I have certain doubts. 💡*Ačkoliv sdílím tvůj názor, mám jisté pochybnosti* <br/>
+> While you may think it's great, not everyone shares your opinion. 💡*I když si možná myslíš, že je to dobré, ne všichni
+sdílí tvůj názor.* <br/>
+> Whilst they do need correct feeding, Huskies do not require as much food as other large breeds. <br/>
+
+## Whether
+
+We use **whether + or** in these clauses. **Wheter** can be also used in **object clauses**.
+
+> **Whether** you're rich **or** poor, our club is for you! <br/>
+> **Whether** you live here **or** not, you are a part of our family. <br/>
+
+## No matter
+
+💡 nehledě, bez ohledu
+
+It is used with **wh- words** or with **whether / if**.
+
+> **No matter if / whether** it is true or not, people will protest. <br/>
+
+> **No matter what** you do, I will love you. <br/>
+> **No matter where** you go, I will follow you. <br/>
+> **No matter when** you come back, I will always welcome you with open arms. <br/>
+> **No matter who** you marry, you must treat them with respect and love. <br/>
+> **No matter whose** car you drive, you must be careful. <br/>
+> **No matter why** you did it, you still have to be punished. <br/>
+> **No matter how** you solve it, it counts. <br/>
+> **No matter to whom** you pray, pray for me. <br/>
+> **No matter which** you choose, it will be a good choice. <br/>
+
+We can use words **wh- word + ever** instead of phrase **no matter + wh- word**.
+
+> **No matter what** you do... 🔃 **Whatever** you do ... <br/>
+> **No matter where** you go ... 🔃 Wherever you go ... <br/>
+> **No matter when** you come back ... 🔃 Whenever you come back ... <br/>
+> **No matter who** you marry ... 🔃 Whoever you marry ... <br/>
+> **No matter which** you choose ... 🔃 Whichever you choose ... <br/>
+> **No matter how** you solve it ... 🔃 However you solve it ... <br/>
+> 🔴 whosever, whyever, whomever - are not generally used <br/>
+
+This **wh- word + ever** - **no matter + wh- word** interchangeability is possible only for these clauses, not for
+object or subject clauses.
+
+> Whoever gets there first wins. 🔴 No matter who gets there first wins. 💡*subject clause* <br/>
+> You can buy whatever you want. 🔴 You can buy no matter what you want. 💡*object clause* <br/>
+
