@@ -12,7 +12,7 @@ It is not affected in any way by the so-called temporal sequence (💡*časova s
 > I wish I were an angel. ➡ 🔴 He said he wished **he had been** an angel. ➡ 🟢 He said he wished **he were** an
 > angel. <br/>
 
-### Wish sentences
+### Wish clauses
 
 💡 kéž by, kdyby tak
 
@@ -24,7 +24,7 @@ We can use the verb **wish** or a phrase **if only**.
 > I wish I had studied harder. <br/>
 > If only he had been more careful. <br/>
 
-⏳ see wish-clauses
+See [wish clauses](/topics/subordinate-sentences/wish-clauses.md).
 
 ### Unreal conditionals
 
