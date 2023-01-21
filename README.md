@@ -58,6 +58,7 @@ The following table contains all types of emojis together with their meaning whi
 | 🆚    | versus                  |
 | ➡     | b4derivation            |
 | 🔃    | equivalent option       |
+| ❌     | not equivalent option   |
 | ℹ     | additional information  |
 | 🟢    | correct usage           |
 | 🔴    | incorrect usage         |
