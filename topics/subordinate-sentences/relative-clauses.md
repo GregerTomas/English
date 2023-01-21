@@ -124,3 +124,75 @@ We can omit a relative pronoun in the **defining clauses** where the pronoun doe
 ### Participle
 
 See [this article](/topics/parts-of-speech/verbs/non-finite-verb-forms/participle.md#relative-clauses).
+
+### How and relative clauses
+
+**How** cannot be used as a relative pronoun. We can use phrases **way to do sth**, **way of doing sth**, **way (that)**
+.
+
+> 🔴 It's the best way **how** to learn English. <br/>
+> ➡ 🟢 It's the best way to learn English. <br/>
+> ➡ 🟢 It's the best way of learning English. <br/>
+> ➡ 🟢 It's the best way (that) you can learn English. <br/>
+> 💡*Je to nejlepší způsob, jak se můžeš naučit anglicky.* <br/>
+
+**way to do sth**
+
+> What's the best **way to learn** Spanish? <br/>
+> There are other **ways to lose** weight, you know. <br/>
+> This is not the only **way to write** an essay, though. <br/>
+> What's the easiest **way to make** some money? <br/>
+
+**way of doing sth**
+
+> They claim to have discovered a new **way of learning** languages. <br/>
+> It's the safest **way of storing** data online. <br/>
+> For her, singing is a **way of honoring** God. <br/>
+> Gardening was a **way of relaxing** for Roger. <br/>
+
+**way (that)**
+
+> He showed me the **way (that)** he learns new vocabulary. <br/>
+> There are other **ways (that)** you can say the same thing. <br/>
+> That's the **way (that)** we do it. <br/>
+> "Maturity, the **way (that)** I understand it, is knowing what your limitations are." <br/>
+
+### Object clauses
+
+We cannot use **how** as a relative pronoun, but we can use it in the object clauses.
+
+> I don't know how I should feel about it. <br/>
+
+It can even be used after a preposition, so we can replace a relative clause with **a preposition + an object clause**.
+Prepositions **on** nad **of** are often used.
+
+**preposition on**
+
+> 🔴 It's a **question how** you want to live your life. ➡ 🟢 It's a **question of how** you want to live your life. <br/>
+> 🔴 Here are some **tips how** you can learn English. ➡ 🟢 Here are some **tips on how** you can learn English. <br/>
+> He gave me some **advice on how** to lose weight. <br/>
+> This book includes a simple **tutorial on how** to set up your website. <br/>
+> I need more **instructions on how** to work in Photoshop. <br/>
+> He has a **plan on how** he can achieve his goals. <br/>
+
+**preposition of**
+
+> 🔴 It's a **description how** the system works. ➡ 🟢 It's a **description of how** the system works. <br/>
+> Can you give me an **example of how** to write an essay in English? <br/>
+> He brought up the **question of how** to handle the case. <br/>
+> The book touches on the **issue of how** people can help saving the planet. <br/>
+
+These nouns would be used with a preposition even with other relative adverbs.
+
+> 🔴 He gave me some **tips where** to stay in Dublin. ➡ 🟢 He gave me some **tips on where** to stay in Dublin. <br/>
+> 🔴 It was a **question when** someone would find out about it. ➡ 🟢 It was a **question of when** someone would find out
+> about it. <br/>
+
+### Summary
+
+The adverb **how** cannot be used after a noun, so following example are wrong:
+
+> 🔴 way how <br/>
+> 🔴 advice how <br/>
+> 🔴 tips how <br/>
+> 🔴 instructions how <br/>
