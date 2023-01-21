@@ -120,3 +120,7 @@ We can omit a relative pronoun in the **defining clauses** where the pronoun doe
 
 > The book which I bought is not very good. ➡ The book I bought is not very good. <br/>
 > The stone which fell on my head was quite big. 🔴 The stone fell on my head was quite big. <br/>
+
+### Participle
+
+See [this article](/topics/parts-of-speech/verbs/non-finite-verb-forms/participle.md#relative-clauses).
