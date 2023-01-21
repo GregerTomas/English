@@ -163,3 +163,8 @@ object or subject clauses.
 > Whoever gets there first wins. 🔴 No matter who gets there first wins. 💡*subject clause* <br/>
 > You can buy whatever you want. 🔴 You can buy no matter what you want. 💡*object clause* <br/>
 
+## ⏳ ✏ Fronting
+
+Very
+rare, [see this article](https://www.englishme.cz/app/article?number=2010031202&backlink=%2Ftests%2Ftopic%2Fdefault%3Fid%3D397%26backlink%3D%252Ftests%252Ftopic%252Fgrammar-list)
+.
