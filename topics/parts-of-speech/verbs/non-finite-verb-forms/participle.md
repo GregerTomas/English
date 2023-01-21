@@ -63,7 +63,7 @@ Just add **not** before the participle.
 > Giving me the money, she left. 💡*Když mi dala ty peníze, odešla.* <br/>
 > Being given the money, she left. 💡*Když dostala ty peníze, odešla.* <br/>
 
-## Definitive participle
+## Perfect participle
 
 💡 dokonavé participium, minulé příčestí
 

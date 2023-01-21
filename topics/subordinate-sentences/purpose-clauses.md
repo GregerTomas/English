@@ -1,4 +1,6 @@
-# Reason / purpose clauses
+# Purpose clauses
+
+💡 účelové věty (proč? / za jakým účelem?)
 
 ## Purpose of things
 
