@@ -115,7 +115,7 @@ We have many ways to say the same thing.
 💡 ačkoliv
 
 **Whilst** is ✏ formal variant of **while**. **While** is also time conjunction,
-see [time clauses](/topics/subordinate-sentences/time-clauses.md).
+see [time clauses](/topics/subordinate-clauses/time-clauses.md).
 
 > While I share your opinion, I have certain doubts. 💡*Ačkoliv sdílím tvůj názor, mám jisté pochybnosti* <br/>
 > While you may think it's great, not everyone shares your opinion. 💡*I když si možná myslíš, že je to dobré, ne všichni

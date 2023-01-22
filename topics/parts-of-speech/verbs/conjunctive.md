@@ -24,7 +24,7 @@ We can use the verb **wish** or a phrase **if only**.
 > I wish I had studied harder. <br/>
 > If only he had been more careful. <br/>
 
-See [wish clauses](/topics/subordinate-sentences/wish-clauses.md).
+See [wish clauses](/topics/subordinate-clauses/wish-clauses.md).
 
 ### Unreal conditionals
 
