@@ -134,3 +134,28 @@ In the 🗣 spoken English, following words are pronounced shortly.
 | had	  | /hæd/	             | /əd/                  |
 | would | 	/wʊd/	            | /wəd/                 |
 | have  | 	/hæv/	            | /əv/                  |
+
+### Mixed conditionals
+
+We can mix 2nd a 3rd conditional together in two ways.
+
+#### Condition in the past, result in the present
+
+We take the conditional clause from the 3rd conditional, and the main clause from the 2nd conditional.
+
+> If I hadn't met my wife, I wouldn't have such a beautiful family. 💡*Kdybych býval nepotkal svoji ženu (v minulosti),
+neměl bych tak krásnou rodinu (nyní).* <br/>
+> If I had studied more when I was young, I would certainly have a better job now. 💡*Kdybych se býval v mládí lépe
+učil (tehdy), měl bych nyní lepší práci (nyní).* <br/>
+> If I had had breakfast, I wouldn't be hungry now. <br/>
+
+#### Condition in the present, result in the past
+
+The condition is related to a permanent truth (i.e., the present). We take the conditional clause from the 2nd
+conditional, and the main clause from the 3rd conditional.
+
+> If I wasn't lazy, I would have helped them. 💡*Kdybych nebyl tak líný (pro přítomnost používáme minulý čas), býval bych
+jim pomohl (tehdy).* <br/>
+> If she wasn't so pretty, I would have never fallen in love with her. 💡*Kdyby nebyla tak pěkná (stále – i nyní – proto
+minulý čas), nikdy bych se do ní nebyl zamiloval (týká se to minulosti – já se do ní zamiloval).* <br/>
+> If I liked pizza, I would have gone to the pizzeria with you. <br/>
