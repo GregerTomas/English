@@ -22,7 +22,7 @@ They are **real and possible** conditions for the present. Something will happen
 
 #### Grammar
 
-We do not use the future tense in the 1st conditional clauses.
+We do not use the future tense in the 1st conditional clauses. The whole sentence can be even in past tense.
 
 > 🔴 If I will have time, I will go there. ➡ 🟢 If I have time, I will go there. 💡*Pokud budu mít čas, půjdu tam.* <br/>
 > If the weather is good, I will go out. 💡*Pokud bude dobré počasí, půjdu ven.* <br/>
@@ -30,6 +30,7 @@ We do not use the future tense in the 1st conditional clauses.
 > If I win, I will move abroad. <br/>
 > If I see him, I will give him your message. <br/>
 > We'll be late if you don't hurry up. <br/>
+> If it rained, they probably stayed at home.💡*Jestli pršelo, zůstali pravděpodobně doma.* <br/>
 
 #### Imperative
 
@@ -40,19 +41,73 @@ The future tense is in neither of the clauses.
 > If they ask for help, help them. <br/>
 > Wear a hat if it snows. <br/>
 
+#### Mixed conditionals
+
+We can combine different tenses in the sentence. Only one rule applies, the future tense cannot be used in the
+conditional clause. See some examples bellow, other tenses are also possible.
+
+**conditional in past + result in future**
+
+> If she missed her bus this morning, she will be late. 💡*Je možné, že jí ujel autobus, v tom případě přijde pozdě. A
+jestli jí neujel, potom asi přijde včas.* <br/>
+
+**conditional in present + result in future**
+
+> If she's lying, I won't talk to her again. 💡*Možná lže, možná nelže, ale jestli ano (ta možnost tu je), už s ní
+nepromluvím.* <br/>
+
+**conditional in present + result in past**
+
+> If he's not on holiday, he lied to us! 💡*Je možné že není na dovolené, a jestli ne, potom nám lhal. Je tedy možné, že
+nám lhal.* <br/>
+
+#### Alternative conditionals
+
+##### Unless
+
+💡 jestli ne, pokud ne
+
+It is equal to **if not**.
+
+> I won't help you unless you help me. 🔃 if you don't help me. <br/>
+> We'll go out unless she's too busy. 🔃 if she isn't too busy. <br/>
+
+##### Provided, providing (that)
+
+💡 za předpokladu, že
+
+> I'll take the job **provided they offer me a good salary. <br/>
+> I'll take the job **providing (that)** they offer me a good salary. <br/>
+
+##### On condition (that)
+
+💡 pod podmínkou, že
+
+> I'll tell you a secret **on condition (that)** you don't tell anyone. <br/>
+
+##### As long as
+
+💡 pokud
+
+It can also be used in the time clauses (💡*dokud*).
+
+> I like spending weekends with my parents **as long as** they don't start trying to talk me into getting married and
+> settling down.
+
 ### 2nd conditional
 
 💡 kdyby ... tak by ... (co by bylo, kdyby)
 
-They are **unreal** conditions for the present. The conditions are not met, or are unlikely to be met.
+They are **unreal, theoretical** conditions for the present. The conditions are not met, or are unlikely to be met.
 
 #### Grammar
 
 We use a verb in the past tense in the conditional clause (
 or [conjunctive](/topics/parts-of-speech/verbs/conjunctive.md)), and **would** in the main clause.
 
-> If I had the money, I'd buy a car. 💡*Kdybych měl peníze, koupil bych si auto.<br/>
-> If the weather was nice, we'd go on a trip. 💡*Kdyby bylo hezké počasí, vyrazili bychom na výlet.* <br/>
+> If I had the money, I'd buy a car. 💡*Kdybych měl peníze (ale nemám), koupil bych si auto (neočekávám to).<br/>
+> If the weather was nice, we'd go on a trip. 💡*Kdyby bylo hezké počasí (ale není / asi nebude), vyrazili bychom na
+> výlet (ale asi nevyrazíme).* <br/>
 > If we won, we would celebrate. <br/>
 > If I needed anything, I would call you. <br/>
 > If I were you, I wouldn't trust him. <br/>
