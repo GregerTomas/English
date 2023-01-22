@@ -159,3 +159,106 @@ jim pomohl (tehdy).* <br/>
 > If she wasn't so pretty, I would have never fallen in love with her. 💡*Kdyby nebyla tak pěkná (stále – i nyní – proto
 minulý čas), nikdy bych se do ní nebyl zamiloval (týká se to minulosti – já se do ní zamiloval).* <br/>
 > If I liked pizza, I would have gone to the pizzeria with you. <br/>
+
+## Conjunctions
+
+### If 🆚 when 🆚 in case (of)
+
+#### In case of something
+
+💡 v případě, pokud, jestli
+
+This prepositional phrase is quite familiar and is used when you want to point out what to do when, for example, a
+threat happens.
+
+> In case of fire, break the glass. <br/>
+> In case of emergency, press this button. <br/>
+> She knows how to get out in case of emergency. <br/>
+
+It has almost similar meaning as a condition clause.
+
+> In case of fire, break the glass. 🔃 If there is a fire, break the glass. <br/>
+
+#### In case
+
+💡 pro případ, že (by) / kdyby náhodou, že (by)
+
+We want to do something preventive. We are preparing for a situation which could happen. It is not a conditional clause.
+
+> I'll give you his number **in case** you need it. 💡*Dám ti to číslo **kdybys** ho potřeboval.* <br/>
+> I'll give you his number **if** you need it. 💡*Dám ti to číslo, **pokud / jestli** ho potřebuješ / budeš
+potřebovat.* <br/>
+> I'll give you his number **when** you need it. 💡*Dám ti to číslo, **až** ho budeš potřebovat.* <br/>
+
+> You should pack your swimsuit in case there's a pool. 💡*Měla by sis zabalit plavky pro případ, že tam bude bazén (
+kdyby tam náhodou byl).* <br/>
+> 🆚 <br/>
+> You should pack your swimsuit if there's a pool. Go and check their website. 💡*Měla by sis zabalit plavky v případě (
+pokud, jestli), že tam je bazén. Běž se podívat na jejich web.* <br/>
+
+> I'll take an umbrella in case it rains. 💡*Vezmu si (raději) deštník pro případ (kdyby náhodou), že bude pršet.* <br/>
+> 🆚 <br/>
+> I'll take an umbrella if it rains. 💡*Vezmu si deštník v případě (pokoud, jestli), že bude pršet.* <br/>
+
+> We'll buy more wine in case more people come. 💡*Koupíme více vína pro případ (kdyby), že přijde více lidí.* <br/>
+> 🆚 <br/>
+> We'll buy more wine if more people come. 💡*Koupíme více vína v případě (pokud, jestli), že přijde více lidí.* <br/>
+
+> You should insure the parcel in case it gets damaged. 🆚 You will lose a lot of money if it gets damaged and it isn't
+> insured. <br/>
+> Take out insurance in case the shipment gets damaged. 🆚 Use the insurance if the shipment gets damaged. <br/>
+> I'll give you my phone number in case you have any questions. 🆚 Call me if you have any questions. <br/>
+> I don't want to leave my office in case Mr Jones phones. 🆚 If Mr Jones phones and I'm not in the office, he's going to
+> use a different provider. <br/>
+> I'll make more salad in case you're hungry when you get back. 🆚 You can have the salad if you're hungry when you get
+> back. <br/>
+> I'll take some cash in case they don't accept credit cards. 🆚 I can withdraw some cash from an ATM later if they don't
+> accept credit cards. <br/>
+> I've bought a chicken in case your mother wants to stay for dinner. 🆚 I will make the chicken if your mother wants to
+> stay for dinner. <br/>
+> Take a map in case we get lost. 🆚 We will use the map if we get lost. <br/>
+> You should keep some candles in case there's a power cut again. 🆚 You can light the candles if there's a power
+> cut. <br/>
+> Let's take some sandwiches in case we get hungry. 🆚 We can eat the sandwiches if we get hungry. <br/>
+
+It can be also used in the past tense.
+
+> I took some cash in case they didn't accept credit cards, but they did. <br/>
+> I took an umbrella in case it rained, but the sky was clear the whole time. <br/>
+> We took a map in case we got lost, but we found their house easily. <br/>
+> I gave him your phone number in case he needed to call you. <br/>
+> I knocked very loudly in case they didn't hear me. <br/>
+
+We can use **should** with it.
+
+> I'll give you my number in case you should need it. 💡*Dám vám své číslo, kdybyste ho měl potřebovat.* <br/>
+> I'll give you my number in case there should be some changes in the plan. 💡*Dám vám své číslo pro případ, že by mělo
+dojít k nějakým změnám v plánu.* <br/>
+> I bought more meat yesterday in case we should need it. <br/>
+> She wrote down the name of the oil in case she should forget it. <br/>
+
+We can use the present or past tense after it, not the future tense.
+
+> 🔴 I'll give you my number in case you will need it. ➡ 🟢 I'll give you my number in case you need it. <br/>
+> I gave him my number in case he needed it. <br/>
+
+##### Phrases
+
+**just in case** 💡*kdyby náhodou, jen pro jistotu*
+
+> I've bought more wine in case there are more guests. ➡ I've bought more wine. Just in case. <br/>
+> I'll give you the number anyway. Just in case. <br/>
+> I ordered twice as many cartridges, just in case. <br/>
+> Take some cash. You know, just in case. <br/>
+> He's not afraid of the lioness, but he's wearing a leather jacket. Just in case. <br/>
+
+**in any case** 💡*v každém případě, stejně (tak či tak)*
+
+> I don't know why she should turn me down. In any case, I'm going to call her and ask her out. <br/>
+> I'm sure you'll catch the train, but in any case, you can take a taxi. It's not that far. <br/>
+
+**in that case** 💡*v tom případě*
+
+> I don't have enough money, sir. In that case you can't buy the ice cream. <br/>
+> I couldn't go to the concert, I was sick. Well, in that case why didn't you give the ticket to someone? <br/>
+
