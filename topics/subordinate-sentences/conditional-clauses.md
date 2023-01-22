@@ -160,6 +160,24 @@ jim pomohl (tehdy).* <br/>
 minulý čas), nikdy bych se do ní nebyl zamiloval (týká se to minulosti – já se do ní zamiloval).* <br/>
 > If I liked pizza, I would have gone to the pizzeria with you. <br/>
 
+## Binding be + infinitive
+
+We can express the future tense even with the binding **be + infinitive**. ⏳[TODO see article].
+
+In an ordinary condition clause, the condition must be met before the action in the main clause take place.
+
+> If I pass the exam, I will celebrate. <br/>
+
+In opposite, in the clauses with **be + infinitive**, the action in the main clause must happen first. The same meaning
+we can achieve by using **want**
+
+> If I'm to pass the exam, I'll have to study a lot. 🔃 If I want to pass the exam, I will need to study a lot. 💡*Jestli
+mám složit tu zkoušku, budu se muset hodně učit* <br/>
+> If I'm to help you, you'll have to do something for me too. 🔃 If you want me to help you, you will have to do
+> something for me too. 💡*Jestli ti mám pomoct, budeš pro mě muset taky něco udělat.* <br/>
+> If she's to study abroad, she'll need to get a job first. 🔃 If she wants to study abroad, she'll need to get a job
+> first. <br/>
+
 ## Conjunctions
 
 ### If 🆚 when 🆚 in case (of)
