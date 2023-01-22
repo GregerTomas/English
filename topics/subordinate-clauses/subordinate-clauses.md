@@ -57,3 +57,27 @@ in the main clause is not he same as the future in the subordinate clause, then 
 > I'm certain he will be here in time. <br/>
 > The psychic will tell us what will happen in our lives. <br/>
 > Do it if you will. 💡*Udělej to, jestli chceš. (zde **will** není budoucí čas, ale sloveso)* <br/>
+
+## ✏ Verbless clause
+
+There exists subordinate clauses when there is no subject and verb. There is the **subject complement** (💡*přísudek
+jmenný*) right after the conjunction. The **subject complement** is often **an adjective**, **a preposition binding**
+or **a noun**.
+
+> If possible it is possbile ... ➡ **If possible**, call someone to let them know that you have arrived home
+> safely. <br/>
+> **If in doubt**, ask your pharmacist. <br/>
+> Avoid the area, **unless absolutely necessary**. <br/>
+> **When in Rome**, do as the Romans do. <br/>
+> **When ripe**, apples are picked and stored in crates. <br/>
+> The gadget should be switched off **as soon as not in use**. <br/>
+> **Once free** from her grip, the boy glared at her angrily. <br/>
+> Make sure you don't miss it **while in Prague**. <br/>
+> **Although not a Christian himself**, he went to church on Sundays to impress the girl he liked. <br/>
+> **Though not satisfied** with the results, people were happy the election was over. <br/>
+> **Even if not a fan**, I enjoyed the concert. <br/>
+> She looked at me **as if utterly unable** to decide what to do. <br/>
+> He behaved **as though indifferent** to the risk. <br/>
+> Insert your name **where applicable**. <br/>
+> **Whether rich or poor**, he's still the same person. <br/>
+> When working out, you should drink some water every 15 or 20 minutes, **whether thirsty or not**. <br/>
