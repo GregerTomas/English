@@ -35,6 +35,9 @@ They are **real and possible** conditions for the present. Something will happen
 
 #### Grammar
 
+We use a verb in the present tense in the conditional clause, and the future tense in the main clause (typically **
+will**, but even **may** can be used).
+
 We do not use the future tense in the 1st conditional clauses.
 
 > 🔴 If I will have time, I will go there. ➡ 🟢 If I have time, I will go there. 💡*Pokud budu mít čas, půjdu tam.* <br/>
@@ -43,6 +46,8 @@ We do not use the future tense in the 1st conditional clauses.
 > If I win, I will move abroad. <br/>
 > If I see him, I will give him your message. <br/>
 > We'll be late if you don't hurry up. <br/>
+> If it rains tomorrow, I may stay home. <br/>
+> If I stay home, I may lose my job. <br/>
 
 #### Imperative
 
