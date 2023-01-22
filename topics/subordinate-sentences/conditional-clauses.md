@@ -14,6 +14,19 @@ See [inversion article](/topics/sentence-structure/inversion.md#-formal-conditio
 
 ## Conditionals
 
+### Zero conditional
+
+💡 co dělám, když
+
+It is used for the permanent truths. Both clauses are typically in the present tense. We can use either the
+conjunction **when** or **if**.
+
+> If / when I'm hungry, I have something to eat. <br/>
+> If / when I'm not hungry, I don't eat. <br/>
+> We don't play outside if / when it's raining. <br/>
+> If / when I need help, I ask for it. <br/>
+> Water boils if / when you heat it to 100 degrees. <br/>
+
 ### 1st conditional
 
 💡 jestli ... tak ..., když ... tak ..., -li ... tak ...
@@ -131,6 +144,8 @@ The verb **could** is often used in these clauses, either in the main clause or 
 
 💡 v češtině už pro druhý a třetí kondicionál používáme výhradně přítomný podmiňovací způsob (lze použít samozřejmě i
 minulý)
+
+They are **unreal,** conditions for the past.
 
 > Kdyby (teď) bylo hezky, šli bychom ven. 💡*přítomná nereálná podmínka, druhý kondicionál* <br/>
 > Kdyby (tehdy) bylo hezky, šli bychom ven. 🔃 Kdyby bývalo hezky, byli bychom šli ven. 💡*minulá nereálná podmínka, třetí
