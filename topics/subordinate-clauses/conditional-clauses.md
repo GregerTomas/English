@@ -160,7 +160,7 @@ jim pomohl (tehdy).* <br/>
 minulý čas), nikdy bych se do ní nebyl zamiloval (týká se to minulosti – já se do ní zamiloval).* <br/>
 > If I liked pizza, I would have gone to the pizzeria with you. <br/>
 
-### Real (open) conditionals
+## Real (open) conditionals
 
 💡 jestli ... tak ..., když ... tak ..., -li ... tak ...
 
@@ -207,6 +207,78 @@ nepromluvím.* <br/>
 
 > If he's not on holiday, he lied to us! 💡*Je možné že není na dovolené, a jestli ne, potom nám lhal. Je tedy možné, že
 nám lhal.* <br/>
+
+## Unreal conditions with **be + for** binding
+
+💡 kdyby nebylo něčeho či někoho, tak se něco nestane
+
+The action in the main clause can exist only because of somebody / something from the subordinate clause.
+
+### Something exists in the present
+
+💡 kdyby teď ..., tak by teď ...
+
+The 2nd conditional is used.
+
+> If it **weren't for** his dog, he would be very lonely. 💡*Kdyby nebylo jeho psa, byl by velmi osamocený. (psa má nyní
+a proto není osamělý)* <br/>
+> If it **weren't for** my parents, I wouldn't be who I am. 💡*rodiče stále mám* <br/>
+> If it **weren't for** TV shows, I don't know what I'd do. <br/>
+> Where would you be if it **weren't for** me? <br/>
+> If it weren't for the fact that I go jogging every day, I would be overweight. <br/>
+> If it weren't for his sister helping him with his homework every now and then, he would be failing math. <br/>
+
+Because the 2nd conditional is used in the conditional clause, we can use **were** for all persons.
+
+> If it **wasn't / weren't** for his teacher, he wouldn't like the school very much. <br/>
+> If it **wasn't / weren't** for this language course, I wouldn't be able to speak Spanish at all. <br/>
+
+The [inversion](/topics/sentence-structure/inversion.md#-formal-conditionals) is used in ✏ formal English.
+
+> If it weren't for you ... ➡ Were it not for you ... <br/>
+> There would be nothing to celebrate were it not for your hard work. 🔃 if it wasn't for your hard work <br/>
+> Were it not for her friends, she would still have a drug problem. <br/>
+> She's a bad influence. Were it not for her, he would not be in trouble with the law. <br/>
+
+### Something exist in the past
+
+💡 kdyby tehdy…, tak by tehdy…
+
+The 3rd conditional is used.
+
+> **If it hadn't been for** her music teacher, she would never have pursued a career in music. 💡*jedná se o minulost,
+učitel už teď důležitý není, třeba už ani nežije* <br/>
+> **If it hadn't been for** the accident, we would have arrived in time. 💡*nehoda se už stala* <br/>
+> A lot of people would have died **if it hadn't been for** him.
+
+The [inversion](/topics/sentence-structure/inversion.md#-formal-conditionals) is used in ✏ formal English.
+
+> **If it hadn't** been for ... ➡ **Had it not** been for ... <br/>
+> **Had it not been for** the mistake, he would have won easily. <br/>
+> He wouldn't have made it **had it not been for** his faithful voters. <br/>
+
+### Mixed conditionals
+
+**condition in the past, result in the present** 💡*kdyby tehdy něčeho nebylo, tak teď ...*
+
+> If it hadn't been for his help back in high school, I wouldn't be where I am today. 💡*Kdyby nebylo jeho pomoci tehdy
+na střední škole, nebyl bych, kde dnes jsem.* <br/>
+> If it hadn't been for his donation, we wouldn't have that library. <br/>
+
+**general condition in the present, result in the past** 💡*kdyby obecně něčeho nebylo, tak by tehdy ...*
+
+> If it weren't for my wife, I wouldn't have finished the book. 💡*Kdyby nebylo mé ženy, tu knihuá bych býval
+nedokončil.* <br/>
+> If it weren't for medical science, I would have been dead a long time ago. <br/>
+
+### But for, if not for
+
+We can use these preposition bindings instead of the conditional clause (either present or past).
+
+> **But for their generous donation**, the hospital wouldn't be able to afford the new equipment. <br/>
+> He wouldn't have made it **but for his perseverance**. <br/>
+> **If not for** you, I'd be lost. <br/>
+> We wouldn't have been able to help **if not for** people's kindness and generosity. <br/>
 
 ## Binding be + infinitive
 
