@@ -430,3 +430,46 @@ We can use the present or past tense after it, not the future tense.
 
 > I don't have enough money, sir. In that case you can't buy the ice cream. <br/>
 > I couldn't go to the concert, I was sick. Well, in that case why didn't you give the ticket to someone? <br/>
+
+## Conditional clauses with will
+
+There are some exception when we can use **will** in a conditional clause.
+
+💡 **když budeš tak laskav, když budeš tak hodný**
+
+Very polite phrases. It is derived from the phrase **be willing** 💡*být ochoten*.
+
+> They are willing to accept your terms. <br/>
+> She's not willing to co-operate. <br/>
+
+> If you will call us tomorrow, we can discuss all the arrangements. 💡*Když budete tak laskavá a zavoláte nám zítra, vše
+prodiskutujeme.* <br/>
+> If you will give me your hand, I'll help you up. <br/>
+> We would appreciate it if you would send us your latest catalog. 💡*Uvítali bychom, kdybyste byli tak laskavi a zaslali
+nám svůj nejnovější katalog.* <br/>
+
+💡 **když to tak musí být, když to tak chceš**
+
+Again, **will** can stand alone or be used as a auxiliary verb.
+
+> Do it if you will ... <br/>
+> If God will ... <br/>
+
+> If you will go to the pub every day, no wonder people take you for a drunk! 💡*Když ty musíš chodit každý den do
+hospody, není divu, že tě lidi berou za opilce.* <br/>
+> If you won't quit smoking, you can't expect to be healthy. 💡*Když nechceš skončit s kouřením, nemůžeš očekávat, že ti
+bude sloužit zdravý.* <br/>
+
+💡 **když ti to udělá radost**
+
+It is not an ordinary condition. The main clause is rather condition for the conditional clause. The conditional clause
+express the result, not the condition.
+
+> I'll go with you if it will make you happy. 💡*Půjdu s tebou, když ti to udělá radost.* <br/>
+> Hit me if it will help you. 💡*Uhoď mě, jestli ti to pomůže.* <br/>
+
+💡 **když to je tedy tak**
+
+> If you won't be back this weekend, why did you promise the kids to take them to the zoo? 💡*Nejedná se o klasickou
+podmínkovou větu. Mluvčí zde ví o tom, že tu její např. manžel nebude, pouze se ptá: Když to je tedy tak (a nebudeš tu),
+proč jsi to teda sliboval?* <br/>
