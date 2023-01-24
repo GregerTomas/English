@@ -102,3 +102,51 @@ We can use following adverbs before extreme adjectives.
 > He is my **close** friend. <br/>
 > He jumped through a **closed** window. <br/>
 
+## Look, sound, smell, taste, etc.
+
+These verbs are used with a preposition. Not with adverbs like in Czech.
+
+**look**
+
+> She looks happily. ➡ She looks happy. <br/>
+> You look nicely today. ➡ You look nice today. <br/>
+> You look tiredly! You should have some sleep. ➡ You look tired! You should have some sleep. <br/>
+> The natives looked friendly. ➡ You don't look well. You should see a doctor. 💡***friendly** is an adjective (
+přátelský)* <br/>
+> You don't look well. You should see a doctor. 💡***well** is used as an adjective (zdravý)* <br/>
+> I am well. 💡***well** is used as an adjective (zdravý)* <br/>
+> Get well soon. 💡***well** is used as an adjective (zdravý)* <br/>
+
+**sound**
+
+> Let's meet at 6. Okay, it sounds good. <br/>
+> You sound upset. What happened? <br/>
+> Their new song sounds great. <br/>
+> His advice sounded stupid at the time but now I'm glad I took it. <br/>
+> I don't like German. It sounds harsh. <br/>
+
+**feel**
+
+> My back feels stiff. <br/>
+> I always feel great after a swim. <br/>
+> Edward's hands felt cold to her. <br/>
+> I'm better now but my throat still feels a little sore. <br/>
+
+**seem**
+
+> What do you think of Natalie? She seems nice. 💡*Co říkáš na Natalii. Vypadá mile.* <br/>
+> She seemed sad so I wanted to do something to cheer her up. <br/>
+> It seems a little strange that he still lives with his mom. <br/>
+
+**smell**
+
+> What are you cooking? It smells delicious. <br/>
+> The milk smelled bad but he drank it anyway. <br/>
+> The air here smells so sweet and fresh. <br/>
+
+**taste**
+
+> This tastes wonderful. What's in it? <br/>
+> The wine tastes fruity and sweet. <br/>
+> I thought there was something wrong with the eggs but she said they tasted fine. <br/>
+
