@@ -45,17 +45,17 @@ They usually consist of two or more syllables. Adverbs **more** and **most** are
 | basic form	 | comparative      | superlative      |
 |-------------|------------------|------------------|
 | interesting | more interesting | most interesting |
-| beautiful   | 	more beautiful  | 	most beautiful  |
+| beautiful   | more beautiful   | most beautiful   |
 | useful      | more useful      | most useful      |
 
 ## Irregular gradation
 
-| basic form	               | comparative                        | superlative                             |
-|---------------------------|------------------------------------|-----------------------------------------|
-| good                      | better                             | lepší	best                              |
-| bad                       | worse                              | 	worst                                  |
-| far 💡*vzdálený, DalekJS* | 	farther / further 💡*vzdálenější* | 	farthest / furthest 💡*nejvzdálenější* |    
-| little 💡*malý*           | lesser 💡*menší, méně závažný*     | 	least 💡*nejmenší, nejméně závažný*    | 
+| basic form	               | comparative                       | superlative                            |
+|---------------------------|-----------------------------------|----------------------------------------|
+| good                      | better                            | lepší	best                             |
+| bad                       | worse                             | worst                                  |
+| far 💡*vzdálený, DalekJS* | farther / further 💡*vzdálenější* | farthest / furthest 💡*nejvzdálenější* |    
+| little 💡*malý*           | lesser 💡*menší, méně závažný*    | least 💡*nejmenší, nejméně závažný*    | 
 
 ## Ungradable adjectives
 
