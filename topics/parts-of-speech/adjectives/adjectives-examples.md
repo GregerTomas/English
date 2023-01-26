@@ -150,3 +150,17 @@ přátelský)* <br/>
 > The wine tastes fruity and sweet. <br/>
 > I thought there was something wrong with the eggs but she said they tasted fine. <br/>
 
+## Still 🆚 always
+
+> **always** 💡*stále, neustále, vždy, pořád* <br/>
+> **still** 💡*stále ještě, stále něco platí* <br/>
+
+> 🔴 He is still busy. Never goes out. ➡ 🟢 He's always busy. He never goes out. <br/>
+
+> You are always welcome here. 💡*Vždy jsi tu vítán.* <br/>
+> 🆚 <br/>
+> You are still welcome here. 💡*Stále ještě tu jsi vítám (ještě jsi nás neomrzel).* <br/>
+
+> They are always arguing. 💡*Neustále se hádají.* <br/>
+> 🆚 <br/>
+> They are still arguing. 💡*Stále se ještě hádají (ještě nepřestali).* <br/>
