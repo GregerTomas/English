@@ -164,3 +164,34 @@ přátelský)* <br/>
 > They are always arguing. 💡*Neustále se hádají.* <br/>
 > 🆚 <br/>
 > They are still arguing. 💡*Stále se ještě hádají (ještě nepřestali).* <br/>
+
+## Little
+
+💡 malý / nedůležitý, nepodstatný
+
+| basic form                      | comparative                      | superlative                           |
+|---------------------------------|----------------------------------|---------------------------------------|
+| little 💡*malý*                 | littler 💡*menší*                | littlest 💡*nejmenší*                 |
+| little 💡*malý, málo podstatný* | lesser 💡*menší, méně podstatný* | least 💡*nejmenší, nejméně podstatný* |
+
+❗**Littler / littlest** are rare, we prefer gradation of **small**, **young** or **short**.
+
+> You say you have little feet? Mine are **smaller**. <br/>
+> Tom Cruise is a little person. He's not the **shortest** Hollywood actor, though. <br/>
+
+> He won a **lesser** prize but it was still worth the effort. <br/>
+> Sometimes you just have to choose the **lesser** evil. <br/>
+> I like Edgar Allan Poe. I've even read some of his **lesser** works. <br/>
+> You may receive a **lesser** punishment if you admit what you did wrong. <br/>
+> The **least** mistake might cost you your job. <br/>
+> We need to get there in the **least** amount of time possible. <br/>
+> People usually take the path of the **least** resistance. <br/>
+> We had been walking all day but he didn't show the **least** sign of fatigue. <br/>
+
+See also [the adverb little](/topics/parts-of-speech/adverbs/adverbs-examples.md#little).
+
+| basic form                            | comparative                   | superlative                     |
+|---------------------------------------|-------------------------------|---------------------------------|
+| little 💡*adjective - malý*           | smaller (rather than littler) | smallest (rather than littlest) |
+| little 💡*adjective - málo podstatný* | lesser                        | least                           |
+| little 💡*adverb, numeric, pronoun*	  | less                          | least                           |

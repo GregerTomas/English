@@ -199,3 +199,31 @@ We can use it to emphasize a noun.
 It should be used with caution, it cannot be used with everz noun.
 
 > 🔴 I talked to his very mother. <br/>
+
+## Little
+
+We use the same gradation for **little** as the adverb, the determiner (numeric) or the pronoun.
+
+| basic form      | comparative     | superlative       |
+|-----------------|-----------------|-------------------|
+| little 💡*malo* | lesser 💡*méně* | least 💡*nejméně* |
+
+> I ate very little that day. 💡*adverb* <br/>
+> We had too little time. 💡*determiner / numeric* <br/>
+> She said very little. 💡*pronoun* <br/>
+
+> He makes less money than she does. <br/>
+> If you want to lose some weight, you should eat less. <br/>
+> Sometimes less is more. <br/>
+> That's one less thing to worry about. <br/>
+> The flat tire is the least of our problems right now. <br/>
+> It will happen when you least expect it. <br/>
+> Most of the food was given to people who needed it the least. <br/>
+
+See also [the adjective little](/topics/parts-of-speech/adjectives/adjectives-examples.md#little).
+
+| basic form                            | comparative                   | superlative                     |
+|---------------------------------------|-------------------------------|---------------------------------|
+| little 💡*adjective - malý*           | smaller (rather than littler) | smallest (rather than littlest) |
+| little 💡*adjective - málo podstatný* | lesser                        | least                           |
+| little 💡*adverb, numeric, pronoun*	  | less                          | least                           |
