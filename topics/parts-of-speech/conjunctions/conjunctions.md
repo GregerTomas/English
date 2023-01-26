@@ -251,3 +251,66 @@ We can replace it with **if** unless it is followed by an infinitive or **whethe
 > 🔴 He raised a question if to go ahead with the plan. ➡ 🟢 He raised a question whether to go ahead with the plan. <br/>
 > 🔴 He raised a question if or not they should go ahead with the plan. ➡ 🟢 He raised a question whether or not they
 > should go ahead with the plan. <br/>
+
+## As ... as
+
+### As soon as
+
+💡 jakmile / tak brzy jak
+
+It is used as an ordinary time conjunction, and the same rules apply.
+
+> Please do it **as soon as** you can. <br/>
+> **As soon as** I opened the door, everyone shouted "happy birthday". <br/>
+
+> I'll call you when I get home. 💡*když, až dorazím domů* <br/>
+> 🆚 <br/>
+> I'll call you as soon as I get home. 💡*jakmile / hned jak dorazím domů* <br/>
+
+It can also mean 💡*tak brzy jak*, in this case, we do not consider **as soon as** as a whole.
+
+> You can come **as** soon **as** you want. 💡*Můžeš přijít tak brzy, jak budeš chtít.* <br/>
+
+### As long as
+
+💡 pokud / tak dlouho jak
+
+It is used as an ordinary conditional conjunction, and the same rules apply.
+
+> You can stay here **as long as** you're quiet. <br/>
+> I will come **as long as** I can dance with your wife. <br/>
+
+It is ✏ pretty formal, we can use **if** instead.
+
+> You can get a discount as long as you buy three different items. ➡ You can get a discount if you buy three different
+> items. <br/>
+
+It can also mean 💡*tak dlouho jak*, in this case, we do not consider **as long as** as a whole.
+
+> I didn't want to wait **as** long **as** you. <br/>
+
+> You can stay here **as** long **as** you want. 💡*Můžeš tady zůstat, jak dlouho budeš chtít.* <br/>
+> 🆚 <br/>
+> You can stay here **as long as** you're quiet. 💡*Můžeš tady zůstat, pokud budeš zticha. <br/>
+
+#### As far as
+
+💡 pokud / tak daleko jak
+
+Most often it is used in the following phrases.
+
+> as far as sth/sb is concerned 💡*pokud se něčeho týká* <br/>
+> as far as sb knows 💡*pokud někdo ví, pokud je někomu známo* <br/>
+
+> **As far as money is concerned**, you'll get a pay rise. 💡*Pokud jde o peníze, dostaneš přidáno.* <br/>
+> **As far as I'm concerned**, I don't mind working on Saturdays. <br/>
+> **As far as I know**, they haven't arrived yet. 💡*Pokud já vím, ještě nedorazil.* <br/>
+> **As far as he knew**, she didn't have addiction problems. <br/>
+
+#### As well as
+
+💡 i, stejně tak / tak dobře jako
+
+It is similar to the conjunction **and**.
+> There were many sweet as well as savoury dishes. <br/>
+> She invited her mother as well as her sister. ➡ She invited her mother and her sister. <br/>

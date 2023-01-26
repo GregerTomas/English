@@ -42,3 +42,45 @@ We can use a noun with this phrase, but an indefinite article must be moved.
 
 > He's a tall man. ➡ He's **as tall a man** as his father was. <br/>
 > We have a large garden. ➡ We have **as large a garden** as you do. <br/>
+
+### Others
+
+#### As + adverb + as + adjective
+
+It is a shortcut of the clause **As + adverb + as it is + adjective**. We can use even **can / could** instead of an
+adjective.
+
+> **as soon as possible** 💡*co nejdříve* <br/>
+> **as many as possible** 💡*co nejvíce (tak mnoho, jak je to možné)* <br/>
+> **as low as possible** 💡*co nejníže (tak nízko, jak je to možné, jak to jen jde)* <br/>
+> **as long as possible** 💡*co nejdéle (tak dlouho, jak to jen jde)* <br/>
+> **as long as necessary** 💡*co nejdéle (tak dlouho, jak je nutné)* <br/>
+> **as many as can** 💡*tolik, kolik může* <br/>
+
+> You should wait as long as possible. <br/>
+> Throw the ball as far as possible. <br/>
+> The doctor came as quickly as possible. <br/>
+> I want to make as many cookies as possible. <br/>
+> He poured in as much water as possible. <br/>
+> I'm going to wait as long as necessary. <br/>
+> Throw the ball as far as you can. <br/>
+> He poured in as much water as he could. <br/>
+
+#### As few / little / far / long as, as many / much / far / long as
+
+💡 překvapivě hodně / málo
+
+> **as few as** 💡*pouhých, pouze, jen* <br/>
+> **as little as** 💡*pouze, jen* <br/>
+> **as many as** 💡*až, celých* <br/>
+> **as much as** 💡*až, celých* <br/>
+> **as far as** 💡*až, celých (hodně daleko)* <br/>
+> **as long as** 💡*až, celých (hodně dlouho)* <br/>
+
+> There were as few as ten people at the conference. <br/>
+> We had as little as two days to finish the project. <br/>
+> We could invite as many as two hundred people to the wedding. <br/>
+> A tailor-made suit can cost as much as a thousand pounds. <br/>
+> We walked as far as ten kilometres. <br/>
+> She ran as far as the bridge. <br/>
+> She had to wait as long as ten days for him to call her back. <br/>
