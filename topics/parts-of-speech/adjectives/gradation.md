@@ -161,3 +161,25 @@ We use antonymous for some adjectives which we can grade the classic way.
 > Texas is smaller than Alaska. <br/>
 > A Lamborghini is cheaper than a Pagani. <br/>
 > Emma Watson is less pretty than Emma Stone. <br/>
+
+### Not as ... as ...
+
+Sometimes the question is whether to use a gradation with **less / least** or the classic gradation of an adjective
+with opposite meaning. We can use the phrase **not as ... as ...** instead of the awkward phrase **less + adjective +
+than**.
+
+> less tall than 💡*ne tak vysoký jako* ➡ not as tall as 💡*ne tak vysoký jako* <br/>
+> less pretty than 💡*méně krásná než* ➡ not as pretty as 💡*ne tak krásná jako* <br/>
+
+> Mike is not as tall as his dad. <br/>
+> Anna is not as pretty as Theresa. <br/>
+> The movie wasn't as funny as I remembered it. <br/>
+
+This phrase should be used with the verb **be** and with no noun after the adjective.
+
+> Někdo nemá tak dlouhé vlasy jako někdo jiný. ➡ Vlasy nejsou ... <br/>
+> Někdo nesl ne tak těžký kufr jako někdo jiný. ➡ Kufr nebyl ... <br/>
+
+> Jane's hair is not as long as her mother's. <br/>
+> The suitcase he carried was not as heavy as the one I carried. <br/>
+
