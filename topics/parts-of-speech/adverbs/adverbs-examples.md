@@ -118,3 +118,84 @@ In opposite to **in/out/.. here/there**, we use **here/there** for example befor
 > here in Mexico <br/>
 > there in the dark <br/>
 > here on Earth <br/>
+
+## Very
+
+### Adjectives or adverbs
+
+We can use it to emphasize the meaning of an adjective or an adverb.
+
+> He drove very fast. <br/>
+> Very well done. <br/>
+> I'm going to tell you very slowly. <br/>
+> She doesn't speak very good English. 🔃 Her English is bad. <br/>
+> The movie wasn't very interesting. 🔃 It was boring. <br/>
+
+#### Ungradable adjectives
+
+We cannot use **very** with an ungradable adjectives. For these adjectives, we can use following adverbs.
+
+> **really** 💡*skutečně, vážně, opravdu* <br/>
+> **quite** 💡*zcela* <br/>
+> **completely** 💡*úplně* <br/>
+> **absolutely** 💡*úplně* <br/>
+
+> 🔴 Your answer is very correct. <br/>
+> 🔴 She is very pregnant. <br/>
+> The spider was really enormous. <br/>
+> You are quite right. <br/>
+> The water was absolutely freezing! <br/>
+
+#### Superlative
+
+💡 úplně ten nejlepší
+
+> This is the very best that we can offer. <br/>
+> I want the very cheapest car insurance policy available. <br/>
+> Only the very most talented people can win. <br/>
+
+We can use it even with determiners **the first** and **the last**.
+
+> the very first kiss 💡*úplně první polibek* <br/>
+> the very last meal 💡*to úplně poslední jídlo* <br/>
+
+### Verb
+
+We cannot use **very** with a verb. We can use the adverb **really** or the phrase **✏ very much (formal)** or **a lot (
+🗣 informal)**.
+
+> 🔴 I very like it. <br/>
+> I **really** liked the book. <br/>
+> I **really** miss her. <br/>
+> You **really** helped us. <br/>
+> I liked the book **very much**. <br/>
+> We enjoyed your company **very much**. <br/>
+> You helped us **very much**. <br/>
+> He seems to regret it **very much**. <br/>
+> I liked the book **a lot**. <br/>
+> I love her **a lot**. <br/>
+> Thanks **a lot**. <br/>
+
+With the passive voice verb, we can use **much** or **greatly**.
+
+> 🔴 She was **very** loved. ➡ 🟢 She was **much / greatly** loved. <br/>
+> 🔴 Your email was **very** appreciated. ➡ 🟢 It was **much / greatly** appreciated. <br/>
+> 🔴 He was **very** influenced by other writers. ➡ 🟢 He was **much / greatly** influenced by other writers. <br/>
+
+### Noun
+
+We can use it to emphasize a noun.
+
+> Come here **this very moment**. 💡*Pojď sem, **právě v tento moment**.* <br/>
+> He only appeared at **the very end** of the movie. 💡*Objevil se až **na samém konci filmu**.* <br/>
+> We are at **the very beginning** of a new era. <br/>
+> He was killed **on this very spot**. <br/>
+> He disappeared **before my very eyes**. <br/>
+> It touched **my very soul**. <br/>
+> **The very idea** makes me sick. <br/>
+> **The very thought** of you makes me smile. <br/>
+> **The very fact** changes everything. <br/>
+
+It should be used with caution, it cannot be used with everz noun.
+
+> 🔴 I talked to his very mother. <br/>
