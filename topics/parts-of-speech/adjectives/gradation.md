@@ -131,6 +131,45 @@ or the phrase **by far**.
 > It's **by far the best** pizza place in the city. <br/>
 > I've always tried to do my very best. 💡*Vždycky jsem se snažil udělat, co je v mých silách.* <br/>
 
+##### Superlative without definite article
+
+###### Combination with possessive pronoun
+
+> 🔴 Who is **your the best** friend? ➡ 🟢 Who is **your best** friend? <br/>
+> 🔴 John is **my the oldest** son. ➡ 🟢 John is **my oldest** son. <br/>
+> 🔴 Have you read **her the most** recent book? ➡ 🟢 Have you read **her most** recent book? <br/>
+> It was Peter's most embarassing experience. <br/>
+> Neblina Peak is Brazil's highest mountain. <br/>
+
+###### Variant comparison
+
+We do not compare things, but variants of the same thing.
+
+> Tea is best when served in china cups. <br/>
+> Shadows are longest in the early morning and late afternoon. <br/>
+> People are easiest to control when they are afraid. <br/>
+
+###### Wh- and verb be
+
+It is not necessary to use the definite article in interrogative or subject clauses, where a pronoun **what**
+, **who**, **which*, etc. and the verb **be** is used. In the ✏ formal English, the definite article can be used.
+> You don't know what's **(the) best** for you. <br/>
+> Who's going to win? That depends on who's **(the) strongest**. <br/>
+
+###### Adverb gradation
+
+Again, in the ✏ formal English, the definite article can be used.
+
+> They all ran fast but John ran **(the) fastest**. <br/>
+> In my family, I am the one who gets up **(the) earliest**. <br/>
+
+###### Absolute superlative
+
+Absolute superlative means 💡*velmi*, not 💡*nejvíce*. We do not compare things between each other, but we just highlight
+the thing.
+
+> It was **a most interesting** story. 💡*very* <br/>
+
 <hr/>
 
 ## Weakening
