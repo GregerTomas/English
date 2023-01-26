@@ -222,3 +222,79 @@ This phrase should be used with the verb **be** and with no noun after the adjec
 > Jane's hair is not as long as her mother's. <br/>
 > The suitcase he carried was not as heavy as the one I carried. <br/>
 
+## The ..., the ... phrases
+
+### The + comparative, the + comparative
+
+💡 čím, tím
+
+> **The warmer** it is, **the happier** I am. 💡*Čím je tepleji, tím jsem šťastnější.* <br/>
+
+We cannot use short forms of **subject + verb**.
+
+> 🔴 The warmer it's, the happier I'm. ➡ 🟢 The warmer it is, the happier I am. <br/>
+
+We use present tenses for common truths.
+
+> **The warmer** it is, **the better** I feel. <br/>
+> **The colder** it is, **the worse** I feel. <br/>
+> **The older** you are, **the wiser** you become. <br/>
+> **The warmer** the weather is, **the better** I like it. <br/>
+
+If we want to express the future, we use a time or conditional subordinate clause, so the main clause expresses the
+future, the subordinate clause is in the present tense.
+
+> The sooner we **start**, the sooner we **will finish**. <br/>
+> The faster he **runs**, the sooner he **will reach** the house. <br/>
+
+We can also express the past.
+
+> The longer I waited, the angrier I got. <br/>
+> The darker the clouds were, the faster we ran towards the house. <br/>
+
+### The more ..., the more ...
+
+💡 čím víc ..., tím víc ...
+
+> **The more** people you invite, **the more** food you'll have to prepare. <br/>
+> **The more** he drank, **the more** beautiful she became. <br/>
+> **The more** she talked, **the more** confused I was. <br/>
+> **The more** I thought about it, **the more** frightened I got. <br/>
+
+We can combine it with [The + comparative, the + comparative](#the--comparative-the--comparative).
+
+> **The harder** you study, **the more** you learn. <br/>
+> **The harder** you study, **the more** you will learn. <br/>
+> **The harder** I studied, **the more** I learned. <br/>
+
+We can use also say the opposite with **less** or **fewer** (💡*čím míň ..., tím míň ...*).
+
+> The less I know about her problems, the happier I will be. <br/>
+> The fewer people come, the more food there will be for us. <br/>
+
+Be aware of the word order.
+
+> 🔴 The more you invite people, the more you'll have to prepare food. ➡ 🟢 The more people you invite, the more food
+> you'll have to prepare. <br/>
+> 🔴 The more she talked, the more I was confused. ➡ 🟢 The more she talked, the more confused I was. <br/>
+
+> 🔴 The more did she talk, the more confused was I. <br/>
+> 🔴 The more talked she, the more confused was I. <br/>
+> ➡ 🟢 The more she talked, the more confused I was. <br/>
+
+### Omission of subject, object or verb
+
+We can omit the verb **be**.
+
+> **The warmer** the weather is, **the better** I like it. ➡ **The warmer** the weather, **the better** I like it. <br/>
+> **The older** the boy is, **the bigger** the problems are. ➡ **The older** the boy, **the bigger** the problems. <br/>
+
+We can omit the subject or object, if they are clear from the context.
+
+> **The sooner** you come, **the better**.
+> ➡ **The sooner** you bring it, **the better**.
+> ➡ **The sooner**, the better. <br/>
+> **The spicier** the food is, **the better**. ➡ **The spicier**, **the better**. <br/>
+> **The less** he knows about it, **the better**. ➡ **The less**, **the better**. <br/>
+> **The more** I know about the problem, **the better**. ➡ **The more**, **the better**. <br/>
+> **The more** people come, **the merrier** the party will be. ➡ **The more**, **the merrier**. <br/>
