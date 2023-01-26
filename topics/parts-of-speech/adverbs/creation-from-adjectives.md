@@ -57,7 +57,7 @@ význam*).
 ### Replacement
 
 Some adjectives end with the suffix **-ly**, and we cannot add another **-ly--** suffix. In these cases, we
-must use a replacement **in a + adjective + way / manner / fashion**. The same applies for some adjectives ending
+must use a replacement **in a + adjective + way / manner / fashion**. The same applies for some adjectives which end
 with **-ed**.
 
 > friendly ➡ 🔴 friendlily ➡ 🟢 in a friendly way <br/>
