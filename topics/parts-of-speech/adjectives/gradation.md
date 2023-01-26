@@ -1,4 +1,6 @@
-# Grading
+# Gradation
+
+## Strengthening
 
 There are 3 forms:
 
@@ -6,7 +8,7 @@ There are 3 forms:
 * **comparative** 💡*We use it for comparing things.*
 * **superlative** 💡*We select one thing from a collection which is best based on a concrete property.*
 
-## Short adjectives
+### Short adjectives
 
 They usually consist of one syllable (e.g. **nice**, **big**, **green**, **slow**, **quick**, **small**). two-syllable
 adjectives ending in **-y** (**happy**, **funny**, **healthy**, **pretty**) and some two-syllable (**yellow**, **
@@ -21,7 +23,7 @@ Suffixes **-er** and **-est** are used for gradation.
 | big         | bigger      | biggest     |
 | happy       | 	happier    | happiest    |
 
-### Grammar changes
+#### Grammar changes
 
 **adjectives ending with -e** - only one **-e**
 
@@ -38,7 +40,7 @@ Suffixes **-er** and **-est** are used for gradation.
 > funny ➡ funnier <br/>
 > dry ➡ drier <br/>
 
-## Long adjectives
+### Long adjectives
 
 They usually consist of two or more syllables. Adverbs **more** and **most** are used for gradation.
 
@@ -48,7 +50,7 @@ They usually consist of two or more syllables. Adverbs **more** and **most** are
 | beautiful   | more beautiful   | most beautiful   |
 | useful      | more useful      | most useful      |
 
-## Irregular gradation
+### Irregular gradation
 
 | basic form	               | comparative                       | superlative                            |
 |---------------------------|-----------------------------------|----------------------------------------|
@@ -57,14 +59,14 @@ They usually consist of two or more syllables. Adverbs **more** and **most** are
 | far 💡*vzdálený, DalekJS* | farther / further 💡*vzdálenější* | farthest / furthest 💡*nejvzdálenější* |    
 | little 💡*malý*           | lesser 💡*menší, méně závažný*    | least 💡*nejmenší, nejméně závažný*    | 
 
-## Ungradable adjectives
+### Ungradable adjectives
 
 Some adjectives cannot be graded, for example [extreme adjectives](adjectives-examples.md#extreme-adjectives) or
 adjectives like **broken**, **boiling**, **perfect**, etc.
 
-## Use
+### Use
 
-### Comparative
+#### Comparative
 
 It is used from comparison of two things, very often used with the preposition **than**.
 
@@ -96,7 +98,7 @@ Rules for determiners apply as usual.
 > Both books are good, but this one is better. <br/>
 > Choose the better option. <br/>
 
-### Superlative
+#### Superlative
 
 It is used from comparison of more than two things in order to select the best one, therefore we use the definitive
 article. Never ever we can use a possessive pronoun together with the definite article.
@@ -128,3 +130,34 @@ or the phrase **by far**.
 > It was **by far the most** expensive hotel we've ever stayed in. <br/>
 > It's **by far the best** pizza place in the city. <br/>
 > I've always tried to do my very best. 💡*Vždycky jsem se snažil udělat, co je v mých silách.* <br/>
+
+<hr/>
+
+## Weakening
+
+We use only one type of gradation, using the adverbs **less** and **least**.
+
+| basic form               | comparative                        | superlative                            |
+|--------------------------|------------------------------------|----------------------------------------|
+| interesting 💡*zajímavý* | less interesting 💡*méně zajímavý* | least interesting 💡*nejméně zajímavý* |
+| beautiful                | less beautiful                     | least beautiful                        | 
+| useful                   | less useful                        | least useful                           |
+| funny                    | less funny                         | least funny                            |
+
+> For me, History is less interesting than English Literature. <br/>
+> He was the least popular kid in my class and look at him now! <br/>
+> She isn't any less beautiful than she was then. <br/>
+> His mother openly called him the least intelligent of her kids. <br/>
+
+We use antonymous for some adjectives which we can grade the classic way.
+
+| basic form | comparative               | superlative                 |
+|------------|---------------------------|-----------------------------|
+| big        | 🔴 less big ➡ 🟢 smaller  | 🔴 least big ➡ 🟢 smallest  |
+| slow       | 🔴 less slow ➡ 🟢 faster  | 🔴 least slow ➡ 🟢 fastest  |
+| short      | 🔴 less short ➡ 🟢 longer | 🔴 least short ➡ 🟢 longest |
+
+> A snail moves faster than you do! <br/>
+> Texas is smaller than Alaska. <br/>
+> A Lamborghini is cheaper than a Pagani. <br/>
+> Emma Watson is less pretty than Emma Stone. <br/>

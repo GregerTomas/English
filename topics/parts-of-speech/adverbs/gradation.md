@@ -1,4 +1,4 @@
-# Grading
+# Gradation
 
 ## Short adverbs
 
