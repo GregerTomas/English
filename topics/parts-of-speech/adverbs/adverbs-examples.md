@@ -227,3 +227,52 @@ See also [the adjective little](/topics/parts-of-speech/adjectives/adjectives-ex
 | little 💡*adjective - malý*           | smaller (rather than littler) | smallest (rather than littlest) |
 | little 💡*adjective - málo podstatný* | lesser                        | least                           |
 | little 💡*adverb, numeric, pronoun*	  | less                          | least                           |
+
+## Too
+
+### 💡 také, taky
+
+> I live in Prague too. <br/>
+> She likes strong coffee, too. <br/>
+
+We cannot use it in a negative sentences, in these cases, we must use **either**.
+
+> 🔴 I don't like you too. ➡ 🟢 I don't like you either. <br/>
+
+We can use **also** or **as well** instead of **too**, see ⏳.
+
+### 💡 příliš, moc
+
+> I think the car is too slow. <br/>
+> The jacket is too big. Don't buy it. <br/>
+> I don't want to go there. It's too far. <br/>
+
+It has a slightly negative meaning.
+
+> The bag is very small. 🆚 The bag is too small. <br/>
+
+❗Be careful on word order.
+
+> 🔴 It is a too small bag.➡ 🟢 The bag is too small. / It is a small bag. <br/>
+> 🔴 It is **too a small bag**. ➡ 🟢 ✏ It is **too small a bag**. <br/>
+> That was **too big a piece** of pie for her to eat. <br/>
+> It's **too big a problem**. Let's call the boss. <br/>
+> It was **too hot a day** for work. <br/>
+
+### 💡 navíc, a k tomu ještě
+
+> He is very smart, and handsome too. <br/>
+> This dress looks better and it's cheaper too. <br/>
+> The lunch was awful, and expensive too! <br/>
+> Your children are polite and very humble too. <br/>
+> I don't think it's a quality product. I agree, and it's expensive too. <br/>
+
+### 💡 (no) to teda ano
+
+It is used if we want to emphasize our disagreement with a negative message.
+
+> You are not a good tennis player. I am too! 💡*Nejsi dobrý v tenise. To teda jsem!* <br/>
+> I'm not having breakfast today. You are too, young lady! 💡*Dnes nebudu snídat. To teda budeš, mladá dámo!* <br/>
+> You brother's not tall enough to play basketball. He is too! <br/>
+> She wasn't very happy there. She was too! <br/>
+> I don't want to go there. You do too! <br/>
