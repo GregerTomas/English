@@ -276,3 +276,40 @@ It is used if we want to emphasize our disagreement with a negative message.
 > You brother's not tall enough to play basketball. He is too! <br/>
 > She wasn't very happy there. She was too! <br/>
 > I don't want to go there. You do too! <br/>
+
+## Hardly
+
+💡 skoro ne, rozhodně ne
+
+It has a negative meaning. It is used as
+a [frequency and measurement adverb](/topics/sentence-structure/word-order.md#frequency-and-measurement). It can also
+be used before an adjective, a noun or a determiner.
+
+> He **hardly slept**. <br/>
+> He **was hardly breathing**. <br/>
+> I **could hardly hear** what she said. <br/>
+> The animal **was hardly** alive. <br/>
+
+> I had **hardly any** time left. <br/>
+> **Hardly anybody** came to the party. <br/>
+
+Sometimes we have two possibilities.
+
+> I hardly had any time left. 💡*skoro jsem neměl – váže se ke slovesu* <br/>
+> I had hardly any time left. 💡*neměl jsem skoro žádný – váže se k podst. jménu a determinátoru ANY* <br/>
+
+### Hardly 🆚 almost
+
+> I had **almost nothing** to do. 🆚 I had **hardly anything** to do. <br/>
+
+### Hardly 🆚 almost not
+
+These variants are equivalent.
+
+> I had **almost no** time left. 🔃 I had **hardly any** time left. <br/>
+> He **almost never** cries. 🔃 He **hardly ever** cries. <br/>
+> You do **almost nothing** all day. 🔃 You **hardly do anything** all day. <br/>
+> Did you manage to catch the train? **Almost not**. 🔃 Hardly. <br/>
+> It was **almost impossible**. 🔃 It was **hardly possible**. <br/>
+> I **almost couldn**'t believe it. 🔃 I **could hardly believe** it. <br/>
+
