@@ -232,14 +232,49 @@ See also [the adjective little](/topics/parts-of-speech/adjectives/adjectives-ex
 
 ### 💡 také, taky
 
+We use it at the end of a sentence.
+
 > I live in Prague too. <br/>
 > She likes strong coffee, too. <br/>
 
-We cannot use it in a negative sentences, in these cases, we must use **either**.
+Generally, we cannot use it in a negative sentences, in these cases, we must use **either**. We can use it only when the
+meaning is 💡*ještě k tomu*.
 
 > 🔴 I don't like you too. ➡ 🟢 I don't like you either. <br/>
+> 🔴 You can have this book but you can't have the other one **either**. ➡ 🟢 You can take this book, but you can't have
+> the other one **too**. 💡*Můžeš si vzít tuto knihu, ale není možné, abys měl **taky** tu druhou.* <br/>
 
-We can use **also** or **as well** instead of **too**, see ⏳.
+We can use **also** or **as well** instead of **too**.
+
+#### Too 🆚 as well 🆚 also
+
+##### As well
+
+It is also used at the end of a sentence. The same rule about negative sentences applies here as in the case of **too**.
+
+> I like Rachel. And I like Monica **as well**. <br/>
+
+##### Also
+
+💡 také, ještě, k tomu
+
+It is used as a [frequency and measurement adverb](/topics/sentence-structure/word-order.md#frequency-and-measurement).
+
+> I like Rachel. I **also** like Monica. 💡*Líbí se mi Rachel. A taky (ještě, k tomu) se mi líbí Monica.* <br/>
+
+It is better to use **too** if we mean **me too**.
+
+> Ross likes Rachel. I like her too. 💡*Rossovi se líbí Rachel. A mně se líbí taky.* <br/>
+
+**Also** can also stand at the beginning of a sentence.
+
+> **Also**, I need to go shopping tomorrow morning. 💡*A také (ještě, k tomu) potřebuju zítra ráno jít na nákup.* <br/>
+
+We cannot use it in negative sentences.
+
+> 🔴 **Also** come here! ➡ 🟢 Come here **too**! <br/>
+
+#### Too 🆚 as well
 
 ### 💡 příliš, moc
 
