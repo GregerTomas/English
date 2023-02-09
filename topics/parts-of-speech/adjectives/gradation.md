@@ -163,12 +163,47 @@ Again, in the ✏ formal English, the definite article can be used.
 > They all ran fast but John ran **(the) fastest**. <br/>
 > In my family, I am the one who gets up **(the) earliest**. <br/>
 
-###### Absolute superlative
+###### ✏ Absolute superlative
+
+This grammar is not frequent.
 
 Absolute superlative means 💡*velmi*, not 💡*nejvíce*. We do not compare things between each other, but we just highlight
-the thing.
+the thing. The absolute superlative basically replaces word like **very**, **absolutely** or **extremely**. It does not
+express one particular thing, so we use with it an indefinite or zero article.
 
+> It is the most interesting story you have ever told me. 💡*It is relative, I do not say that your stories are
+interesting at all.* <br/>
+> 🆚 <br/>
 > It was **a most interesting** story. 💡*very* <br/>
+
+> It's the most beautiful song I've heard. 💡*Je to nejhezčí píseň, co jsem kdy slyšel.* <br/>
+> 🆚 <br/>
+> It's a most beautiful song. 💡*Je to překrásná píseň. Neporovnávám, ale vyzdvihuji, vychvaluji.* <br/>
+
+> It was the most fascinating film I saw at the festival. 💡*Byl to nejúchvatnější film, který jsem na tom festivalu
+viděl.* <br/>
+> 🆚 <br/>
+> It was a most fascinating film. 💡*Byl to neskutečně struhující film.* <br/>
+
+> It's **an extremely beautiful** song. 🔃 It's **a most beautiful** song. <br/>
+> It was **a very interesting** book. 🔃 It was **a most interesting** book. <br/>
+> That's **very interesting**. 🔃 Oh, that's **most interesting**. <br/>
+> The soup was **absolutely delicious**. 🔃 The soup was **most delicious**. <br/>
+
+In this case, we use **most** even for short adjectives.
+
+> You've been most kind. 💡*Byl jste velice laskav.* <br/>
+
+More examples follow.
+
+> That would be **most unfortunate**. <br/>
+> You are **most welcome** here. <br/>
+> He was a **most peculiar** man. <br/>
+> His father was **a most remarkable** person. <br/>
+> Ruth is **a most sweet** girl. <br/>
+> I had **a most strange** dream. <br/>
+> It's **a most beautiful** day! <br/>
+> We had **a most wonderful** view. <br/>
 
 <hr/>
 
