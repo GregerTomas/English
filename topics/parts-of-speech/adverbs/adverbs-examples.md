@@ -348,3 +348,15 @@ These variants are equivalent.
 > It was **almost impossible**. 🔃 It was **hardly possible**. <br/>
 > I **almost couldn**'t believe it. 🔃 I **could hardly believe** it. <br/>
 
+## Only + so
+
+It expresses some kind of limitation.
+
+> Long-distance relationships can **only last for so** long. 🔃 Long-distance relationships cannot last forever. <br/>
+> There's only so much you can do. 💡*Nemůžeš udělat všechno.* <br/>
+> There is only so much McDonald's that a man can eat. 💡*Nedá se pořád jíst jen jídlo od McDonald's* <br/>
+> There are only so many tears you can cry. 💡*Nemůžeš plakat do nekonečna.* <br/>
+> I can only stand so much heavy metal. <br/>
+> Why do trees only grow so tall? <br/>
+> Horses could only travel so far in one day. <br/>
+
