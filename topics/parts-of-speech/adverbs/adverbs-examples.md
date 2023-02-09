@@ -360,3 +360,56 @@ It expresses some kind of limitation.
 > Why do trees only grow so tall? <br/>
 > Horses could only travel so far in one day. <br/>
 
+## Quite
+
+### Down-toner
+
+💡 docela
+
+It weakens the meaning of an adjective or adverb. Between down-toners also belong words like **pretty**, **fairly**, **
+rather**, **kind
+of**, **somewhat**, **slightly**, **a little**, **a bit**, etc.
+
+> He's a **pretty** good guitar player. <br/>
+> He arrived **fairly** quickly. <br/>
+> The test was **fairly** easy. <br/>
+> I felt **rather** tired so I had a quick nap. <br/>
+> My job is **rather** hectic right now. <br/>
+> The play was **kind of** boring. <br/>
+> She felt **somewhat** silly when she realized she was the only one in an evening dress. <br/>
+> The food here is **slightly** more expensive than in other restaurants but it's definitely worth it. <br/>
+> He's had **a bit** too much to drink, don't you think? <br/>
+
+An article is placed after **quite**.
+
+> He's quite a good guitar player. 🆚 He's a pretty good guitar player. <br/>
+
+### Intensifiers
+
+💡 zcela
+
+Between intensifiers also belong words like **very**, **completely**, **totally**, etc.
+
+> That's quite correct. 💡*To je zcela správně.* <br/>
+> The nature of this problem is quite different. <br/>
+> The restaurant was quite full. <br/>
+> His story was quite fascinating. <br/>
+> Everything was quite frozen and covered with snow. <br/>
+> That was quite a performance! <br/>
+> It was quite the worst hotel I'd ever stayed in. <br/>
+
+### How to differentiate it?
+
+Generally, from the context.
+
+Even adjective after it can help.
+
+**gradable adjective ➡ down-toner**
+
+> You are quite tall. <br/>
+
+**non-gradable adjective ➡ intensifiers**
+
+> Your homework is quite correct. <br/>
+
+**Quite** as a down-toner is also not used in American English.
