@@ -40,7 +40,7 @@ The informal variant of these phrase is **gonna**.
 > I'm gonna be there. <br/>
 > They're gonna miss the bus. <br/>
 
-For verbs **go** and **come** we prefer the present continuous tense.
+For verbs **go** and **come** we can use even the present continuous tense.
 
 > I'm going to go shopping. 🔃 I'm going shopping. <br/>
 > He's going to come tomorrow. 🔃 He's coming tomorrow. <br/>
