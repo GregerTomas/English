@@ -1,10 +1,12 @@
 # Future tense
 
-## Will
+## Expressing future
+
+### Will
 
 We use **will** in following cases.
 
-### Momentary decision
+#### Momentary decision
 
 💡 pro co jsem se právě rozhodl
 
@@ -13,7 +15,7 @@ We use **will** in following cases.
 > Which one do you want? I'll take the blue one. <br/>
 > Can you lend me some money? Okay, I'll lend you 20 dollars. <br/>
 
-### Prediction/forecast of the future
+#### Prediction/forecast of the future
 
 💡 co si myslím, že se stane
 
@@ -24,7 +26,7 @@ The prediction is based on no already obvious facts.
 > I think he'll be late again. <br/>
 > In 2100, cars will fly. <br/>
 
-### Promises, orders, pleas, warnings, threats
+#### Promises, orders, pleas, warnings, threats
 
 > I'll have a beer. 💡*objednávka* <br/>
 > You'll get hurt, be careful! 💡*varování* <br/>
@@ -33,7 +35,7 @@ The prediction is based on no already obvious facts.
 > I'll help you if you want. 💡*nabídka* <br/>
 > Will you do that for me? 💡*prosba* <br/>
 
-## Be going to
+### Be going to
 
 The informal variant of these phrase is **gonna**.
 
@@ -47,7 +49,7 @@ For verbs **go** and **come** we can use even the present continuous tense.
 
 We use **be going to** in following cases.
 
-### Announcing our plans
+#### Announcing our plans
 
 💡 hodlám, plánuju, chci
 
@@ -56,7 +58,7 @@ We have made the decision already.
 > I'm going to visit Jack next week. <br/>
 > She's going to open her own e-shop. <br/>
 
-### Prediction based on obvious facts (near future)
+#### Prediction based on obvious facts (near future)
 
 💡 schyluje se
 
@@ -64,7 +66,7 @@ We have made the decision already.
 > Oh, he's going to be late again! 💡*např. vidím, že už je pozdě teď, nebo že už je tolik a tolik hodin, a on teprve
 vstává – z toho usuzuji, že to nestihne* <br/>
 
-## Present continuous
+### Present continuous
 
 It is used for arrangements (💡*pevně naplánované, zařízené nebo zajištěné děje*) which we take as a fact.
 
@@ -87,7 +89,7 @@ The determination is a difference between **present continuous** and **be going 
 > 🆚 <br/>
 > She's taking Italian next semester. 💡*Už je přihlášená, už si to nerozmyslí. <br/>
 
-## Present simple
+### Present simple
 
 It is used for events set by a programme, timetable, etc., not for personal plans.
 
