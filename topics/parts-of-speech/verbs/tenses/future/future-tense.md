@@ -63,3 +63,39 @@ We have made the decision already.
 > Look! It's going to rain! 💡*vidím např. mraky, schyluje se k dešti, je to vidět* <br/>
 > Oh, he's going to be late again! 💡*např. vidím, že už je pozdě teď, nebo že už je tolik a tolik hodin, a on teprve
 vstává – z toho usuzuji, že to nestihne* <br/>
+
+## Present continuous
+
+It is used for arrangements (💡*pevně naplánované, zařízené nebo zajištěné děje*) which we take as a fact.
+
+> She**'s leaving** for college next week and won't be back until Thanksgiving. 💡*Nemá cenu ji přesvědčovat, začíná jí
+škola, má zaplacenou kolej apod.* <br/>
+> I can't come with you tomorrow. I**'m helping** my grandma move to a new apartment. 💡*Jsem s babičkou domluvený, ona s
+tím počítá.* <br/>
+> I**'m starting** a new job tomorrow. Do you have any tips for my first day? <br/>
+> What time **are you leaving** tonight? <br/>
+> I**'m going** to prom with Jules. <br/>
+> I**'m not taking** your advice. Not again. <br/>
+
+The determination is a difference between **present continuous** and **be going to**.
+
+> I'm going to drive to town. 💡*Mám to v plánu, ale klidně plán změním, není to nic pevného.* <br/>
+> 🆚 <br/>
+> I'm driving to town. 💡*Pevně naplánováno, nehodlám to měnit, jsem s někým třeba už domluvený apod. <br/>
+
+> She's going to take Italian next semester. 💡*Má to v plánu, ale může si to rozmyslet. <br/>
+> 🆚 <br/>
+> She's taking Italian next semester. 💡*Už je přihlášená, už si to nerozmyslí. <br/>
+
+## Present simple
+
+It is used for events set by a programme, timetable, etc., not for personal plans.
+
+> The bus **leaves** at 10 tomorrow, doesn't it? <br/>
+> What time **does** the concert **start**? <br/>
+> Registration for the event **opens** on September 22. <br/>
+> I'm going to meet her at the station. Her train **gets in** at 6:30. <br/>
+> Hurry up. The bus **leaves** in fifteen minutes! <br/>
+> I**'m leaving** on Friday. My train **leaves** at 7 AM. 💡*I leave 🆚 the train leaves* <br/>
+> We have PE tomorrow instead of IT. <br/>
+> We leave on Monday and return on Friday. <br/>
