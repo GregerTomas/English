@@ -101,3 +101,25 @@ It is used for events set by a programme, timetable, etc., not for personal plan
 > I**'m leaving** on Friday. My train **leaves** at 7 AM. 💡*I leave 🆚 the train leaves* <br/>
 > We have PE tomorrow instead of IT. <br/>
 > We leave on Monday and return on Friday. <br/>
+
+## Present future continuous
+
+It is used for running events in the future. It is not used for **state verbs** (know, like, have, etc.)
+
+> This time next week I**'ll be lying** on the beach. <br/>
+> John won't be here at 8. He**'ll be taking** his mom to the airport. <br/>
+> When the movie ends, I**'ll be waiting** for you in front of the theater. <br/>
+> Good luck with the interview tomorrow. I**'ll be thinking** of you. <br/>
+> What **will you be doing** in ten years' time? <br/>
+> She **won't be waiting** for you when you get home. <br/>
+
+> He will cook dinner when she comes home. 💡*Až ona přijde, on uvaří, teprve potom začne.* <br/>
+> 🆚 <br/>
+> He will be cooking dinner when she comes home. 💡*Až ona přijde, on bude právě vařit, bude uprostřed té
+činnosti.* <br/>
+
+> We**'ll have** dinner at 6 o'clock. 💡*V 6 hodin to začne, navečeříme se.* <br/>
+> 🆚 <br/>
+> We**'ll be having** dinner at 6 o'clock. 💡*V 6 hodin to už bude probíhat, začne to někdy před šestou, skončí to po
+šesté*. <br/>
+
