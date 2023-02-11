@@ -169,6 +169,36 @@ Sometimes the difference is very small.
 > 🆚 <br/>
 > I will have left before midnight. 💡*Nevím, kdy odejdu, ale před půlnocí už budu pryč.* <br/>
 
+### Future perfect continuous
+
+> I will have been sleeping. <br/>
+> He will have been working. <br/>
+> He won't have been reading. <br/>
+> Will you have been cooking? 💡*There are hardly any questions.* <br/>
+
+Perfect continuous tenses are often used to say how long something has been going on.
+
+> By the time you get back I **will have been cooking** for two hours. 💡*V tu chvíli (v budoucnosti) to už bude probíhat
+dvě
+hodiny* <br/>
+> This time next year I **will have been teaching** English for ten years. <br/>
+> Next week we **will have been living** here for a year. <br/>
+> How long **will he have been working** here when he retires? <br/>
+
+For time determination, the preposition **by** is often used.
+
+> **By Christmas** we **will have been going** out for three years. <br/>
+> **By September**, I **will have been working** here for five years. <br/>
+> **By the time we get there**, I **will have been driving** for hours! <br/>
+
+The passive voice is not used at all, we prefer subordinate clause with the conjunction **that** and **present perfect
+continuous tense**.
+
+> 🔴 By January, the new swimming pool ~~will have been being built~~ for three years. <br/>
+> Next month it will be three years **that I've been learning** Italian. <br/>
+> Come September, it will have been four years **that John has been waiting** for justice. <br/>
+> It will soon be a year **that we've been going** out. <br/>
+
 ## Shall
 
 ### ⏱ Shall 🆚 will
