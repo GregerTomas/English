@@ -211,7 +211,7 @@ warnings.
 > You shall pay for this! <br/>
 > He shall be sorry. <br/>
 
-We use **would** in the indirect speech.
+We use **would** in the reported speech.
 
 ### Polite questions
 
@@ -227,7 +227,7 @@ It can be used as an question tag for the first-person imperative.
 > Let's have a drink, **shall we**? <br/>
 > Let's go, **shall we**? <br/>
 
-We use **should** in the indirect speech.
+We use **should** in the reported speech.
 
 > He asked what he should do. <br/>
 

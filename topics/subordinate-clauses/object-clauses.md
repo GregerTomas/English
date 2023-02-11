@@ -48,7 +48,7 @@ clauses.
 
 ### Tense shift
 
-The same rules which are used in the [indirect speech](⏳TODO) apply here.
+The same rules which are used in the [reported speech](⏳TODO) apply here.
 
 > He didn't know what I was doing. 💡*Nevěděl, co dělám. (přítomný čas ➡ minulý čas)* <br/>
 

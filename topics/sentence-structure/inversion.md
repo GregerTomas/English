@@ -174,7 +174,7 @@ shortened. A phrase with **were** + **infinitive** is often used.
 
 ### Direct speech
 
-> He said: "I love you." 💡*direct speech* ➡ He told her he loved her. 💡*indirect speech* <br/>
+> He said: "I love you." 💡*direct speech* ➡ He told her he loved her. 💡*reported speech* <br/>
 
 * **reporting clauses** - who said it, how it was said
 * **reported clauses** - sentence in quotes, what was said
