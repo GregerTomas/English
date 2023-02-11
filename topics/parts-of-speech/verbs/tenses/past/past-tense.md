@@ -115,3 +115,44 @@ nedokončila.* <br/>
 
 > He was hit from behind before he had managed to turn around. 💡*K otočení už ani nedošlo.* <br/>
 > He was hit from behind before he managed to turn around. 💡*Praštili ho a až potom se mu podařilo se otočit.* <br/>
+
+### Past perfect continuous
+
+#### Ongoing events
+
+It is used when we want to say that at a certain moment in the past an event has been going on for some time, or we say
+how long it has been going on at that moment.
+
+> She was tired because she **had been working** for six hours without a break. <br/>
+> When I finally met them, they **had been living** in the neighborhood for 6 months. <br/>
+> The kids were bored, because they **had been listening** to the teacher for 45 minutes. <br/>
+> When the sun came up, we **had been walking** for hours. <br/>
+> When he finally turned up, they **had been playing** for about half an hour. <br/>
+> He wondered why she **had been ignoring** him all night. <br/>
+> There was quite a lot of snow because it **had been snowing** all night. <br/>
+> How long **had he been waiting** when she finally arrived? <br/>
+> She realized that **he hadn't been trying** hard enough lately. <br/>
+
+#### The cause of another event
+
+It expresses some event that led to some situation or some state.
+
+> He was tired because he **had been running**. <br/>
+> She could smell that he **had been drinking**. <br/>
+> She decided to see a doctor because she **had been forgetting** things. <br/>
+> She broke up with him because he **had been cheating** on her. <br/>
+> Her eyes were red and puffy. **Had she been crying** again? <br/>
+> He didn't get to college. He **hadn't been studying** hard enough. <br/>
+
+#### Past perfect simple 🆚 past perfect continuous
+
+> **past perfect simple** ➡ Typically describes events that have been completed and have some result. <br/>
+> **past perfect continuous** ➡ It emphasizes only the action itself, its course, and not its result. <br/>
+
+> He couldn't drive because he had been drinking. 💡*Důraz na děj, na pití.* <br/>
+> 🆚 <br/>
+> He couldn't drive because he had drunk the whole bottle of wine. 💡Důraz na množství vypitého alkoholu.* <br/>
+
+> When she arrived, he had been cooking dinner. 💡*Důraz pouze na činnost, ne na hotovou večeři. <br/>
+> 🆚 <br/>
+> She was surprised that he had cooked dinner. 💡*ůraz na uvařenou večeři, proběhlo to, skončilo to. <br/>
