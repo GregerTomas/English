@@ -162,3 +162,43 @@ We can translate it as 💡*muset*.
 > Neither party shall disclose any confidential information of the other party to third parties. 💡*Žádná strana
 nespokytne třetí straně žádné důvěryhodné informace.* <br/>
 > The client shall pay the monthly charge on or before due month. <br/>
+
+## Be + infinitive binding
+
+### ✏ Be supposed to equivalent
+
+💡 orders, commands
+
+> You **were not to leave** the house! 🔃 You **were not supposed to leave** the house. <br/>
+> I**'m to stay** home and study tonight. <br/>
+> I**'m not to say** a word. <br/>
+> He **was to work** on his project but decided to go out instead. <br/>
+
+### ✏ Be going to equivalent
+
+Used for planned events.
+
+> He **is to have** lunch with his boss tomorrow. <br/>
+> A Harvard representative **is to visit** us next week. <br/>
+
+### ✏ Destiny
+
+Events that are beyond our control.
+
+> I don't know if **we're to meet** again. <br/>
+
+It is most often used in the past tense, we can say whether something has happened or not.
+
+> She was crying as he got on the train and left. They were to meet again, though. 💡*Plakala, když nasedal do vlaku a
+odjel. Ale osud je ještě svedl dohromady.* <br/>
+> He didn't know that he was never to see her again. 💡*Nevěděl, že ji již nikdy neuvidí.* <br/>
+
+### Very close future
+
+We use the phrase **be about to**. It is very often used even in 🗣 spoken English. **Be going to** could be used as
+well.
+
+> Shut up, he**'s about to say** something. <br/>
+> Just as I **was about to knock**, the door flew open. <br/>
+> We**'re just about to eat**, why don't you join us? <br/>
+

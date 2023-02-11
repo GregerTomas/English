@@ -280,7 +280,7 @@ We can use these preposition bindings instead of the conditional clause (either 
 > **If not for** you, I'd be lost. <br/>
 > We wouldn't have been able to help **if not for** people's kindness and generosity. <br/>
 
-## Binding be + infinitive
+## Be + infinitive binding
 
 We can express the future tense even with the binding **be + infinitive**. ⏳[TODO see article].
 
