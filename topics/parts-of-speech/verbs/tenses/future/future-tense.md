@@ -123,3 +123,42 @@ It is used for running events in the future. It is not used for **state verbs** 
 > We**'ll be having** dinner at 6 o'clock. 💡*V 6 hodin to už bude probíhat, začne to někdy před šestou, skončí to po
 šesté*. <br/>
 
+## Shall
+
+### ⏱ Shall 🆚 will
+
+In old English, **shall** was used instead of **will** in the first person singular and plural or for threats and
+warnings.
+
+> We **shall** be back on June 2nd. <br/>
+> We **shan't** be needing this. <br/>
+> You shall pay for this! <br/>
+> He shall be sorry. <br/>
+
+We use **would** in the indirect speech.
+
+### Polite questions
+
+💡 mít něco udělat, návrh
+
+> **Shall** I open the window? <br/>
+> Which way **shall** I go? <br/>
+> What **shall** we do? <br/>
+> **Shall** we go out for a drink? <br/>
+
+It can be used as an question tag for the first-person imperative.
+
+> Let's have a drink, **shall we**? <br/>
+> Let's go, **shall we**? <br/>
+
+We use **should** in the indirect speech.
+
+> He asked what he should do. <br/>
+
+### Agreements
+
+We can translate it as 💡*muset*.
+
+> Neither party shall disclose any confidential information of the other party to third parties. 💡*Žádná strana
+nespokytne třetí straně žádné důvěryhodné informace.* <br/>
+> The client shall pay the monthly charge on or before due month. <br/>
