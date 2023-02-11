@@ -64,6 +64,7 @@ The following table contains all types of emojis together with their meaning whi
 | 🔴    | incorrect usage         |
 | ⏳     | to be done              |
 | ⏱     | historical English      |
+| 🍀    | rare                    |
 | ❗     | be careful              |
 
 Preselected emojis from [unicode.org](https://unicode.org/emoji/charts/full-emoji-list.html).

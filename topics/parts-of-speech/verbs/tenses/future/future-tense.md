@@ -70,14 +70,14 @@ vstává – z toho usuzuji, že to nestihne* <br/>
 
 It is used for arrangements (💡*pevně naplánované, zařízené nebo zajištěné děje*) which we take as a fact.
 
-> She**'s leaving** for college next week and won't be back until Thanksgiving. 💡*Nemá cenu ji přesvědčovat, začíná jí
+> **She's leaving** for college next week and won't be back until Thanksgiving. 💡*Nemá cenu ji přesvědčovat, začíná jí
 škola, má zaplacenou kolej apod.* <br/>
-> I can't come with you tomorrow. I**'m helping** my grandma move to a new apartment. 💡*Jsem s babičkou domluvený, ona s
+> I can't come with you tomorrow. **I'm helping** my grandma move to a new apartment. 💡*Jsem s babičkou domluvený, ona s
 tím počítá.* <br/>
-> I**'m starting** a new job tomorrow. Do you have any tips for my first day? <br/>
+> **I'm starting** a new job tomorrow. Do you have any tips for my first day? <br/>
 > What time **are you leaving** tonight? <br/>
-> I**'m going** to prom with Jules. <br/>
-> I**'m not taking** your advice. Not again. <br/>
+> **I'm going** to prom with Jules. <br/>
+> **I'm not taking** your advice. Not again. <br/>
 
 The determination is a difference between **present continuous** and **be going to**.
 
@@ -98,7 +98,7 @@ It is used for events set by a programme, timetable, etc., not for personal plan
 > Registration for the event **opens** on September 22. <br/>
 > I'm going to meet her at the station. Her train **gets in** at 6:30. <br/>
 > Hurry up. The bus **leaves** in fifteen minutes! <br/>
-> I**'m leaving** on Friday. My train **leaves** at 7 AM. 💡*I leave 🆚 the train leaves* <br/>
+> **I'm leaving** on Friday. My train **leaves** at 7 AM. 💡*I leave 🆚 the train leaves* <br/>
 > We have PE tomorrow instead of IT. <br/>
 > We leave on Monday and return on Friday. <br/>
 
@@ -106,10 +106,10 @@ It is used for events set by a programme, timetable, etc., not for personal plan
 
 It is used for running events in the future. It is not used for **state verbs** (know, like, have, etc.)
 
-> This time next week I**'ll be lying** on the beach. <br/>
-> John won't be here at 8. He**'ll be taking** his mom to the airport. <br/>
-> When the movie ends, I**'ll be waiting** for you in front of the theater. <br/>
-> Good luck with the interview tomorrow. I**'ll be thinking** of you. <br/>
+> This time next week **I 'll be lying** on the beach. <br/>
+> John won't be here at 8. **He'll be taking** his mom to the airport. <br/>
+> When the movie ends, **I'll be waiting** for you in front of the theater. <br/>
+> Good luck with the interview tomorrow. **I'll be thinking** of you. <br/>
 > What **will you be doing** in ten years' time? <br/>
 > She **won't be waiting** for you when you get home. <br/>
 
@@ -118,10 +118,56 @@ It is used for running events in the future. It is not used for **state verbs** 
 > He will be cooking dinner when she comes home. 💡*Až ona přijde, on bude právě vařit, bude uprostřed té
 činnosti.* <br/>
 
-> We**'ll have** dinner at 6 o'clock. 💡*V 6 hodin to začne, navečeříme se.* <br/>
+> **We'll have** dinner at 6 o'clock. 💡*V 6 hodin to začne, navečeříme se.* <br/>
 > 🆚 <br/>
-> We**'ll be having** dinner at 6 o'clock. 💡*V 6 hodin to už bude probíhat, začne to někdy před šestou, skončí to po
+> **We'll be having** dinner at 6 o'clock. 💡*V 6 hodin to už bude probíhat, začne to někdy před šestou, skončí to po
 šesté*. <br/>
+
+## 🍀 Future perfect
+
+Pretty rare.
+
+> Everyone **will have left** by then. <br/>
+> **I'll have finished** the article before tomorrow. <br/>
+> **Will you have finished** the report by tomorrow? <br/>
+> I **won't have finished** the essay until tomorrow. <br/>
+
+We use it for actions that were finished at some moment in the future (*similarly to present or past perfect*).
+
+> He won't be there. **He'll have gone** home. <br/>
+> The meeting **will have finished** by the time we get there. <br/>
+> He **will have read** ten books by the end of the year. <br/>
+> He hopes scientists** will have found** a cure by the time they unfreeze him. <br/>
+
+We often use time determinations with the preposition **by**, alternatively with **before** or **until**.
+
+> by then <br/>
+> by tomorrow <br/>
+> by 2050 <br/>
+> by the time we arrive <br/>
+> My guess is they will have gotten divorced **before the end of the year**. <br/>
+> He won't have left the office **until 10**. <br/>
+
+### Future simple 🆚 future perfect
+
+> **I'll be hungry** by the time I get home. 🆚 **It will have been done** by the time I get home. <br/>
+
+> **future simple** ➡ what will happen in the future <br/>
+> **future perfect** ➡ what will be done in the future <br/>
+
+The future simple tense usually refers to the time when an event takes place. The future perfect tense does not address
+this time, rather it focuses on the time when the action will be completed.
+
+> I'll do it tomorrow. 💡*Děj proběhne zítra.* <br/>
+> 🆚
+> I'll have done it by tomorrow. 💡*Nevíme, kdy proběhne, říkáme jen, kdy už bude dokončený (možná proběhne dnes, možná
+zítra).* <br/>
+
+Sometimes the difference is very small.
+
+> I'll leave before midnight. 💡*Odejdu kdy? – Před půlnocí. Vím, kdy odejdu.* <br/>
+> 🆚 <br/>
+> I will have left before midnight. 💡*Nevím, kdy odejdu, ale před půlnocí už budu pryč.* <br/>
 
 ## Shall
 
@@ -170,8 +216,8 @@ nespokytne třetí straně žádné důvěryhodné informace.* <br/>
 💡 orders, commands
 
 > You **were not to leave** the house! 🔃 You **were not supposed to leave** the house. <br/>
-> I**'m to stay** home and study tonight. <br/>
-> I**'m not to say** a word. <br/>
+> **I'm to stay** home and study tonight. <br/>
+> **I'm not to say** a word. <br/>
 > He **was to work** on his project but decided to go out instead. <br/>
 
 ### ✏ Be going to equivalent
@@ -198,7 +244,6 @@ odjel. Ale osud je ještě svedl dohromady.* <br/>
 We use the phrase **be about to**. It is very often used even in 🗣 spoken English. **Be going to** could be used as
 well.
 
-> Shut up, he**'s about to say** something. <br/>
+> Shut up, **he's about to say** something. <br/>
 > Just as I **was about to knock**, the door flew open. <br/>
-> We**'re just about to eat**, why don't you join us? <br/>
-
+> **We're just about to eat**, why don't you join us? <br/>

@@ -346,7 +346,7 @@ These variants are equivalent.
 > You do **almost nothing** all day. 🔃 You **hardly do anything** all day. <br/>
 > Did you manage to catch the train? **Almost not**. 🔃 Hardly. <br/>
 > It was **almost impossible**. 🔃 It was **hardly possible**. <br/>
-> I **almost couldn**'t believe it. 🔃 I **could hardly believe** it. <br/>
+> I **almost couldn't** believe it. 🔃 I **could hardly believe** it. <br/>
 
 ## Only + so
 
