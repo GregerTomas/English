@@ -83,3 +83,22 @@ Shortcuts, short answers work as usual.
 > Have you seen Jurassic Park? Yes, **I have**. <br/>
 > Has he returned yet? Yes, **he hasn't**. <br/>
 
+### Usage
+
+#### Something has changed
+
+Something has changed and now it is different, now it is changed. So it brings together that something has happened and
+that something is now. The emphasis here is on how it is now, not on when it happened, how it happened, why it happened,
+etc. We are simply expressing the change.
+
+> **I've bought** a new car. 💡*I have the car now. I do not care when, where, how much did it cost, etc.* <br/>
+> 🆚 <br/>
+> I **bought** a new car last month. 💡*when* <br/>
+> I **bought** it at the new shop in the city center. 💡*where* <br/>
+> I **bought** it for £11,000. 💡*how much* <br/>
+
+> **He's quit** his job. 💡*Nyní už tam nepracuje.* <br/>
+> 🆚 <br/>
+> He **quit** his job yesterday. <br/>
+> He **quit** because of his boss. <br/>
+> He **quit** before his boss could fire him. <br/>
