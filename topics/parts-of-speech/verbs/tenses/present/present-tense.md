@@ -263,6 +263,8 @@ etc. We are simply expressing the change.
 > He **quit** because of his boss. <br/>
 > He **quit** before his boss could fire him. <br/>
 
+> I've recently visited the USA. <br/>
+
 #### Experience gained so far
 
 💡 něco se již stalo nebo naopak ještě nestalo
@@ -431,3 +433,62 @@ It is connected with a place.
 > I don't know where Steve is. He's gone. <br/>
 > The cookies are gone. Have you eaten them? <br/>
 > When we arrived, everybody was gone. <br/>
+
+### Present perfect continuous
+
+> **present perfect simple** - puts not on the finished result of the action <br/>
+> **present perfect continuous** - puts emphasis on the duration or course of action <br/>
+
+#### Usage
+
+##### How long has something been going on
+
+We use the prepositions **since** (💡*od kdy*) and **for** (💡*jak již dlouho*).
+
+> I have been learning English for three years. 💡*Učím se již tři roky, tedy učení již tři roky probíhá.* <br/>
+> How long have you been waiting for me? 💡*Ptám se, jak dlouho už tu čeká, tedy jak dlouho ten děj již probíhá.* <br/>
+
+![Present perfect continuous with for](images/present-perfect-continuous-for.gif)
+![Present perfect continuous with since](images/present-perfect-continuous-since.gif)
+
+> 🔴 ~~I am waiting here for two hours.~~ <br/>
+> ➡ I **am waiting** here. 💡*Čekám tu. (Pouze říkám, co probíhá právě teď.)* <br/>
+> ➡ I **have been waiting** here for an hour. 💡*Čekám tu už hodinu. (Kromě toho, že tu právě teď čekám, říkáme i to, jak
+> dlouho již to trvá, tedy ne jen to, co je teď, ale i to, co už bylo.)* <br/>
+
+We can use present perfect simple if the fact had been going on very long, therefore we consider it as a permanent fact.
+
+> I **have been living** here for two years. 💡*Bydlím tu teprve krátkou dobu, sám průběhovým časem vyjadřuji, že se
+jedná o kratší dobu.* <br/>
+> 🆚 <br/>
+> I **have lived** here all my life. 💡*Říkám, že tu bydlím od narození, tedy vždy jsem tu bydlel. Nedáváme důraz na dobu
+trvání, ale říkáme spíše to, že to tak bylo vždycky (ne že to teprve nějakou dobu probíhá, prostě to tak je)* <br/>
+
+Sometimes it depends on the point of view of the speaker.
+> I **have been living** here for ten years. <br/>
+> 🆚 <br/>
+> I **have lived** here for ten years. <br/>
+
+We can omit the preposition **for** in the positive sentences.
+
+> The journey lasts **for** two hours. 🔃 The journey lasts two hours. <br/>
+
+##### What caused the current state
+
+We use it for actions that took place (they are not taking place right now) but we can see their outcomes.
+
+> I'm tired because **I've been working** out. 💡*Posiloval jsem a to vedlo k tomu, že jsem teď unavený (i když už
+neposiluji).* <br/>
+> Why are you so dirty? **I've been repairing** my car. 💡*Opět říkáme, že jsem špinavý, protože jsem opravoval auto,
+tedy to opravování auta vedlo k tomu, že jsem teď špinavý.* <br/>
+> It's wet because it's been raining. 💡*Je mokro a vedlo k tomu to, že pršelo (i když už asi neprší). Říkáme však, že
+děj (déšť) vedl k současnému výsledku (mokru).* <br/>
+
+![Present perfect continuous](images/present-perfect-continuous.gif)
+
+##### Emphasis on action, not on result
+
+> **He's cooked** dinner. 💡*Uvařil jídlo.* 🆚 He's been cooking dinner. 💡*Uvařil nebo neuvařil jídlo? Kdo ví...* <br/>
+> **He's fixed** his motorbike. 🆚 **He's been fixing** his motorbike. <br/>
+> **She's painted** the walls. 🆚 **She's been painting** the walls. <br/>
+> **I've repaired** my car. 🆚 I **have been repairing** my car. <br/>
