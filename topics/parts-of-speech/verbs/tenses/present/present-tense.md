@@ -147,6 +147,93 @@ The present perfect tense have the connection with present. Do not use it if the
 > I am going to bed, I got up at 5 today. <br/>
 > Where did you go on holiday this year? 💡*It is winter right now.*<br/>
 
+### Already, yet, etc.
+
+#### Already
+
+💡 dřív, než se čekalo
+
+We use it in the positive sentences when something has happened sooner than we expected.
+
+> Can you please feed the dog? But I've **already** fed her. <br/>
+> What do you want for dinner, pizza or tacos? Nothing, I've **already** eaten. <br/>
+
+Sometimes we can use it event in question, but then it's more of a wonder than a question. We also use the announcing
+word order.
+
+> What? They're **already** here? 💡*Člověk se zhrozil, že jeho návštěva už dorazila a on je přitom očekával až
+později.* <br/>
+> The new R.E.M. album is excellent! What, you've **already** heard it? <br/>
+
+#### Yet
+
+💡 už, ještě ne (něco, co se očekává)
+
+We use it at the end of the questions or negative sentences.
+
+We use it when we are talking about something that is expected of someone, and the sentence then asks whether the person
+has already done the expected thing, or the interviewee reports that they have not yet done it.
+
+> Mark, have you taken out the rubbish **yet**? 💡*Rodiče zřejmě očekávají, že Mark bude vynášet odpadky, proto se ptají,
+jestli už je vynesl, nebo ne.* <br/>
+> Have we paid the phone bill **yet**? 💡*Telefonní účty se mají platit, očekává se, že se budou platit, proto se dotyčný
+ptá, jestli už mají ten účet zaplacený.* <br/>
+> My parents haven't returned **yet**. <br/>
+> I haven't seen the new Harry Potter movie **yet**. 💡*Viděl jsem všechny ostatní díly a očekávám, že shlédnu i ten nový
+film, ještě k tomu ale nedošlo.* <br/>
+> Have you taken out the rubbish? No, not **yet**. <br/>
+
+**Yet** has also other meanings. One of them is 💡*a přesto, a přitom* to express contrast between two things.
+
+> I told him to go away and **yet** he's still here. <br/>
+> Interesting, the room is clean, and yet he was not here. <br/>
+
+#### Still
+
+💡 stále ještě
+
+It is very often used in the negative sentences to express that something has not happened yet. **Still** is used before
+a negative auxiliary verb.
+
+> I **still** haven't found what I'm looking for. 💡*Člověk něco nějakou dobu hledá, ale i přesto to ještě
+nenašel.* <br/>
+> I **still** haven't found the answer. <br/>
+
+We can use it in questions or positive sentences with the present tense.
+
+> The children are **still** at school. 💡*Člověk by čekal, že touto dobou už budou doma, ale nejsou, jsou stále ještě ve
+škole.* <br/>
+> Are you **still** here? <br/>
+
+Compare it with **always** or **keep telling**.
+
+> He's **always** mad at me. 💡*Stále (pořád, neustále, vždy) se na mě zlobí.* <br/>
+> 🆚 <br/>
+> He's **still** mad at me. 💡*Stále ještě se na mě zlobí (ještě nepřestal).* <br/>
+
+> He **keeps telling** me what to do. 💡*Pořád mi říká, co mám dělat.* <br/>
+> 🆚 <br/>
+> He **still** tells me what to do. 💡*Stále ještě mi říká, co mám dělat (dělal to kdysi, a dělá to i nyní, ještě s tím
+nepřestal).* <br/>
+
+#### Ever, never
+
+💡 už někdy, ještě nikdy
+
+**Ever** is often used in questions, but can be used even in positive sentences which express how many times we have
+done something.
+
+> Have you **ever** seen U2 live? <br/>
+> Have you **ever** been to the USA? <br/>
+> This is the first time I've **ever** been snowboarding. <br/>
+
+**Never** is used in negative sentences.
+
+> I've **never** heard about him. <br/>
+> We've **never** met. <br/>
+
+These adverbs can be used in other tenses as well.
+
 ### Examples
 
 #### Have been
