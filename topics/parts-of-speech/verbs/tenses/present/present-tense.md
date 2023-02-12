@@ -102,6 +102,10 @@ See also [performative verbs](/topics/parts-of-speech/verbs/tenses/performative-
 
 ## Present continuous
 
+### Usage
+
+#### Current running events
+
 It indicates the events that are taking place at the moment of speaking.
 
 > Shhh. Mommy is sleeping. <br/>
@@ -118,6 +122,55 @@ seriál Přátelé, ale také to, že mají ten seriál rozkoukaný, tedy jsou n
 > He's going to work by bus this week. <br/>
 > This is her seat. She's sitting here. <br/>
 > What are you drinking? <br/>
+
+#### Non-permanent repeated events
+
+It can also express repeated events which are not permanent.
+
+> I **visit** my parents a lot. 🆚 Now that I'm back, I'm visiting my parents a lot. <br/>
+> He's going jogging twice a day now. 💡*Jen teď dočasně, normálně chodí např. jen jednou týdně.* <br/>
+> She's working night shifts this week. <br/>
+
+Another example of repeated events.
+
+> Every time I stop by, he **makes** me coffee. 💡*Kávu mi udělá, když přijdu* <br/>
+> 🆚 <br/>
+> Every time I stop by, he ****is making**** me coffee. 💡*Kdykoliv přijdu, tak mi zrovna v tu chvíli vaří kávu* <br/>
+
+> Every time I stop by, he's working. <br/>
+> Whenever she looks at him, he is staring at her. <br/>
+> Every time I come to London, it's raining. <br/>
+
+#### Ongoing, long-lasting change
+
+Very often we use double comparative in these sentences (**more and more**, **higher and higher**, **less and less**,
+etc.).
+
+> Although they are on the list of endangered species, their numbers **are** steadily **rising**. <br/>
+> He is getting more and more fluent in English. <br/>
+> People are producing more and more garbage. <br/>
+> The water level was rising higher and higher. <br/>
+> It's a discipline that is constantly evolving. <br/>
+
+#### What bothers us, what is surprising or unexpected
+
+We can use adverbs like **always**, **constantly**, **continually**, **forever**, etc.
+
+> **He's always forgetting** my name. 💡*Neustále zapomíná, jak se jmenuji.* <br/>
+> My parents **are always telling** me what to do! <br/>
+> **I'm always forgetting** my car keys! <br/>
+> He **is constantly making**** inappropriate jokes about women. <br/>
+> **I'm continually tripping** over his stuff that's just lying around on the floor. <br/>
+> The zipper **is forever getting** stuck! 💡*Ten zip se pořád zasekává.* <br/>
+> **She's always giving** me chocolates. 💡*Vždycky mi dává čokoládu bonbony.* <br/>
+
+#### Future
+
+See also [this article](/topics/parts-of-speech/verbs/tenses/future/future-tense.md#present-continuous).
+
+> I'm flying to Egypt next week. 💡*Již máme všechno zařízeno.* <br/>
+> We'll miss the party. We're going to the theatre. 💡*Již máme lístky do divadla.* <br/>
+> I'm taking my driving test next week. Do you have any advice? <br/>
 
 ### Simple 🆚 continuous
 
