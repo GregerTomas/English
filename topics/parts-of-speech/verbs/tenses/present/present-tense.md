@@ -492,3 +492,35 @@ děj (déšť) vedl k současnému výsledku (mokru).* <br/>
 > **He's fixed** his motorbike. 🆚 **He's been fixing** his motorbike. <br/>
 > **She's painted** the walls. 🆚 **She's been painting** the walls. <br/>
 > **I've repaired** my car. 🆚 I **have been repairing** my car. <br/>
+
+#### Negative sentences
+
+We rarely use this tense in negative sentences.
+
+For most cases we prefer the present perfect simple tense. We do not care about the action, we rather say that it did
+not happen even once.
+
+> I have been playing tennis for two years. ➡ I haven't played tennis for two years. <br/>
+
+However, we will use it if we want to contrast the action with another action.
+
+> You have been surfing the net for two hours? No, I **haven't been surfing** the net, I've been doing my
+> homework. <br/>
+> I **haven't been reading** the book for two hours, I have been reading it for two days. <br/>
+
+#### Prepositions
+
+##### Since
+
+If we use **since** in the sentence, it does not mean that the present perfect must be used.
+
+> **Since** you **came** back from school, you've only been watching TV. <br/>
+> It's been ten years **since** I **left** school. <br/>
+
+##### For
+
+If we use **since** in the sentence, it does not mean that the present perfect must be used.
+
+> I **waited** there **for** two hours. <br/>
+> I **have been waiting** here **for** two hours. <br/>
+> I **will wait** there **for** two hours. <br/>
