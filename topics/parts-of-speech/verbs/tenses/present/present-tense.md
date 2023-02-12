@@ -10,6 +10,8 @@ It is most often used where there is a persistent action or regular activity.
 
 We often use adverbs or determinations like **often**, **sometimes**, **never**, **every day**, etc.
 
+![Frequency adverbs](images/frequency-adverbs.jpg)
+
 > I **see** my parents twice a week. <br/>
 > My sister **reads** every day. <br/>
 > I sometimes **work** from home. <br/>
