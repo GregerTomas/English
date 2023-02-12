@@ -40,11 +40,15 @@ It indicates the events that are taking place at the moment of speaking.
 > Are you at work? – No, I'm going home. <br/>
 > We're playing Minecraft. Do you want to play with us? <br/>
 
-It may also be something that is not quite literally happening right now, but only at the moment.
+It may also be something that is not quite literally happening right now, but only at the moment (💡*dočasná činnost*).
 
 > I'm reading The Great Gatsby. 💡*Nemusím teď nutně sedět nad otevřenou knihou, říkám tím, že ji mám rozečtenou.* <br/>
 > He's watching Friends with his wife. 💡*Tato věta sice může znamenat, že teď právě sedí před obrazovkou a sledují
 seriál Přátelé, ale také to, že mají ten seriál rozkoukaný, tedy jsou někde uprostřed.* <br/>
+> I'm reading a great book. <br/>
+> He's going to work by bus this week. <br/>
+> This is her seat. She's sitting here. <br/>
+> What are you drinking? <br/>
 
 ### Simple 🆚 continuous
 
@@ -59,6 +63,6 @@ seriál Přátelé, ale také to, že mají ten seriál rozkoukaný, tedy jsou n
 
 We cannot use a meaning verb alone.
 
-> 🔴 Do you live here? Yes, I live. ➡ 🟢 Yes, I do. <br/>
-> 🔴 Do they work on weekends? Yes, they work. ➡ 🟢 Yes, they do. <br/>
-> 🔴 Does he love you? ➡ 🟢 No, he doesn't. <br/>
+> 🔴 Do you live here? Yes, I live. ➡ 🟢 Yes, **I do**. <br/>
+> 🔴 Does he love you? ➡ 🟢 No, **he doesn't**. <br/>
+> Are you working? Yes, **I am**. <br/>

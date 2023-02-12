@@ -75,11 +75,22 @@ There are verbs which have multiple meaning and can belong to both categories.
 > **We're having** a party on Saturday. <br/>
 > **Are you having** a good time? <br/>
 
+### See
+
+**state** 💡 vidět
+
+> I **see** a tall man. <br/>
+> She **sees** her wallet in his pocket. <br/>
+
+**dynamic** 💡 vídat se s někým, navštěvovat někoho
+
+> **She's seeing** a new boyfriend. 💡*Vídá se s novým púřítelem.* <br/>
+> **I'm seeing** my brother tomorrow. <br/>
+
 ### Some others
 
 | verb   | state                 | dynamic                                  |
 |--------|-----------------------|------------------------------------------|
-| see    | 💡*vidět*             | 💡*vídat se s někým, navštěvovat někoho* |
 | appear | 💡*zdát se, jevit se* | 💡*objective se, vystupovat, účinkovat*  |
 | taste  | 💡*chutnat nějak*     | 💡*chutnat nějak*                        |
 
