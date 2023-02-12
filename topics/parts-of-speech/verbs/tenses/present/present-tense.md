@@ -172,6 +172,32 @@ See also [this article](/topics/parts-of-speech/verbs/tenses/future/future-tense
 > We'll miss the party. We're going to the theatre. 💡*Již máme lístky do divadla.* <br/>
 > I'm taking my driving test next week. Do you have any advice? <br/>
 
+#### Momentary behaviour
+
+We use **be** in the present continuous tense.
+
+> Are you serious? 💡*Myslíte to vážně?* 🆚 Are you being serious? 💡*Děláš si legraci, to myslí vážně?* <br/>
+> Don't mind him. He's an ass. 💡*Nevšímej si ho. Je to blbec.* 🆚 Don't mind him. He's being an ass. 💡*Chová se jak
+blbec (právě teď).* <br/>
+
+We often use it with an adjective.
+
+> He's just **being silly**. <br/>
+> I'm just **being honest** with you. <br/>
+> You're **being too hard** on yourself. <br/>
+> She said she liked my shirt. She was just **being nice**. <br/>
+> He wasn't flirting, he was **being friendly**. <br/>
+> Stop that, you're **being ridiculous**. <br/>
+> Are you **being sarcastic**? <br/>
+> She was **being weird**, don't you think? <br/>
+
+We can also use it with a noun. We express that somebody behaves like we would expect.
+
+> Don't be mad at them. They're just **being kids**. 💡*Děti se chovají jako děti.* <br/>
+> He's just **being John**. 💡*John se chová jako John.* <br/>
+> I'm not pretending anything. I'm **being myself**. 💡*Já se chovám jako já.* <br/>
+> 🔴 ~~I'm being my mother.~~ ➡ 🟢 I'm **acting like** my mother. <br/>
+
 ### Simple 🆚 continuous
 
 > Harry **plays** football. 🆚 Harry **is playing** football. <br/>
@@ -180,6 +206,19 @@ See also [this article](/topics/parts-of-speech/verbs/tenses/future/future-tense
 > She **doesn't work** on weekends. 🆚 She **isn't working**. She's having lunch. <br/>
 > What **do you do**? 🆚 What **are you doing**? <br/>
 > Where **does he go** to school? 🆚 It's 10 o'clock. Where **is he going**? <br/>
+
+### Passive
+
+> The car is serviced every year. 💡*Obecně, pravidelně se něco děje.* <br/>
+> 🆚 <br/>
+> The car is being serviced right now. 💡*Právě se něco děje.* <br/>
+
+> They are renovating the hotel. ➡ The hotel **is being renovated** at the moment.
+> We are working on it. ➡ **It's being worked** on, don't worry.
+> They are unloading it. ➡ The truck **is being unloaded** right now.
+> We are processing it. ➡ Your order **is being processed**.
+> A child was driving it. ➡ The car **was being driven** by a little child!
+> We are making the changes. ➡ The changes **are being made** as we speak.
 
 ## Short answers
 
