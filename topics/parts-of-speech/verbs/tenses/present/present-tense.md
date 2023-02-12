@@ -143,7 +143,7 @@ Another example of repeated events.
 
 #### Ongoing, long-lasting change
 
-Very often we use double comparative in these sentences (**more and more**, **higher and higher**, **less and less**,
+Very often we use a double comparative in these sentences (**more and more**, **higher and higher**, **less and less**,
 etc.).
 
 > Although they are on the list of endangered species, their numbers **are** steadily **rising**. <br/>

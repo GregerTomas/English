@@ -94,3 +94,36 @@ There are verbs which have multiple meaning and can belong to both categories.
 | appear | 💡*zdát se, jevit se* | 💡*objective se, vystupovat, účinkovat*  |
 | taste  | 💡*chutnat nějak*     | 💡*chutnat nějak*                        |
 
+## 🍀 State verbs in continuous tense
+
+There are exceptions when we can use even state verbs in a continuous tense.
+
+### Momentary feeling
+
+> I **love** this song! 💡*Líbí se mi, mám ji rád.* <br/>
+> 🆚 <br/>
+> **I'm loving** this song! 💡*Ta písnička zní úžasně, teď, co ji slyším, si ji moc užívám, právě teď ji vnímám velmi
+pozitivně.* <br/>
+
+> I miss you. 💡*Chybíš mi, stýská se mi.* <br/>
+> 🆚 <br/>
+> I'm missing you. 💡*Je to intenzivní momentální pocit, právě teď to silně vnímám.* <br/>
+
+> I'm loving it. 💡*McDonald's* <br/>
+> **I'm loving** this soup. I could marry this soup! <br/>
+> She yelled at him but he looked as if he **was liking** it. <br/>
+> He knew he'd hit rock bottom and he **wasn't liking** it at all. <br/>
+> When he saw her face, he knew she **was hating** the idea. <br/>
+
+### Something is changing
+
+Very often we use a double comparative in these sentences (**more and more**, **higher and higher**, **less and less**,
+etc.).
+
+> I **was liking** it less and less. <br/>
+> It seems that more and more people **are hating** the way they look. <br/>
+> Fewer and fewer people are believing in God these days. <br/>
+
+See
+also [Ongoing, long-lasting change article](/topics/parts-of-speech/verbs/tenses/present/present-tense.md#ongoing-long-lasting-change)
+.
