@@ -40,7 +40,8 @@ It indicates the events that are taking place at the moment of speaking.
 > Are you at work? – No, I'm going home. <br/>
 > We're playing Minecraft. Do you want to play with us? <br/>
 
-It may also be something that is not quite literally happening right now, but only at the moment (💡*dočasná činnost*).
+It may also be something that is not quite literally happening right now, but only at the moment (💡*dočasná činnost,
+může probíhat přerušovaně*).
 
 > I'm reading The Great Gatsby. 💡*Nemusím teď nutně sedět nad otevřenou knihou, říkám tím, že ji mám rozečtenou.* <br/>
 > He's watching Friends with his wife. 💡*Tato věta sice může znamenat, že teď právě sedí před obrazovkou a sledují
@@ -66,3 +67,19 @@ We cannot use a meaning verb alone.
 > 🔴 Do you live here? Yes, I live. ➡ 🟢 Yes, **I do**. <br/>
 > 🔴 Does he love you? ➡ 🟢 No, **he doesn't**. <br/>
 > Are you working? Yes, **I am**. <br/>
+
+## Present perfect
+
+💡 předpřítomný čas, přítomný čas dokonavý
+
+It is connected with the present, it describes current situation.
+
+Shortcuts, short answers work as usual.
+
+> **We've** met. <br/>
+> **I've** finished. <br/>
+> I **haven't** finished. <br/>
+> He **hasn't** gone out. <br/>
+> Have you seen Jurassic Park? Yes, **I have**. <br/>
+> Has he returned yet? Yes, **he hasn't**. <br/>
+
