@@ -32,6 +32,74 @@ We often use adverbs or determinations like **often**, **sometimes**, **never**,
 > The sun **rises** in the east. <br/>
 > It usually **snows** in winter. <br/>
 
+#### Others
+
+###### Narrative in present tense
+
+See also [this article](/topics/parts-of-speech/verbs/tenses/past/narrative-tenses.md).
+
+We just move the actions from the past to the present. It is mostly used in jokes or summaries of the plot of the book
+or film (for example in a review). The story is then more dramatic, more engaging.
+
+> A man **asks** his wife ... <br/>
+> I **come** home and **see** ... <br/>
+> A boy **meets** a girl who ... <br/>
+> The season finale **leaves** the viewers ... <br/>
+
+###### Sport comments
+
+> Ramos **recovers** the ball and **passes** to Ronaldo, Ronaldo **shoots** ... Goal! <br/>
+> The whistle **goes** and **it's** all over! <br/>
+> Hamilton **pits** and Verstappen **takes** the lead. <br/>
+
+###### Newspaper headlines
+
+Something happened in the past but we use the present tense.
+
+> U.S. **Breaks** Single-Day Record for New Cases <br/>
+> Trump **Claims** Election is Rigged <br/>
+> Pit Bull **Attacks** Girl, Owner Arrested <br/>
+
+###### Caption of illustrations or photographs
+
+We can face both the present nad the past tense.
+
+> Robinson Crusoe **discovers** a footprint. <br/>
+> Passing through the wood, she **encounters** the Wolf. <br/>
+> Passing through the wood, she **encountered** the Wolf. <br/>
+
+##### Instructions and manuals
+
+We can use either imperative or the present simple.
+
+> After turning off the power, **take** a screwdriver and **remove** the top cover. <br/>
+> **Get off** at the second stop and take the subway. <br/>
+
+> After turning off the power, **you take** a screwdriver and **remove** the top cover. <br/>
+> **You get off** at the second stop and then it's a five-minute walk to the hotel. <br/>
+
+##### Future
+
+It is used for fixed future, see also [this article](/topics/parts-of-speech/verbs/tenses/future/future-tense.md).
+
+> The season **ends** on September 30. <br/>
+> The bus **leaves** at 7. Don't be late. <br/>
+> The new supermarket **opens** tomorrow. <br/>
+
+It is also used in conditional and time clauses. see also [time clauses](/topics/subordinate-clauses/time-clauses.md)
+and [conditional clauses](/topics/subordinate-clauses/conditional-clauses.md).
+
+> Call me when you **get there**, okay? <br/>
+> I'll be there for you if you **need** someone to talk to. <br/>
+
+##### Performative verbs
+
+> 🔴 I'm apologizing. ➡ 🟢 I **apologize**. <br/>
+> I **object**, Your Honor! <br/>
+> I absolutely **forbid** it! <br/>
+
+See also [performative verbs](/topics/parts-of-speech/verbs/tenses/performative-verbs.md).
+
 ## Present continuous
 
 It indicates the events that are taking place at the moment of speaking.
