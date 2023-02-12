@@ -8,7 +8,7 @@ It is most often used where there is a persistent action or regular activity.
 
 #### Repeated activity
 
-We often use adverbs like **often**, **sometimes**, **never**, etc.
+We often use adverbs or determinations like **often**, **sometimes**, **never**, **every day**, etc.
 
 > I **see** my parents twice a week. <br/>
 > My sister **reads** every day. <br/>
@@ -52,3 +52,11 @@ seriál Přátelé, ale také to, že mají ten seriál rozkoukaný, tedy jsou n
 > She **doesn't work** on weekends. 🆚 She **isn't working**. She's having lunch. <br/>
 > What **do you do**? 🆚 What **are you doing**? <br/>
 > Where **does he go** to school? 🆚 It's 10 o'clock. Where **is he going**? <br/>
+
+## Short answers
+
+We cannot use a meaning verb alone.
+
+> 🔴 Do you live here? Yes, I live. ➡ 🟢 Yes, I do. <br/>
+> 🔴 Do they work on weekends? Yes, they work. ➡ 🟢 Yes, they do. <br/>
+> 🔴 Does he love you? ➡ 🟢 No, he doesn't. <br/>
