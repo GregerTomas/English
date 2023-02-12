@@ -149,7 +149,20 @@ The present perfect tense have the connection with present. Do not use it if the
 
 ### Examples
 
+#### Have been
+
+💡 odjet, být (a už být zpět)
+
+❗The preposition **to** must be used, the verb describes a movement.
+
+> She **has gone to** Paris. 💡*Odjela do Paříže.* 🆚 She **has been to** Paris twice. 💡*Byla v Paříži dvakrát.* <br/>
+> 🔴 She has been **~~in~~** Paris twice. ➡ 🟢 She has been **to** Paris twice. <br/>
+> Paul's been to the supermarket. <br/>
+> Megan has never been to China. <br/>
+
 #### Have gone
+
+💡 odjet (a stále tam být)
 
 It is connected with a place.
 
