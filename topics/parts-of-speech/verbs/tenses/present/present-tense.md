@@ -146,3 +146,28 @@ The present perfect tense have the connection with present. Do not use it if the
 > We have to go to lunch, I didn't have breakfast today. <br/>
 > I am going to bed, I got up at 5 today. <br/>
 > Where did you go on holiday this year? 💡*It is winter right now.*<br/>
+
+### Examples
+
+#### Have gone
+
+It is connected with a place.
+
+> He's gone home. 💡*Odešel domů.* <br/>
+> Jack's gone to work. 💡*Jack odešel do práce.* <br/>
+> Where has everybody gone? 💡*Kam všichni odešli?* <br/>
+> They've gone to the supermarket. 💡*Šli nakoupit.* <br/>
+> I've gone to London. 💡*Odjel jsem do Londýna (a ještě tam jsem).* <br/>
+> She has gone to bed. <br/>
+
+#### Be gone
+
+💡 být pryč
+
+**Gone** is here a simple adjective.
+
+> He is gone. 💡*Je pryč.* <br/>
+> He has gone home. 💡*Odešel domů.* <br/>
+> I don't know where Steve is. He's gone. <br/>
+> The cookies are gone. Have you eaten them? <br/>
+> When we arrived, everybody was gone. <br/>
