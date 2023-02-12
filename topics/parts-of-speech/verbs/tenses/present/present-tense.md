@@ -102,3 +102,47 @@ etc. We are simply expressing the change.
 > He **quit** his job yesterday. <br/>
 > He **quit** because of his boss. <br/>
 > He **quit** before his boss could fire him. <br/>
+
+#### Experience gained so far
+
+💡 něco se již stalo nebo naopak ještě nestalo
+
+> **Did you watch** Forrest Gump last night? Yes, I **did**. <br/>
+> 🆚 <br/>
+> **Have you seen** Forrest Gump? Yes, I **have**. <br/>
+
+We often use adverbs **ever**, **never**, **before** (at the end of the sentence), **yet** or **already**.
+
+> Have you **ever** been to Spain? <br/>
+> Has your dad **ever** forgotten your birthday? <br/>
+> I've **never** ridden a horse. <br/>
+> Her boyfriend has **never** cooked for her. <br/>
+> I think I've seen this film **before**. <br/>
+> I think I know you. Have we met **before**? 💡*Není to poprvé, co ho vidím.* <br/>
+> I've **never** had sushi **before**. 💡*Toto je poprvé, ještě nikdy předtím jsem ho neměl.* <br/>
+
+**Yet** is used at the end of the **question** or **negative sentence**. We use it for events which are expected to
+happen.
+
+> Have you done your homework yet? 💡*Od dotyčného se očekává, že domácí úkoly udělá. Ptáme se, jestli už se tak
+stalo.* <br/>
+> Have they fixed the elevator yet? 💡*Čekáme, že by ho teď někdy měli opravit.* <br/>
+> I haven't done the dishes yet. 💡*Od dotyčného se to očekává, ale ještě se to nestalo.* <br/>
+
+#### Current "score"
+
+> It **was** a good match. We scored three goals. 🆚 **We've scored** two goals **so far**. <br/>
+> I had five cups of coffee yesterday. 🆚 **I've had** three cups of coffee today. <br/>
+> In his life, he visited London many times. 💡*Již nežije.* 🆚 **He's been** to London five times. <br/>
+> Oscar Wilde only wrote one novel. 💡*Již nežije.* 🆚 Andy Weir has written several novels. 💡*Stále žije.* <br/>
+> **I've read** ten books this year. <br/>
+> **I've seen** this movie about twenty times. <br/>
+> I have driven a car 3 times in my life. <br/>
+
+#### Summary
+
+The present perfect tense have the connection with present. Do not use it if the actions finished in the past.
+
+> We have to go to lunch, I didn't have breakfast today. <br/>
+> I am going to bed, I got up at 5 today. <br/>
+> Where did you go on holiday this year? 💡*It is winter right now.*<br/>
