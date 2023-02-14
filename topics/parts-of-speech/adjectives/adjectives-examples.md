@@ -195,3 +195,100 @@ See also [the adverb little](/topics/parts-of-speech/adverbs/adverbs-examples.md
 | little 💡*adjective - malý*           | smaller (rather than littler) | smallest (rather than littlest) |
 | little 💡*adjective - málo podstatný* | lesser                        | least                           |
 | little 💡*adverb, numeric, pronoun*	  | less                          | least                           |
+
+## Worth
+
+❗It is not a verb.
+
+### 💡 Mít (finanční) hodnotu
+
+> **to be worth** 💡*mít hodnotu* <br/>
+> **it is worth sth** 💡*má to nějakou hodnotu* <br/>
+
+> I bought this watch for 50 dollars, but it **is worth** 500 dollars. <br/>
+> **Is** the watch really **worth** 500 dollars? <br/>
+> My house **was worth** 200 000 pounds, but I had to sell it for much less. <br/>
+> It **is worth** nothing to him. <br/>
+> It **isn't worth** anything to him. <br/>
+> How much **is** it **worth**? <br/>
+> This car **is worth** 10,000 pounds. <br/>
+> This **is** a car **worth** 10,000 pounds. <br/>
+
+### 💡 Stát za to / něco
+
+> **to be worth** 💡*stát (za něco)* <br/>
+> **it is worth sth** 💡*stojí to za něco* <br/>
+> **it is worth it** 💡*stojí to za to* <br/>
+
+> How was the party? Was it worth it? <br/>
+> The exhibition wasn't so good. It really wasn't worth it. <br/>
+> It is worth the effort. <br/>
+> It wasn't worth the extra cost. <br/>
+> Was it worth the risk? <br/>
+> This issue is worth our attention. <br/>
+> The show is not worth our time at all. <br/>
+> The new paintings in the gallery are really worth seeing. <br/>
+> There is nothing worth reading in the magazine. <br/>
+> The museum is worth a visit. <br/>
+> He is worth listening to. 🔃 It is worth listening to him. <br/>
+> The book isn't worth buying. 🔃 It isn't worth buying the book. <br/>
+
+We can use the gerund after it.
+
+> 🔴 It is worth **~~wait / to wait~~**. ➡ 🟢 It is worth **waiting**. <br/>
+> It's worth **noticing**. <br/>
+> It's worth **remembering**. <br/>
+> It isn't worth **mentioning**. <br/>
+> It was worth **waiting** for them. <br/>
+> It won't be worth **doing** it. <br/>
+> Is it worth **going** to the exhibition? <br/>
+> Was it worth **paying** such a price? <br/>
+
+### For what it's worth
+
+💡 jestli tě to zajímá, tak já si myslím, že ..., možná můj názor za nic nestojí, ale ...
+
+We use it if we are not sure whether our information will be useful or not.
+
+> **For what it's worth**, I think he may be right. <br/>
+> I really liked it, **for what it's worth**. <br/>
+> **For what it's worth**, I'm on your side. <br/>
+
+### Derived words
+
+**worthless** 💡*bezcenný*
+
+> The jewel is a **worthless** fake. <br/>
+> It is **worthless** to me. <br/>
+
+📚 **worthy** 💡*úctyhodný, vážený, ctihodný, hodnotný, zasloužilý*
+
+> This **is** a **worthy** book. <br/>
+
+📚 **be worthy of sth** 💡*zasloužit si (něco)*
+
+> This article **is** especially **worthy of** notice. <br/>
+
+**trustworthy** 💡*důvěryhodný*
+
+> Some people don't find him **trustworthy**. <br/>
+
+**worthwhile** 💡*přínosný, prospěšný, mající smysl*
+
+> It's a **worthwhile** book. <br/>
+> The journey was **worthwhile**. <br/>
+> It was **worthwhile** to talk / talking about it. <br/>
+
+**be worth sb's while (doing / to do sth)** 💡*vyplatit se*
+
+> It's **worth your while** to wait here a bit longer. <br/>
+> It isn't **worth my while** coming to the meeting. <br/>
+> I'll make it **worth your while**. <br/>
+
+**worth** 💡*hodnota, cena*
+
+> The house increased in **worth**. <br/>
+> I know my **worth**. <br/>
+> He proved his **worth**. <br/>
+> They bought two hundred pounds' **worth** of equipment. <br/>
+> There's about a week's **worth** of work left. <br/>
