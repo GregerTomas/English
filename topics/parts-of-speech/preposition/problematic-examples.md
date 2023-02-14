@@ -359,3 +359,49 @@ tool which was used to do something.
 > The door was unlocked with a bobby pin. <br/>
 > The victim was hit with a blunt object. <br/>
 > The car window was broken with a rock. <br/>
+
+## Because of
+
+💡 kvůli
+
+> It all happened **because of** you. <br/>
+> **Because of** his injury, he withdrew from the race. <br/>
+> He had a strong lisp **because of** his braces. <br/>
+
+## Thanks to
+
+💡 kvůli (něčemu dobrému), díky něčemu
+
+> The cyclist survived **thanks to** his helmet. <br/>
+> **Thanks to** your generous donation, we can rebuild the library. <br/>
+
+We do not use it in a negative context, but we do in an ironing context.
+
+> 🔴 The trip was canceled thanks to bad weather. <br/>
+> We lost **thanks to** your incompetence. <br/>
+> **Thanks to** you and your stupid prank, I spent the evening mopping the floor. <br/>
+
+## Due to
+
+💡 kvůli
+
+We use it in a neutral or negative context.
+
+> The trip was canceled **due to** bad weather. <br/>
+> My coach was an hour late **due to** an accident on the M1. <br/>
+> He was expelled from the academy **due to** his misbehavior. <br/>
+
+## ✏ On account of
+
+💡 kvůli
+
+> **On account of** recent heavy rains, the river has been temporarily closed to recreation. <br/>
+> Many animals died **on account of** the drought. <br/>
+
+**on somebody's account** 💡*kvůli někomu*
+
+> Don't do it **on my account**. <br/>
+
+**on no account** 💡*v žádném případě*
+
+> **On no account** should you try to do this at home. <br/>
