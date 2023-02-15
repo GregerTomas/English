@@ -413,3 +413,68 @@ In this meaning, we use together with verbs like **look** and **be**.
 > She **looks like** Lara Croft. <br/>
 > **He's like** his father, tall, smart and handsome. <br/>
 > I want to **be** less **like** me and more **like** you. <br/>
+
+## Like 🆚 as
+
+> **like** - If something resembles (looks like) something else. <br/>
+> **as** - If we speak about actual function. <br/>
+
+> like a child 💡*podobající se dítěti (např. chováním)*
+> 🆚 <br/>
+> as a child 💡*když byl dítě, v dětství* <br/>
+
+> like your father 💡*jako tvůj táta (podobně jako on)*
+> 🆚 <br/>
+> as your father 💡*jako tvůj táta (např. ti radím ... – já jsem tvůj táta)* <br/>
+
+> He looks **like** his father. <br/>
+> He eats **like** a pig. <br/>
+> You act **like** a child. <br/>
+> He works **like** a dog. <br/>
+> **As** a child, I was very naughty. 💡*Když já jsem byl dítě (já = dítě).* <br/>
+> He works **as** a teacher. 💡*On je učitel (on = učitel).* <br/>
+> I got it **as** a gift. 💡*Byl to dárek (to = dárek).* <br/>
+> You can use the knife **as** a screwdriver. 💡*Nůž má funkci šroubováku (nůž = šroubovák).* <br/>
+
+### Comparison
+
+See also [Comparison and prepositions article](/topics/parts-of-speech/preposition/comparison-and-prepositions.md).
+
+> He's **as** tall **as** me. 💡*Jsme stejně vysocí.* <br/>
+> 🆚 <br/>
+> He's tall, **like** me. 💡*Oba dva jsme vysocí, ale nemusíme být stejně vysocí.* <br/>
+
+> I'm not **as** good **as** she is. <br/>
+> Read the text **as** quickly **as** possible. <br/>
+> He can speak English very well, just like his father. <br/>
+
+### For example
+
+We can use **like** (less formal) or **such as**.
+
+> I like sci-fi movies **like** Terminator, Alien etc. <br/>
+> 🆚 <br/>
+> I've been to many European countries, **such as** Austria, Germany or Switzerland. <br/>
+
+> I've been to many European countries, **like** Austria, Germany or Switzerland. <br/>
+> 🆚 <br/>
+> I like sci-fi movies **such as** Terminator, Alien etc. <br/>
+
+### 💡 Vypadá jako ...
+
+**adjective follows** - We do not use a preposition.
+
+> It **looks** nice. <br/>
+> The book **looks** interesting. <br/>
+
+**noun follows** - We use the preposition **like**.
+
+> He **looks like** an intelligent person. <br/>
+> It **looks like** an interesting book. <br/>
+> It **sounds like** a good idea. <br/>
+
+### The same as
+
+> 🔴 Their house is exactly the same **~~like~~** ours. ➡ 🟢 Their house is exactly **the same as** ours. <br/>
+> You're **the same as** your father. A fun guy but very lazy. <br/>
+> She bought **the same** dress **as** me and wore it to the party. <br/>

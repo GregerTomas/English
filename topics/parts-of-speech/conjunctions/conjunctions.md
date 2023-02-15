@@ -314,3 +314,19 @@ Most often it is used in the following phrases.
 It is similar to the conjunction **and**.
 > There were many sweet as well as savoury dishes. <br/>
 > She invited her mother as well as her sister. ➡ She invited her mother and her sister. <br/>
+
+## Like 🆚 as
+
+### 💡 Jako já, jako on ...
+
+**As** is formal and **like** rather informal.
+
+> In Britain people don't eat carp at Christmas, **like/as** we do in our country. <br/>
+> No-one understands math **like/as** he does. <br/>
+
+### 💡 Vypadá jako ...
+
+We use **as if** (formal) or like (informal).
+
+> He looks **as if** he knew everything. <br/>
+> It looks **as if** it is an interesting book. <br/>
