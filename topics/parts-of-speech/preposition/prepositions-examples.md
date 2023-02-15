@@ -1,4 +1,4 @@
-# Verb examples with prepositions
+# Prepositions - examples
 
 ## Go
 
@@ -405,3 +405,11 @@ We use it in a neutral or negative context.
 **on no account** 💡*v žádném případě*
 
 > **On no account** should you try to do this at home. <br/>
+
+## Like (💡 podobný)
+
+In this meaning, we use together with verbs like **look** and **be**.
+
+> She **looks like** Lara Croft. <br/>
+> **He's like** his father, tall, smart and handsome. <br/>
+> I want to **be** less **like** me and more **like** you. <br/>

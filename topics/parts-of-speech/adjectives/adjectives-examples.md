@@ -292,3 +292,83 @@ We use it if we are not sure whether our information will be useful or not.
 > He proved his **worth**. <br/>
 > They bought two hundred pounds' **worth** of equipment. <br/>
 > There's about a week's **worth** of work left. <br/>
+
+## Same
+
+💡 adjective / adverb
+
+We use it with the definite article and with the preposition **as**, if a subordinate clause follows it, we use **that**
+.
+
+> The cars look **the same**. <br/>
+> He told me **the same** thing. <br/>
+
+> His answer was **the same as** mine. <br/>
+> Game developers think that buying used computer games is **the same as** piracy. <br/>
+> What are you doing tonight? **The same as** last night. Study. <br/>
+> The second verse is **the same as** the first. <br/>
+
+> He gave me **the same** answer **that** he gave the police.
+> The food is **the same that** you can get at a fast food chain.
+
+We can emphasise it with **exactly** or **very**
+
+> They look **exactly the same**. <br/>
+> He told me **exactly the same** thing. <br/>
+> He gave me **the very same** answer that he gave you. <br/>
+
+In spoken English, we can meet following phrases.
+
+> He told me **the exact same** thing. <br/>
+> He told me **pretty much the same** thing. <br/>
+
+## Identical
+
+💡 exactly the same
+
+We use with the preposition **too**.
+
+> They look **identical**. <br/>
+> They are **identical** twins. <br/>
+> Your sweater is **identical** to mine. <br/>
+
+## Alike
+
+💡 podobný, adjective / adverb
+
+It stands after a verb.
+
+> 🔴 I saw two **~~alike~~** children. ➡ 🟢 I saw two children who looked **alike**. <br/>
+> They are so much **alike**. <br/>
+> They are twins but they don't look alike. They like to dress **alike**, though. <br/>
+
+## Similar
+
+💡 podobný
+
+We use the preposition **to** with it.
+
+> 🔴 ~~His car is similar as mine.~~ <br/>
+> 🔴 ~~His car is similar like mine.~~ <br/>
+> His car is **similar to** mine. <br/>
+> MySpace is a social network **similar to** Facebook. <br/>
+
+## Resemble
+
+💡 podobat se, vypadat jako
+
+> The cloud **resembled** a giant brain. 🔃 The cloud **looked lke** a giant brain. <br/>
+
+## Different
+
+💡 jiný, rozdílný, odlišný
+
+We can use the prepositions **from**, **to** (*British English*), **than** (*American English*).
+
+> Your hair looks **different**. What have you done to it? <br/>
+> The Vampire Diaries is **quite different** from the Twilight Saga. <br/>
+
+> Jack was different **from** other kids. <br/>
+> Jack was different **to** other kids. 💡*British English* <br/>
+> Jack was different **than** other kids. 💡*American English* <br/>
+
