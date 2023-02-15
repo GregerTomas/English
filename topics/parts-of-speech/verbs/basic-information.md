@@ -1,6 +1,8 @@
 # Basic information
 
-## Finite 🆚 non-finite forms
+## Verbs
+
+### Finite 🆚 non-finite forms
 
 **finite forms**
 These forms can form a sentence by themselves.
@@ -17,13 +19,13 @@ Such forms cannot form a sentence by themselves.
 > going - **present participle** <br/>
 > gone - **past participle** <br/>
 
-## Tense
+### Tense
 
 English has only two tenses, **present** and **past** tense. Future time is expressed by the present tense (auxiliary
 verb will, be
 going to, present simple or present continuous).
 
-## Aspect
+### Aspect
 
 💡 vid (dokonavý, nedokonavý)
 
@@ -57,7 +59,7 @@ going to, present simple or present continuous).
 > **past perfect progressive** – I had been going <br/>
 > **perfect progressive infinitive** – (to) have been going, I'll have been going <br/>
 
-## Mood
+### Mood
 
 💡 způsob
 
@@ -66,9 +68,15 @@ going to, present simple or present continuous).
 > **imperative** 💡*rozkazovací* – Come here. <br/>
 > **subjunctive** 💡*spojovací* – I wish I were an angel. <br/>
 
-## Voice
+### Voice
 
 💡 rod
 
 > active voice 💡*činný rod* – He made it. They found him. <br/>
 > passive voice 💡*trpný rod* – It was made. He was found. <br/>
+
+## Perfect tenses
+
+💡 dokonavé časy
+
+It expresses that something has already happened (now, at some point in the future, at some point in the past).
